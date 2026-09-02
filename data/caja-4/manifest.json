@@ -52,9 +52,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "O / >X / O / ca / ui / 5 / Q / O / 7) / 72) / S / O / DE LA REGIÓN / JALISCO / tu / Q / O / 7.) / UT] / ys / x<",
-      "titulo": "DE LA REGIÓN JALISCO",
-      "titulo_confianza": 96.0
+      "texto_ocr": "CAROLYN BAUS DE CZITROM / tonallan 450 / GREE / DOS TECUEXES GRUPOS Y COCAS 112 / DE LA REGION COLECCION / JALISCO CIENTIFICA / EN EL SIGLO XVI etnohistoria",
+      "titulo": "tonallan 450",
+      "titulo_confianza": 76.0
     },
     {
       "indice": 2,
@@ -63,9 +63,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "THIRD EDITION / TOP NOTCH / JOAN SASLOW / ALLEN ASCHER / ALWAYS LEARNING PEARSON",
-      "titulo": "TOP NOTCH",
-      "titulo_confianza": 89.5
+      "texto_ocr": "THIRD EDITION / TOP NOTCH 1 / JOAN SASLOW / A1 A2 / ALLEN ASCHER / ALWAYS LEARNING PEARSON",
+      "titulo": "TOP NOTCH 1",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 3,
@@ -74,9 +74,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "THIRD EDITION / TOP NOTCH 1 / WORKBOOK / JOAN SASLOW / ALLEN ASCHER / ALWAYS LEARNING / PEARSON",
+      "titulo": "TOP NOTCH 1",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 4,
@@ -85,9 +85,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "e / q / [a4 / 2) / SAN MIGUEL DE ALLENDE",
-      "titulo": "SAN MIGUEL DE ALLENDE",
-      "titulo_confianza": 93.0
+      "texto_ocr": "MEMORIAS / SAN MIGUEL DE ALLENDE / CRUCE DE CAMINOS / I EL PASADO / II EL PRESENTE",
+      "titulo": "CRUCE DE CAMINOS",
+      "titulo_confianza": 94.6
     },
     {
       "indice": 5,
@@ -96,9 +96,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "PELIGROS / CURVAS / A / AITENA / Sudamericana Lumen",
+      "titulo": "PELIGROS CURVAS",
+      "titulo_confianza": 99.2
     },
     {
       "indice": 6,
@@ -107,9 +107,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "NEW InCer Change / Jack C. Richards / with Jonathan Hull and Susan Proctor / CAMBRIDGE / UNIVERSITY PRESS",
-      "titulo": "Jack C. Richards",
-      "titulo_confianza": 92.0
+      "texto_ocr": "new English for international interchange communication / Jack C. Richards / with Jonathan Hull and Susan Proctor / 1 CAMBRIDGE / UNIVERSITY PRESS",
+      "titulo": "1 CAMBRIDGE",
+      "titulo_confianza": 97.6
     },
     {
       "indice": 7,
@@ -118,9 +118,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "SONIA LOMBARDO +ENRIQUENALDA / COORDINADORES / BALA / MESOAMERICANOS / ve reece 5 NT we / 1 AOS Y q 297: aC / E Do a Xx / SO 7 / COLECCIÓN OBRA DIVERSA",
-      "titulo": "MESOAMERICANOS",
-      "titulo_confianza": 92.0
+      "texto_ocr": "SONIA LOMBARDO ENRIQUENALDA / COORDINADORES / TEMAS / MESOAMERICANOS / Q / COLECCIÓN OBRA DIVERSA",
+      "titulo": "TEMAS",
+      "titulo_confianza": 96.2
     },
     {
       "indice": 8,
@@ -129,9 +129,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "OFRENDAS FUNERARIAS / DE CHUPICUARO, GUANAJUATO / DOLORES FLORES / CATALOGO DE LAS COLECCIONES ARQUEOLOGICAS DEL MUSEO NACIONAL DE ANTROPOLOGIA",
-      "titulo": "OFRENDAS FUNERARIAS DE CHUPICUARO, GUANAJUATO",
-      "titulo_confianza": 94.5
+      "texto_ocr": "OFRENDAS FUNERARIAS / DE CHUPICUARO GUANAJUATO / DOLORES FLORES / 7327 / CATALOGO DE LAS COLECCIONES ARQUEOLOGICAS DEL MUSEO NACIONAL DE ANTROPOLOGIA",
+      "titulo": "OFRENDAS FUNERARIAS DE CHUPICUARO GUANAJUATO",
+      "titulo_confianza": 93.2
     },
     {
       "indice": 9,
@@ -140,9 +140,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGÍ / Segunda época Jost / Edición de aniversario / ARQUEOLOGÍA / Da / ARQUEOLOGÍA ANQUIOLOGÍA, / A / a / ARQUUOLOGÍA ARQUIOLOGÍA ¡mgEmDLoOA MOctoLodA ARQUEOLOGÍA / 16 / a a é / ARQUEOLOGÍA ¡grEDLOS A orroLocía / ACOUTOLOGÍA / A / A / El desarrollo cultural en el norte del valle poblano Un modelo de evolución / social y cultural del México precolombino Estudios estratigráficos en Acozac / Proyecto arqueológico Huaxteca Lapidaria en el estado de Guerrero / Oscilación de la frontera norte mesoamericana e Arqueología de la presa / de Chicoasén, Chiapas Huapalcalco y las tradiciones alfareras del Epiclásico / El desarrollo prehispánico de la bahía de Chetumal / Algo sobre los papeles viejos de Palenque",
-      "titulo": "ARQUEOLOGÍ",
-      "titulo_confianza": 89.0
+      "texto_ocr": "ARQUEOLOGÍA Revista de la Coordinación Nacional de Arqueología 55 Agosto 2018 / Edición de aniversario / ARQUEOLOGIA / ARQUEOLOGIA / ARQUEOLOGIA ARQUEOLOGIA ARQUEOLOGÍA ARQUEOLOGÍA ARQUEOLOGIA ARQUEOLOG ARQUEOLOGIA 30 LOGIA QUEOLOGIA ARQUEO LOGIA ARQUEOLOGIA ARQUEOLOGIA ARQUEOLOGIA 517 ARQUEOLOGÍA / 40 31 ARQUEOLOGÍA ARQUEOLOGIA / 19 / años / social de El Oscilación Chicoasén desarrollo Proyecto y cultural de El arqueológico cultural Chiapas del desarrollo la Algo frontera México en sobre Huapalcalco el prehispánico precolombino norte Huaxteca norte los papeles mesoamericana del y valle las Lapidaria de viejos tradiciones poblano la Estudios bahía de en Palenque de Arqueología estratigráficos el Un alfareras estado Chetumal modelo de del de de Guerrero Epiclásico en evolución la Acozac presa",
+      "titulo": "años",
+      "titulo_confianza": 90.8
     },
     {
       "indice": 10,
@@ -151,9 +151,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "A PEO DICIEMBRE 1998 / Revista de la Cc ión Nacional de A del Instituto ional de Antropología e Historia / Áreas de actividad en unidades domésticas / del Formativo terminal en Tetimpa, Puebla / El Valle del Mezquital. / Encrucijadas en la historia de los asentamientos / humanos en un espacio discontinuo / La periferia en la continuidad y el colapso. / Los asentamientos del periodo Clásico en el / occidente del Valle del Mezquital / El culto al lugar central. Posibilidades en torno / a un problema arqueológico / Hualtepec, Nonohualcatepec y Cohuatepec. / Lecturas a un cerro mítico / Estela 1 o de El Rey del sitio de Dos / Caobas, Chiapas / Estudio arqueobiológico de los sedimientos 2 / del subsuelo en el edificio Real Seminario u / de Minas, 1772, México, D.F. / Nacionalismo y arqueología: / del Viejo al Nuevo Mundo / Tendencias teóricas / en la arqueología europe / Reseñas / Noticias / Noticias de reuniones",
-      "titulo": "Revista de la Cc ión Nacional de A del Instituto ional de Antropología e Historia",
-      "titulo_confianza": 96.0
+      "texto_ocr": "ARQUEOLOGÍA 20 / SEGUNDA ÉPOCA JULIO DICIEMBRE 1998 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / Áreas de actividad en unidades domésticas / del Formativo terminal en Tetimpa Puebla / El Valle del Mezquital / Encrucijadas en la historia de los asentamientos / humanos en un espacio discontinuo / La periferia en la continuidad y el colapso / Los asentamientos del periodo Clásico en el / occidente del Valle del Mezquital / El culto al lugar central Posibilidades en torno / a un problema arqueológico / Hualtepec Nonohualcatepec y Cohuatepec / Lecturas a un cerro mítico / Estela 1 o de El Rey del sitio de Dos / Caobas Chiapas / Estudio arqueobiológico de los sedimientos / del subsuelo en el edificio Real Seminario / de Minas 1772 México D.F. / Nacionalismo y arqueología / del Viejo al Nuevo Mundo / Tendencias teóricas / en la arqueología europea / Noticias Reseñas R / Noticias de reuniones",
+      "titulo": "ARQUEOLOGÍA 20",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 11,
@@ -162,9 +162,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "REVISTA DE LA COORDINACIÓN NACIONAL DE ARQUEOLOGÍA / ARQUEOLOGÍA / EGUNDA É SEPTIEMBRE DE L / Patrón de asentamiento / “a / piehispdnicos en la cuenca baja / del río Baluarte / om / Cosmogonta compartida en la costa / sinaloense y el valle de Guadiana / Pañaje ritual en el valle / de Unión de Tula / Revisión de la interacción / Aztatlán-Chalehibuites / Irqueologta y paisaje agrado / en Atla y Xolotla, Pahuarlán / Sierra Norte de Puebla / Los popoloca: ¿un solo pueblo / El Museo Comunitario / ba / de Tenochtitlán / Representacione zoomorfas en la / cerámica Yestla-Naranjo de Guerrero / Contaminación multielemental / de metales pesados a finales del / Clásico en la Sierra Gorda / Resolución acústica en edificaciones / de Yucatán y hiapas / Estudios arquevastronómicos / en El Castillo de Chichén Ih",
-      "titulo": "ARQUEOLOGÍA",
-      "titulo_confianza": 96.0
+      "texto_ocr": "REVISTA DE LA COORDINACIÓN NACIONAL DE ARQUEOLOGIA / ARQUEOLOGÍA SEGUNDA ÉPOCA SEPTIEMBRE DE 2017 / 54 prehispánicos Patrón en de del la asentamientos río cuenca Baluarte baja / Cosmogonía compartida en la costa / sinaloense y el valle de Guadiana / Paisaje ritual en el valle / de Unión de Tula / Revisión de la interacción / Aztatlán Chalchihuites / Arqueología y paisaje sagrado / en Atla y Xolotla Pahuatlán / Sierra Norte de Puebla / Los popoloca un solo pueblo / El Museo Comunitario / de Tenochtitlán / Representaciones zoomorfas en la / cerámica Yestla Naranjo de Guerrero / Contaminación multielemental / de metales pesados a finales del / Clásico en la Sierra Gorda / Resolución acústica en edificaciones / de Yucatán y Chiapas / Estudios arqueoastronómicos / en El Castillo de Chichén Itzá",
+      "titulo": "REVISTA DE LA COORDINACIÓN NACIONAL DE ARQUEOLOGIA",
+      "titulo_confianza": 98.2
     },
     {
       "indice": 12,
@@ -173,9 +173,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de / la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Los artefactos multiperforados de ilmenita en San Lorenzo / La Yerbabuena, Veracruz: un monumento olmeca / en la región de Pico de Orizaba / Llano del Jícaro. Un taller de monumentos olmeca / Xochitécatl, Tlaxcala, en el periodo Formativo (800 a.C. 100 d.C.) / Los cuatro tiempos de la tradición Chupícuaro / Análisis de objetos de ha de Rancho Ina, Quintana Roo / Investigaciones arqueológicas en “El Japón”: / sitio chinampero en Xochimilco / “El Japón”, Xochimilco: análisis arqueozoológico / de un sitio en la época de la Conquista / Algunos artefactos cerámicos de Tlatilco, Estado de México / Entrevista a Colin Renfrew / José Luis Lorenzo Bautista (1921-1996) / 16 / JULIO-DICIEMBRE 1996",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Los artefactos multiperforados de ilmenita en San Lorenzo / La Yerbabuena Veracruz un monumento olmeca / en la región de Pico de Orizaba / Llano del Jícaro Un taller de monumentos olmeca / Xochitécatl Tlaxcala en el periodo Formativo 800 a.C. 100 d.C. / Los cuatro tiempos de la tradición Chupícuaro / Análisis de objetos de concha de Rancho Ina Quintana Roo / Investigaciones arqueológicas en El Japón / sitio chinampero en Xochimilco / El Japón Xochimilco análisis arqueozoológico / de un sitio en la época de la Conquista / Algunos artefactos cerámicos de Tlatilco Estado de México / Entrevista a Colin Renfrew / José Luis Lorenzo Bautista 1921-1996 / 16 / JULIO DICIEMBRE 1996",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 90.0
+      "titulo_confianza": 95.4
     },
     {
       "indice": 13,
@@ -184,9 +184,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "I / ARQUEOLOGIA / Revista de la Coordinación Nacional de Arqueol / gía del Instítuto Nacional de Antropología e Historia Segunda época / Filo-Bobos / Áreas culturales de la costa del Golfo durante el Postclasico / Introducción a la alfarería del Postclásico en La Mixtequilla, sur-centro de Veracruz / La cerámica del Clásico tardío y el Postclasico en la sierra de los Tuxtlas / Tipología y arqueometría de la cerámica de Tajín, Veracruz / La cerámica arqueológica de Serafín, Veracruz / La cerámica arqueológica de Vega de la Peña, Veracruz / La cerámica postclasica de la cuenca baja del Jamapa-Cotaxtla / La cerámica de Loma Iguana, Veracruz / Cerámica de Zempoala, Veracruz / Cholula y su cerámica Postclasica: algunas perspectivas / La cerámica Lisa cholulteca / Iconografía de las copas policromas cholultecas / 13-14 / ENERO-DICIEMBRE 1995",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Filo Bobos / Áreas culturales de la costa del Golfo durante el Postclásico / Introducción a la alfarería del Postclásico en La Mixtequilla sur centro de Veracruz / La cerámica del Clásico tardío y el Postclásico en la sierra de los Tuxtlas / Tipología y arqueometría de la cerámica de Tajín Veracruz / La cerámica arqueológica de Serafín Veracruz / La cerámica arqueológica de Vega de la Peña Veracruz / La cerámica postclásica de la cuenca baja del Jamapa Cotaxtla / La cerámica de Loma Iguana Veracruz / Cerámica de Zempoala Veracruz / Cholula y su cerámica postclásica algunas perspectivas / La cerámica Lisa cholulteca / Iconografía de las copas policromas cholultecas / 13-14 / ENERO DICIEMBRE 1995",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 66.0
+      "titulo_confianza": 97.2
     },
     {
       "indice": 14,
@@ -195,9 +195,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de la Coordinación Nacional de A q gía del Instit / Nacional de Antropología e Historia Segunda época / Identificación y análisis de restos animales procedentes de excavaciones en San Luis Potosí / Un sistema de enterramiento con ofrendas múltiples de la región central de Veracruz / El agua, la tierra, el bosque y el hombre en el Alto Lerma / Cuetlajuchitlan / Arqueobotánica de Corral de Piedra, San Cristóbal de las Casas, Chiapas / Investigaciones en Punta Venado y La Rosita, Quintana Roo / Los derechos de agua de Tlatelolco durante los siglos xv y xvi / Revisión de la arqueología de la ciudad de México / Sitios arqueológicos del área oriental de la Cuenca de México / Estructura prehispánica en un patio mariano de Palacio Nacional / Arqueología del Eje Central de la ciudad de México / 11-12 / ENERO-DICIEMBRE 1994",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / FARM / BALLERY / Identificación y análisis de restos animales procedentes de excavaciones en San Luis Potosí / Un sistema de enterramiento con ofrendas múltiples de la región central de Veracruz / El agua la tierra el bosque y el hombre en el Alto Lerma / Cuetlajuchitlan / Arqueobotánica de Corral de Piedra San Cristóbal de las Casas Chiapas / Investigaciones en Punta Venado y La Rosita Quintana Roo / Los derechos de agua de Tlatelolco durante los siglos XV y XVI / Revisión de la arqueología de la ciudad de México / Sitios arqueológicos del área oriental de la Cuenca de México / Estructura prehispánica en un patio mariano de Palacio Nacional / Arqueología del Eje Central de la ciudad de México / 11-12 / ENERO DICIEMBRE 1994",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 68.0
+      "titulo_confianza": 96.7
     },
     {
       "indice": 15,
@@ -206,9 +206,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de la C inación Nacional de Arqueol del Instituto Nacional de Antropología e Historia Segunda época / Esquema crono-cultural del poblamiento prehistórico de las sierras centrales de la península o / de Baja California / Peces lados aunai igación arqueológica en Sonora / Las investigaciones arqueológicas en El Sabinito, municipio de Soto la Marina, Tamaulipas / Rescate y lidación de la zona arqueológica de Las Flores en Tampico, Tamaulipas / La cronología de El Opeño, Michoacán: nuevos fechamientos por radio-carbono / Cerámica de la región A ilco-Arandas, Altos de Jali / El problema cronológico del Tajín / Dos sitios preclásicos en la Selva Lacandona, Chiapas / Estudio de moluscos encontrados en contextos arqueológicos en Lacamtún y Lobol, Chiapas / Reflexiones sobre las relaciones entre Chichén Itza, sus vecinos peninsulares y Tula / la dinástica tol / Una / 9-10 / ENERO-DICIEMBRE 1993",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Esquema crono cultural del poblamiento prehistórico de las sierras centrales de la península / de Baja California / Peces asociados a una investigación arqueológica en Sonora / Las investigaciones arqueológicas en El Sabinito municipio de Soto la Marina Tamaulipas / Rescate y consolidación de la zona arqueológica de Las Flores en Tampico Tamaulipas / La cronología de El Opeño Michoacán nuevos fechamientos por radio carbono / Cerámica de la región Atotonilco Arandas Altos de Jalisco / El problema cronológico del Tajín / Dos sitios preclásicos en la Selva Lacandona Chiapas / Estudio de moluscos encontrados en contextos arqueológicos en Lacamtún y Lobol Chiapas / Reflexiones sobre las relaciones entre Chichén Itzá sus vecinos peninsulares y Tula / Una secuencia dinástica tolteca / 9-10 / ENERO DICIEMBRE 1993",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 93.0
+      "titulo_confianza": 96.0
     },
     {
       "indice": 16,
@@ -217,9 +217,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / “Estelas celtiformes”: un nuevo tipo de estructura olmeca / y sus implicaciones para los epigrafistas / Un desciframiento de la escritura jeroglífica epi-olmeca: / métodos y resultados / Lirica maya de la antigúedad / Profecía del sacerdote / Sacerdotes astrónomos mayas / Textos triunfales mayas / La Tumba 5 del Cerro de la Campana, Suchilquitongo, Oaxaca: / un análisis epigráfico / Yucatán y el imperio tolteca / La restauración de monumentos arqueológicos. / El caso del Adivino de Uxmal / Las ocupaciones del inmueble de Guatemala núm. 90 / Legislación sobre arqueología subacuática / 8 / JULIO-DICIEMBRE 1992",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Estelas celtiformes un nuevo tipo de estructura olmeca / y sus implicaciones para los epigrafistas / Un desciframiento de la escritura jeroglífica epi olmeca / métodos y resultados / Lírica maya de la antigüedad / Profecía del sacerdote / Sacerdotes astrónomos mayas / Textos triunfales mayas / La Tumba 5 del Cerro de la Campana Suchilquitongo Oaxaca / un análisis epigráfico / Yucatán y el imperio tolteca / La restauración de monumentos arqueológicos / El caso del Adivino de Uxmal / Las ocupaciones del inmueble de Guatemala núm 90 / Legislación sobre arqueología subacuática / 8 / JULIO DICIEMBRE 1992",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 86.0
+      "titulo_confianza": 97.5
     },
     {
       "indice": 17,
@@ -228,9 +228,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de / Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Análisis de materiales botánico-arqueológicos de la Cueva Santa Marta / Baja California Sur / Fernando Sánchez Martínez Jesú, / s Inacio Mora Echeverria / La Cultura Mezcala: su caracterización preliminar a través del análisis cerámico / enla Organera-Xochipala, Guerrero / Rosa Ma. Reyna Robles / Análisis del material arqueozoológico procedente de San Luís La Loma, Guerrero / Norma Valentín Maldonado / Algunos aspectos del Clásico en el centro- / norte de Michoacán / Briggitte Faugére-Kalfon / Los artefactos metálicos de Tzintzuntzan, Michoacán: su de / terioro y tratamiento / Francisca Franco Velázquez Rubén Cabrera Luis To, / rres Montes / Patrones fronterizos de los reinos mayas del Clásico en / los altos tributarios del río Grijalva / Olivier de Montmollin / El mural de la Casa Azul, Rancho Ina, Quintana Roo / Luis Alberto Martos López / La extracción y talla de cantera en Mitla, Oaxaca, Tecnología para la arquitectura monumental / Nelly M. Robles García / 7 / ENERO-JUNIO / 1992",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Análisis de materiales Fernando botánico Sánchez arqueológicos Martínez Jesús de la Ignacio Cueva Mora Santa Echeverría Marta Baja California Sur / La Cultura Mezcala su en caracterización la Organera Xochipala preliminar Guerrero a través del análisis cerámico / Rosa Ma Reyna Robles / Análisis del material arqueozoológico Norma Valentín procedente Maldonado de San Luis La Loma Guerrero / Algunos aspectos del Clásico en el centro norte de Michoacán / Briggitte Faugère Kalfon / Los artefactos Francisca metálicos Franco de Velázquez Tzintzuntzan Rubén Michoacán Cabrera Luis su deterioro Torres Montes y tratamiento / Patrones fronterizos de los reinos mayas Olivier del de Montmollin Clásico en los altos tributarios del río Grijalva / El mural de la Luis Casa Alberto Azul Martos Rancho López Ina Quintana Roo / La extracción y talla de cantera en Mitla Nelly Oaxaca M. Robles Tecnología Garcia para la arquitectura monumental / 7 / ENERO JUNIO / 1992",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 95.0
+      "titulo_confianza": 97.5
     },
     {
       "indice": 18,
@@ -239,9 +239,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "NROUEOLOGIA EE: / SEGUNDA EPOGA JULLO DICIEMBRE 1997 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / Nuevos datos acerca de la estratigrafía / de Cuicuilco / Una ofrenda cerámica al este de la antigua / ciudad de Teotihuacan / Restauración de la ofrenda cerámica teotihuacana / Reconocimiento arqueológico en el sureste / de Campeche / Las esculturas estucadas de Chakanbakán / Costumbres funerarias y sociedad del Clásico / tardío en la cuenca de Zacapu, Michoacán / Xochitécatl-Cacaxtla en el periodo / Epiclasico (650-950 d.C.) / El noreste de Morelos y la desestabilización / teotihuacana / La actividad ritual a nivel de barrio: el momoztli / de Palma y Venustiano Carranza / Un xicolli miniatura de la cueva / de Atzcala, Guerrero / Reseñas / Noticias",
-      "titulo": "SEGUNDA EPOGA JULLO DICIEMBRE 1997 Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia",
-      "titulo_confianza": 89.5
+      "texto_ocr": "ARQUEOLOGÍA 18 / SEGUNDA ÉPOCA JULIO DICIEMBRE 1997 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / Nuevos datos acerca de la estratigrafía / de Cuicuilco / Una ofrenda cerámica al este de la antigua / ciudad de Teotihuacan / Restauración de la ofrenda cerámica teotihuacana / Reconocimiento arqueológico en el sureste / de Campeche / Las esculturas estucadas de Chakanbakán / Costumbres funerarias y sociedad del Clásico / tardío en la cuenca de Zacapu Michoacán / Xochitécatl Cacaxtla en el periodo / Epiclásico 650-950 d.C. / El noreste de Morelos y la desestabilización / teotihuacana / La actividad ritual a nivel de barrio el momoztli / de Palma y Venustiano Carranza / Un xicolli miniatura de la cueva / de Atzcala Guerrero / Reseñas / Noticias",
+      "titulo": "ARQUEOLOGÍA 18",
+      "titulo_confianza": 97.0
     },
     {
       "indice": 19,
@@ -250,9 +250,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGÍA PE / SEGUNDA EPOCA ENERO-JUNIO 1997 / Revista de la C gía del Instituto Nacional de Antropología e Historia / El final de la gran aventura: / el ocaso de un recurso cultural / Reflexiones sobre la conservación / de colecciones arqueológicas / Investigaciones arqueológicas en el norte / de Baja California: San Quintín-El Rosario / Cerro de Trincheras, un sitio arqueológico / en el noroeste de Sonora / Análisis de restos de vertebrados / terrestres, Machomoncobe 1, / Huatabampo, Sonora, México / Acerca de pirámides de tierra y seres / sobrenaturales: observaciones preliminares / en torno al Edificio C-1, La Venta, Tabasco / Centro ceremonial Cañada de la Virgen, / Guanajuato: arquitectura de la cultura / híbrida Tolteca-Chichimeca / Figurillas de Tlatelolco / El ajuste periódico del calendario / mesoamericano: algunos comentarios / desde la arqueología y la etnohistoria / Diez años de Arqueología / 1987-1996 / co / 6",
-      "titulo": "ARQUEOLOGÍA PE",
-      "titulo_confianza": 62.5
+      "texto_ocr": "ARQUEOLOGÍA 17 / SEGUNDA ÉPOCA ENERO JUNIO 1997 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / El final de la gran aventura / el ocaso de un recurso cultural / Reflexiones sobre la conservación / de colecciones arqueológicas / Investigaciones arqueológicas en el norte / de Baja California San Quintín El Rosario / Cerro de Trincheras un sitio arqueológico / en el noroeste de Sonora / Análisis de restos de vertebrados / terrestres Machomoncobe 1 / Huatabampo Sonora México / Acerca de pirámides de tierra y seres / sobrenaturales observaciones preliminares / en torno al Edificio C 1 La Venta Tabasco / Centro ceremonial Cañada de la Virgen / Guanajuato arquitectura de la cultura / híbrida Tolteca Chichimeca / Figurillas de Tlatelolco / El ajuste periódico del calendario / mesoamericano algunos comentarios / desde la arqueología y la etnohistoria / Diez años de Arqueología / 1987-1996",
+      "titulo": "ARQUEOLOGÍA 17",
+      "titulo_confianza": 97.0
     },
     {
       "indice": 20,
@@ -261,9 +261,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "19 / A CNE JUNIO 1998 / Revista de la Ci Nacional de del Institulo Nacional de Antropología e Historia / La arqueología y el ADN / Evidencias de poblamiento prehistórico en el área / de Metzquititlán, Hidalgo / El yacimiento de obsidiana Valle del Azufre, / Baja California Sur / Herencias chichimecas / Las cuevas del Gallo y de la Chaguera. Inventario / arqueobotánico e inferencias / Las tumbas de tiro del occidente de México. Su / distribución geográfica y sus formas arquitectónicas / Ofrenda en el Templo Mayor de México-Tlatelolco / Quetzalcóatl de Tollan / Arqueología del género en la arqueología / europea: reflexiones y propuestas / Noticias / Noticias de reuniones",
-      "titulo": "Revista de la Ci Nacional de del Institulo Nacional de Antropología e Historia",
-      "titulo_confianza": 95.0
+      "texto_ocr": "ARQUEOLOGÍA 19 / SEGUNDA ÉPOCA ENERO JUNIO 1998 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropologia e Historia / La arqueología y el ADN / Evidencias de poblamiento prehistórico en el área / de Metzquititlán Hidalgo / El yacimiento de obsidiana Valle del Azufre / Baja California Sur / Herencias chichimecas / Las cuevas del Gallo y de la Chagüera Inventario / arqueobotánico e inferencias / Las tumbas de tiro del occidente de México Su / distribución geográfica y sus formas arquitectónicas / Ofrenda en el Templo Mayor de México Tlatelolco / Quetzalcoatl de Tollan / Arqueología del género en la arqueología / europea reflexiones y propuestas / Noticias / Noticias de reuniones",
+      "titulo": "ARQUEOLOGÍA 19",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 21,
@@ -272,9 +272,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGÍA BÉ / SEGUNDA EPOCA JULIO DICIEMBRE 1997 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / Nuevos datos acerca de la estratigrafía / de Cuicuilco / Una ofrenda cerámica al este de la antigua / ciudad de Teotihuacan / Restauración de la ofrenda cerámica teotihuacana / Reconocimiento arqueológico en el sureste / de Campeche / Las esculturas estucadas de Chakanbakán / Costumbres funerarias y sociedad del Clásico / tardío enla cuenca de Zacapu, Michoacán / Xochitécatl-Cacaxtla en el periodo / Epiclásico (650-950 d.C.) / El noreste de Morelos y la desestabilización / teotihuacana / La actividad ritual a nivel de barrio: el momoztli / de Palma y Venustiano Carranza / Un xicolli miniatura de la cueva / de Atzcala, Guerrero / Reseñas / Noticias",
-      "titulo": "SEGUNDA EPOCA JULIO DICIEMBRE 1997",
-      "titulo_confianza": 82.0
+      "texto_ocr": "ARQUEOLOGÍA 18 / SEGUNDA ÉPOCA JULIO DICIEMBRE 1997 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / Nuevos datos acerca de la estratigrafía / de Cuicuilco / Una ofrenda cerámica al este de la antigua / ciudad de Teotihuacan / Restauración de la ofrenda cerámica teotihuacana / Reconocimiento arqueológico en el sureste / de Campeche / Las esculturas estucadas de Chakanbakán / Costumbres funerarias y sociedad del Clásico / tardío en la cuenca de Zacapu Michoacán / Xochitécatl Cacaxtla en el periodo / Epiclásico 650-950 d.C. / El noreste de Morelos y la desestabilización / teotihuacana / La actividad ritual a nivel de barrio el momoztli / de Palma y Venustiano Carranza / Un xicolli miniatura de la cueva / de Atzcala Guerrero / Reseñas / Noticias",
+      "titulo": "ARQUEOLOGÍA 18",
+      "titulo_confianza": 97.1
     },
     {
       "indice": 22,
@@ -283,9 +283,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "SEGUNDA ÉPOCA La SEPTIEMBRE DICIEMBRE, 2004 / RQUEOLOGÍA / La arquitectura Puce Clásica / de Balché, Campeche: labores de / registro y conservación / Hallazgos recientes en el sitio / Medias Aguas, sur de Veracruz / El Cerro de la Estrella: / unidades políticas de la cuenca de / México, periféricas a Teotihuacan / y la transición al Epiclásico / Ubicación, descripción y análisis / de los juegos de pelota / en Cantona, Puebla / Interacción y cambio entre / los cacicazgos de la Costa Grande / de Guerrero / Color negro en dientes de / Tlatelolco, D. E. / su caracterización / Crónica de la ocupación del / predio sede de la Secretaría de / Educación Pública, siglos XVI-xy / Aproximación al uso / de los conceptos signo, estilo, / VACIONAL DE ANTROPOLOGÍA E HISTORIA carácter y tipo, en arqueología",
-      "titulo": "RQUEOLOGÍA",
-      "titulo_confianza": 78.0
+      "texto_ocr": "SEGUNDA ÉPOCA SEPTIEMBRE DICIEMBRE 2004 / ARQUEOLOGÍA / 34 de Balché La arquitectura registro Campeche y conservación Pucc labores Clásica de / Hallazgos recientes en el sitio / Medias Aguas sur de Veracruz / El Cerro de la Estrella / unidades políticas de la cuenca de / México periféricas a Teotihuacan / y la transición al Epiclásico / Ubicación descripción y análisis / de los juegos de pelota / en Cantona Puebla / Interacción y cambio entre / los cacicazgos de la Costa Grande / de Guerrero / Color negro en dientes de / Tlatelolco D. F su caracterización / Crónica de la ocupación del / predio sede de la Secretaría de / Educación Pública siglos XVI XX / Aproximación al uso / de los conceptos signo estilo / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA carácter y tipo en arqueología",
+      "titulo": "ARQUEOLOGÍA",
+      "titulo_confianza": 96.1
     },
     {
       "indice": 23,
@@ -294,9 +294,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGÍA / Sonora precerdmica / del Arcaico y del surgimiento / de aldeas agrícolas / El pasado del pasado / Artefacto prehistórico en una / tumba de El Opeño, Michoacán / Salvamento arqueológico / en dos carreteras de Michoacán / Comercio durante el Posclásico / de la cerámica decorada: / Malinalco, Toluca, / Guerrero y Morelos / Cerro de los Magueyes: / un centro funerario para / matlatzincas y mexicas / durante el Posclásico tardío / Entierro en decúbito ventral / flexionado en Balcón de / Montezuma, Victoria, / Tamaulipas / Algunas consideraciones / sobre la cerámica Huasteca / Negro sobre Blanco / Cartografía a t1gua y sitios / arqueológicos en la región / de Reyes Metzontla, / ureste de Puebla",
+      "texto_ocr": "SEGUNDA CA ENEROAB ABRIL 200 / ARQUEOLOGÍA / 29 del Arcaico Sonora de y aldeas del precerámica surgimiento agrícolas / El pasado del pasado / Artefacto prehistórico en una / tumba de El Opeño Michoacán / Salvamento arqueológico / en dos carreteras de Michoacán / Comercio durante el Posclásico / de la cerámica decorada / Malinalco Toluca / Guerrero y Morelos / Cerro de los Magueyes / un centro funerario para / matlatzincas y mexicas / durante el Posclásico tardío / Entierro en decúbito ventral / flexionado en Balcón de / Montezuma Victoria / Tamaulipas / Algunas consideraciones / sobre la cerámica Huasteca / Negro sobre Blanco / Cartografia antigua y sitios / arqueológicos en la región / de Reyes Metzontla / sureste de Puebla",
       "titulo": "ARQUEOLOGÍA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 95.6
     },
     {
       "indice": 24,
@@ -305,9 +305,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Revista de la C Nacional de A 90 del Instituto Historia / La arqueología y el ADN / Evidencias de poblamiento prehistórico en el área / de Metzquititlán, Hidalgo E / El yacimiento de obsidiana Valle del Azufre, / Baja California Sur / Herencias chichimecas E— / Las cuevas del Gallo y de la Chagúera. Inventario / arqueobotánico e inferencias / Las tumbas de tiro del occidente de México. Su / distribución geográfica y sus formas arquitectónicas / Ofrenda en el Templo Mayor de México-Tlatelolco / Quetzalcóatl de Tollan / Arqueología del género en la arqueología / europea: reflexiones y propuestas / Noticias Pa / Noticias de reuniones",
-      "titulo": "Noticias Pa",
-      "titulo_confianza": 62.5
+      "texto_ocr": "ARQUEOLOGÍA 19 / SEGUNDA ÉPOCA ENERO JUNIO 1998 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / La arqueología y el ADN / Evidencias de poblamiento prehistórico en el área / de Metzquititlán Hidalgo / El yacimiento de obsidiana Valle del Azufre / Baja California Sur / Herencias chichimecas / Las cuevas del Gallo y de la Chagüera Inventario / arqueobotánico e inferencias / Las tumbas de tiro del occidente de México Su / distribución geográfica y sus formas arquitectónicas / Ofrenda en el Templo Mayor de México Tlatelolco / Quetzalcoatl de Tollan / Arqueología del género en la arqueología / europea reflexiones y propuestas / Noticias / Noticias de reuniones",
+      "titulo": "ARQUEOLOGÍA 19",
+      "titulo_confianza": 98.2
     },
     {
       "indice": 25,
@@ -316,9 +316,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGÍA / La Chontalpa / una de la vill A / Los peces del sitio arqueológt / Altamirano, Veracr / Estilos escultórico. pre hisp / de la Costa Grande de Guer / [1 Je Pat cudro a Uruapan 6 de / como nos topamos con lo tarasce / El Canal de Lerdo-Acequia de l / toltecas y la Calzada de Tacuba / Cartografía de sitios mencionado, / en fuentes históricas de / del Valle de Tehuacán, Puebla / Los nonoualca-chichimeca / y el señorío de Teouc / Las provincias tributarias de / imperio mexica localizadas al su / de Puebla y norte de Oaxaca / El señorío de Tepexic de la Sed / después de la conquista espa / de Jesús. “La misma nada",
+      "texto_ocr": "SEGUNDA ÉPOCA ENERO JUNIO 2002 / ARQUEOLOGÍA / La Chontalpa tierra de nadie / 27 o Los cuna peces de la del civilización sitio arqueológico maya / Altamirano Veracruz / Estilos escultóricos prehispánicos / de la Costa Grande de Guerrero / De Pátzcuaro a Uruapan o de / cómo nos topamos con lo tarasco / El Canal de Lerdo Acequia de los / toltecas y la Calzada de Tacuba / Cartografia de sitios mencionados / en fuentes históricas del área / del Valle de Tehuacán Puebla / Los nonoualca chichimeca / y el señorío de Teouacan / Las provincias tributarias del / imperio mexica localizadas al sur / de Puebla y norte de Oaxaca / El señorío de Tepexic de la Seda / después de la conquista española / Muerte de fray Antonio Margil / de Jesús La misma nada / Había gigantes en aquellos días / Richard Stockton MacNeish / 1918-2001",
       "titulo": "ARQUEOLOGÍA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 96.2
     },
     {
       "indice": 26,
@@ -327,9 +327,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Revista de la Coordinación Nacional de Arqueología del INAH / ROUEOLOGÍA / 25 / SEGUNDA ÉPOCA ENERO JUNIO 2001 / \"De piedra ha de ser la cama...\"? / Las tumbas en el Formativo de Puebla—Tlaxcala y la / Cuenca de México, a partir de la evidencia de Tetimpa, / Puebla / Una comparación entre la fase Perales en el noreste de / Michoacán y la fase Lerma en Acámbaro, Guanajuato / El maguey y el pulque en Teotihuacan: representación / y simbolismo / Escultura teotihuacana de la diosa Toci en la Sala Mexica / del Museo Nacional de Antropología / Actividades rituales en Xochitécatl-Cacaxtla, Tlaxcala / Rancho Uaymitún: un sitio histórico en la costa norte de / Yucatán / La relación hombre-ave en el siglo XVI. Crónicas / y arqueozoología en el centro de México / Acerca de la gran ceramoteca que la Arqueología / mexicana se merece / Arqueobotánica de El Tetzcotzinco / Noticias / Reseñas",
-      "titulo": "ROUEOLOGÍA",
-      "titulo_confianza": 91.0
+      "texto_ocr": "Revista de la Coordinación Nacional de Arqueología del INAH / ARQUEOLOGÍA 25 / SEGUNDA ÉPOCA ENERO JUNIO 2001 / De piedra ha de ser la cama / Las tumbas en el Formativo de Puebla Tlaxcala y la / Cuenca de México a partir de la evidencia de Tetimpa / Puebla / Una comparación entre la fase Perales en el noreste de / Michoacán y la fase Lerma en Acámbaro Guanajuato / El maguey y el pulque en Teotihuacan representación / y simbolismo / Escultura teotihuacana de la diosa Toci en la Sala Mexica / del Museo Nacional de Antropología / Actividades rituales en Xochitécatl Cacaxtla Tlaxcala / Rancho Uaymitún un sitio histórico en la costa norte de / Yucatán / La relación hombre ave en el siglo XVI Crónicas / y arqueozoología en el centro de México / Acerca de la gran ceramoteca que la Arqueología / mexicana se merece / Arqueobotánica de El Tetzcotzinco / Noticias / Reseñas",
+      "titulo": "ARQUEOLOGÍA 25",
+      "titulo_confianza": 97.5
     },
     {
       "indice": 27,
@@ -338,9 +338,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "SEGUNDA EPOCA-J ULI DICIEMBRE 1999 / Revista de la Coordinacién Nacional de Arqueologia del Instituto Nacional de Antropologia e Historia / Figura pintada sobre piso en La Ventilla, / Teotihuacan / Monumentos grabados y nombres calendáricos: los antiguos / gobernantes de Río Viejo, Oaxaca / Exploraciones en San Juan el Alto, municipio / de Pénjamo, Guanajuato / Un taller de alfareros en la antigua ciudad de Tula / Colección arqueozoológica de perros del sitio Chac-Mool, / Punta Pájaros, Quintana Roo / Los restos de serpientes de la Ofrenda R del Templo Mayor / de Tenochtitlan / La Ofrenda 23 del Templo Mayor de Tenochtitlan, / Vista a través de los restos de peces / El uso de las fuentes históricas en arqueozoología. El caso / de la identificación de aves / Atavíos identificables en el arte rupestre del norte-centro / Noticias / Informes del Archivo Técnico / Noticias de reuniones",
-      "titulo": "SEGUNDA EPOCA-J ULI DICIEMBRE 1999 Revista de la Coordinacién Nacional de Arqueologia del Instituto Nacional de Antropologia e Historia",
-      "titulo_confianza": 86.0
+      "texto_ocr": "ARQUEOLOGÍA 22 / SEGUNDA ÉPOCA JULIO DICIEMBRE 1999 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / Figura pintada sobre piso en La Ventilla / Teotihuacan / Monumentos grabados y nombres calendáricos los antiguos / gobernantes de Río Viejo Oaxaca / Exploraciones en San Juan el Alto municipio / de Pénjamo Guanajuato / Un taller de alfareros en la antigua ciudad de Tula / Colección arqueozoológica de perros del sitio Chac Mool / Punta Pájaros Quintana Roo / Los restos de serpientes de la Ofrenda R del Templo Mayor / de Tenochtitlan / La Ofrenda 23 del Templo Mayor de Tenochtitlan / vista a través de los restos de peces / El uso de las fuentes históricas en arqueozoología El caso / de la identificación de aves / Atavíos identificables en el arte rupestre del norte centro / Noticias / Informes del Archivo Técnico / Noticias de reuniones",
+      "titulo": "ARQUEOLOGÍA 22",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 28,
@@ -349,9 +349,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "AVROUEOLOGIA EY / SEGUNDA EPOCA:E Mo JUNIO 1999 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / Rescate de un mastodonte en San Juan Unión, / municipio de Taxco de Alarcón, Guerrero / Hallazgo de un mamut en Toluca, Estado de México / El Proyecto Arqueológico de la Pirámide de la Luna / Paleodieta en Dzibanché y Kohunlich: diferencias / y tendencias preliminares / Huapalcalco y las tradiciones alfareras del Epiclásico / Alineamientos astronómicos en el Templo Mayor / de Tenochtitlan / El radar de penetración terrestre (georadar): una / herramienta para la prospección arqueológica / Notas astronómicas al calendario mesoamericano / ¿El fin de la historia? Arqueología y museos en un / mundo globalizado / Noticias / Informes del Archivo Técnico / Noticias de reuniones / Reseñas",
-      "titulo": "SEGUNDA EPOCA:E Mo JUNIO 1999",
-      "titulo_confianza": 92.0
+      "texto_ocr": "ARQUEOLOGÍA 21 / SEGUNDA ÉPOCA ENERO JUNIO 1999 / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia / Rescate municipio de de un Taxco mastodonte de Alarcón en San Guerrero Juan Unión / Hallazgo de un mamut en Toluca Estado de México / El Proyecto Arqueológico de la Pirámide de la Luna / Paleodieta en Dzibanché y Kohunlich diferencias / y tendencias preliminares / Huapalcalco y las tradiciones alfareras del Epiclásico / Alineamientos astronómicos en el Templo Mayor / de Tenochtitlan / El radar de penetración terrestre georadar una / herramienta para la prospección arqueológica / Notas astronómicas al calendario mesoamericano / El fin de la historia Arqueología y museos en un / mundo globalizado / Noticias / Informes del Archivo Técnico / Noticias de reuniones / Reseñas",
+      "titulo": "ARQUEOLOGÍA 21",
+      "titulo_confianza": 97.4
     },
     {
       "indice": 29,
@@ -360,9 +360,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "Enero Marzo 2017 / Año. 1 No. 8",
-      "titulo": "Enero Marzo 2017 Año. 1 No. 8",
-      "titulo_confianza": 82.2
+      "texto_ocr": "Enero Año 1 Andones No. Marzo 8 2017 / Pueblos Mágicos / H / 5 íconos emblemáticos EDICIÓN ESPECIAL / en Guanajuato 100 AÑOS / DELA / CONSTITUCIÓN POLITICA / DE MÉXICO / 1917-9017",
+      "titulo": "Pueblos Mágicos",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 30,
@@ -371,9 +371,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "A / Génesis, culturas y espacios en / 7 / MICHOACAN",
+      "texto_ocr": "Génesis culturas y espacios en / MICHOACAN / T / W / Véronique Darras / coordinación",
       "titulo": "MICHOACAN",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 99.1
     },
     {
       "indice": 31,
@@ -382,9 +382,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "UADERNOS DI TES TUDIOS SM E [STUDIOS A ÑICHOACANO / 5 / ARQUEOLOGÍA DE LAS Lomas / EN LA (CUENCA Lacus1 RI / DE ZAC APU, Mic HOACAN,",
-      "titulo": "ARQUEOLOGÍA DE LAS Lomas",
-      "titulo_confianza": 89.5
+      "texto_ocr": "C UADERNOS DE ESTUDIOS MICHOACANOS M / 5 / ARQUEOLOGÍA DE LAS LOMAS / EN LA CUENCA LACUSTRE / DE ZACAPU MICHOACÁN / MEXICO / CHARLOTTE ARNAULD / PATRICIA CAROT / MARIE FRANCE / FAUVET BERTHELOT",
+      "titulo": "C UADERNOS DE ESTUDIOS MICHOACANOS M",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 32,
@@ -393,9 +393,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "MUSEO NACIONAL DE ANTROPOLOGIA / EL PRECLASICO O FORMATIVO / AVANCES Y PERSPECTIVAS / SEMINARIO DE ARQUEOLOGIA / “DR. ROMAN PIÑA CHAN” / MARTHA CARMONA MACIAS / COORDINADORA / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA",
+      "texto_ocr": "MUSEO NACIONAL DE ANTROPOLOGIA / EL PRECLASICO O FORMATIVO / AVANCES Y PERSPECTIVAS / SEMINARIO DE ARQUEOLOGIA / DR ROMAN PIÑA CHAN / MARTHA CARMONA MACIAS / COORDINADORA / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA",
       "titulo": "MUSEO NACIONAL DE ANTROPOLOGIA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 99.1
     },
     {
       "indice": 33,
@@ -404,9 +404,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia/ Segunda época / rm / i / Fechamientos por radiocarbono en Teotihuacan / Evelyn Childs Rattray / El proyecto Templo de Quetzalcoatl / Rubén Cabrera Castro y Oralia Cabrera / El entierro central de la Pirámide de la Serpiente Emplumada / Saburo Sugiyama / Excavaciones en el Frente B y otros materiales / del análisis de la cerámica / George L. Cowgill y Oralia Cabrera / Los entierros del Templo de Quetzalcoatl / Carlos Serrano Sanchez, Martha Pimienta Merlin y / Alfonso Gallardo Velázquez / Sacrificio de niños / Ana Marla Jarquin Pacheco y Enrique Martinez Vargas / Itzepec, Itzteyoca e Itztla / Alejandro Pastrana / Trabajos de exploración y vación en Tlatelol / Jorge Angulo V. sete / E 6 / JULIO-DICIEMBRE / 1991",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Fechamientos por radiocarbono en Teotihuacan / Evelyn Childs Rattray / El proyecto Templo de Quetzalcoatl / Rubén Cabrera Castro y Oralia Cabrera / El entierro central de la Pirámide de la Serpiente Emplumada / Saburo Sugiyama / Excavaciones en el Frente B y otros materiales / del análisis de la cerámica / George L. Cowgill y Oralia Cabrera / Los entierros del Templo de Quetzalcoatl / Carlos Serrano Sánchez Martha Pimienta Merlín y / Alfonso Gallardo Velázquez / Sacrificio de niños / Ana María Jarquín Pacheco y Enrique Martínez Vargas / Itzepec Itzteyoca e Itztla / Alejandro Pastrana / Trabajos de exploración y conservación en Tlatelolco / Jorge Angulo V. / 6 / JULIO DICIEMBRE / 1991",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 98.0
     },
     {
       "indice": 34,
@@ -415,9 +415,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "RQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia/ Segunda época / Medio milenio después de la conquista / Marie-Areti Hers / Princip / ipales yacimientos de obsidiana en el Altiplano Central / Robert H. Cobean / Los grandes murales de Baja California Sur / Ramón Viñas y Enrique Hambleton / Área de contacto entre nómadas y sedentarios / Monika Tesch / El estilo Mezcala en contexto / Louise-/seult Paradis / Cuicuilco y la arqueologia del Pedregal / Carlos Navarrete / Tres maquetas prehispanicas / Eduardo Merlo / Aspectos de la navegacion maya / Maria Eugenia Romero Rivera / La tecnologia de navajillas prismaticas / Gianfranco Cassiano / Para la historia de la arqueologia mexicana / Julio César Olivé Negrete / 5 / ENERO -JUNIO / 1991",
-      "titulo": "RQUEOLOGIA",
-      "titulo_confianza": 90.0
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropologia e Historia Segunda época / Medio milenio después de la conquista / Marie Areti Hers / Principales yacimientos de obsidiana en el Altiplano Central / Robert H. Cobean / Los grandes murales de Baja California Sur / Ramón Viñas y Enrique Hambleton / Área de contacto entre nómadas y sedentarios / Monika Tesch / El estilo Mezcala en contexto / Louise Iseult Paradis / Cuicuilco y la arqueologia del Pedregal / Carlos Navarrete / Tres maquetas prehispánicas / Eduardo Merlo / Aspectos de la navegación maya / Maria Eugenia Romero Rivera / La tecnologia de navajillas prismáticas / Gianfranco Cassiano / Para la historia de la arqueologia mexicana / Julio César Olivé Negrete / 5 / ENERO JUNIO / 1991",
+      "titulo": "ARQUEOLOGIA",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 35,
@@ -426,9 +426,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia/ Segunda época / Arqueología de cuencas lacustres. / El impacto humano en Guanajuato y Michoacán / Sara Elizabeth Metcalfe, Roy Bernard Brown et al. / Sobre los origenes americanos / José Luis Lorenzo / Oyapa: evidencias de poblamiento temprano / Gianfranco Cassiano y Alberto Vázquez C. / Casas-acantilado en Chihuahua / David Pearson y Fernando Sánchez Martínez / Una tumba troncocónica en Guerrero. Nuevo hallazgo en Chilpancingo / Guadalupe Martínez Donjuán / Reconocimiento en La Mixtequilla sur-central de Veracruz / Barbara L. Stark y Pamela Showalter / Prácticas rituales en el norte de Mesoamérica. / Evidencia en Electra, Villa de Reyes, San Luis Potosí / Carmen María Pijoan Aguadé y Josefina Mansilla Lory / Primeras expediciones a las ruinas de Palenque / María de la Cruz Paillés Hernández y Rosalba Nieto Calleja / 4 / JULIO-DICIEMBRE / 1990",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueologia del Instituto Nacional de Antropología e Historia Segunda época / Arqueología de cuencas lacustres / El impacto humano en Guanajuato y Michoacán / Sara Elizabeth Metcalfe Roy Bernard Brown et al / Sobre los orígenes americanos / José Luis Lorenzo / Oyapa evidencias de poblamiento temprano / Gianfranco Cassiano y Alberto Vázquez C. / Casas acantilado en Chihuahua / David Pearson y Fernando Sánchez Martínez / Una tumba troncocónica en Guerrero Nuevo hallazgo en Chilpancingo / Guadalupe Martínez Donjuán / Reconocimiento en La Mixtequilla sur central de Veracruz / Barbara L. Stark y Pamela Showalter / Prácticas rituales en el norte de Mesoamérica / Evidencia en Electra Villa de Reyes San Luis Potosí / Carmen Maria Pijoan Aguadé y Josefina Mansilla Lory / Primeras expediciones a las ruinas de Palenque / María de la Cruz Paillés Hernández y Rosalba Nieto Calleja / 4 / JULIO DICIEMBRE / 1990",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 94.0
+      "titulo_confianza": 97.5
     },
     {
       "indice": 36,
@@ -437,9 +437,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia/Segunda época / Geomorfología de la región de La Venta, Tabasco: un sistema / fluvio-lagunar costero del cuaternario / Excavaciones en la Estructura D-7 en La Venta, Tabasco / Análisis preliminar de la industria de la lítica tallada / de La Venta, Tabasco / Revisión del fenómeno olmeca / Figurillas femeninas del Preclásico en Chalcatzingo / Ol olmequismo y en M érica / Un nuevo complejo de escultura en la planicie costera de Chiapas / La Blanca y el Preclásico Medio en la Costa del Pacífico / Escultura olmeca y maya sobre canto en Abaj Takalik: / su desarrollo e importancia / La estructura del sistema representacional olmeca / Las cab losal I como altares reesculpidos: / “mutilación”, revolución y reesculpido / ENERO-JUNIO / 1990",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Geomorfología de la región de La Venta Tabasco un sistema / fluvio lagunar costero del cuaternario / Excavaciones en la Estructura D 7 en La Venta Tabasco / Análisis preliminar de la industria de la lítica tallada / de La Venta Tabasco / Revisión del fenómeno olmeca / Figurillas femeninas del Preclásico en Chalcatzingo / Olmecas olmequismo y olmequización en Mesoamérica / Un nuevo complejo de escultura en la planicie costera de Chiapas / La Blanca y el Preclásico Medio en la Costa del Pacífico / Escultura olmeca y maya sobre canto en Abaj Takalik / su desarrollo e importancia / La estructura del sistema representacional olmeca / Las cabezas colosales olmecas como altares reesculpidos / mutilación revolución y reesculpido / 3 / ENERO JUNIO / 1990",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 96.4
     },
     {
       "indice": 37,
@@ -448,9 +448,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia/Segunda época / La prehistoria en México y Centroamérica / Francois Rodriguez-Loubet / Mirador-Plumajillo, Chiapas, y sus relaciones con cuatro sitios / del horizonte olmeca en Veracruz, Chiapas y la costa de Guatemala / Pierre Agrinier / Nuevo testimonio rupestre olmeca en el oriente de Guerrero / Samuel L. Villela F. / Una interpretación sobre el significado y función de la Estructura Il / de Hormiguero, Campeche / Luis Alberto Martos López / ¿Una genealogía zapoteca prehispánica? / Javier Urcid y Marcus Winter / Una etnografía arqueológica dé la producción tradicional de sal / en Nexquipayac, Estado de México / Jeffrey R. Parsons / La producción de sal en un sitio del Postclásico Tardío / Ma, de Jesús Sánchez Vázquez / 2 / JULIO-DICIEMBRE / 1989",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / La prehistoria en México y Centroamérica / Francois Rodriguez Loubet / Mirador Plumajillo Chiapas y sus relaciones con cuatro sitios / del horizonte olmeca en Veracruz Chiapas y la costa de Guatemala / Pierre Agrinier / Nuevo testimonio rupestre olmeca en el oriente de Guerrero / Samuel L. Villela F / Una interpretación sobre el significado y función de la Estructura II / de Hormiguero Campeche / Luis Alberto Martos López / Una genealogía zapoteca prehispánica / Javier Urcid y Marcus Winter / Una etnografía arqueológica de la producción tradicional de sal / en Nexquipayac Estado de México / Jeffrey R. Parsons / La producción de sal en un sitio del Postclásico Tardío / Ma de Jesús Sánchez Vázquez / 2 / JULIO DICIEMBRE / 1989",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 95.0
+      "titulo_confianza": 97.7
     },
     {
       "indice": 38,
@@ -459,9 +459,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / latorla/Aegunda apoee / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e / Pintura rupestre en la región de Cuauhtocheo, Veracruz / Omar Ruiz Gordillo / Hallazgos funerarios de la ápoca olmeca en Chilpancingo, Guerrero / Rosa Ma. Reyna Robles y Guadalupe Martinez Donjuan / Proyecto Manat! 1989 / Ponciano Ortiz y Ma, del Carmen Rodriguez / Dos esculturas o/mecoldes en Tlaxcala / Rosalba Delgadillo Torres y Andrés Santana Sandoval / Basureros del Formativo Tardio en Don Martín, Chiapas / Alejandro Martinez Muriel / Las calzadas prehispánicas de la /a/a de México / Algunas consideraciones acerca de sus funciones / Margarita Carballal Staedtler y María Flores Hernandez / Un juego de pelota en la cludad de México / Luís Alberto Martos López y Salvador Pulido Méndez / re las migraciones de los piplies y los nicaraos / Nuevas perspectivas sob / William A. Fowler / Oscilación de la frontera norte mesoamericana: uN nuevo ensayo / Beatriz Branift / ENERO-JUNIO / 1909",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueologia del instituto Nacional de Antropologia e Historia Segunda época / Pintura rupestre en la región de Cuauhtochco Veracruz / Omar Ruiz Gordillo / Hallazgos Rosa funerarios Ma Reyna de la Robles época y olmeca Guadalupe en Chilpancingo Martinez Donjuan Guerrero / Proyecto Manati 1989 / Ponciano Ortiz y Ma del Carmen Rodriguez / Dos esculturas olmecolides en Tlaxcala / Rosalba Delgadillo Torres y Andrés Santana Sandoval / Basureros del Formativo Tardio en Don Martin Chiapas / Alejandro Martinez Muriel / Las calzadas prehispánicas de la lala de México / Margarita Algunas consideraciones Carballal Staedtler acerca y Maria de Flores sus funciones Hernández / Luis Un Alberto juego Martos de pelota López en y la Salvador ciudad de Pulido México Méndez / Nuevas perspectivas sobre las William migraciones R. Fowler de los pipiles y los nicaraos / Oscilación de la frontera norte mesoamericana un nuevo ensayo / Beatriz Braniff / ENERO JUNIO / 1989",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 94.0
+      "titulo_confianza": 95.4
     },
     {
       "indice": 39,
@@ -470,9 +470,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia/Segunda época / Geomorfología de la región de La Venta, Tabasco: un sistema / fluvio-lagunar costero del cuaternario / Excavaciones en la Estructura D-7 en La Venta, Tabasco / Análisis preliminar de la industria de la lítica tallada / de La Venta, Tabasco / Revisión del fenómeno olmeca / Figurillas femeninas del Preclásico en Chalcatzingo / Olmecas, olmequismo y olmequización en Mesoamérica / Un nuevo complejo de escultura en la planicie costera de Chiapas / La Blanca y el Preclásico Medio en la Costa del Pacífico / Escultura olmeca y maya sobre canto en Abaj Takalik: / su desarrollo e importancia / La estructura del sistema representacional olmeca / Las cabezas colosales olmecas como altares reesculpidos: / “mutilación”, revolución y reesculpido / 3 / ENERO-JUNIO / 1990",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Dirección de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Geomorfología de la región de La Venta Tabasco un sistema / fluvio lagunar costero del cuaternario / Excavaciones en la Estructura D 7 en La Venta Tabasco / Análisis preliminar de la industria de la lítica tallada / de La Venta Tabasco / Revisión del fenómeno olmeca / Figurillas femeninas del Preclásico en Chalcatzingo / Olmecas olmequismo y olmequización en Mesoamérica / Un nuevo complejo de escultura en la planicie costera de Chiapas / La Blanca y el Preclásico Medio en la Costa del Pacifico / Escultura olmeca y maya sobre canto en Abaj Takalik / su desarrollo e importancia / La estructura del sistema representacional olmeca / Las cabezas colosales olmecas como altares reesculpidos / mutilación revolución y reesculpido / 3 / ENERO JUNIO / 1990",
       "titulo": "ARQUEOLOGIA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 96.6
     },
     {
       "indice": 40,
@@ -481,9 +481,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Zonas / arqueolo / icas / en Guana / juato / SRP Oni ae Tl / Cuatro casos: / Plazuelas, Cañada de la Virgen / Peralta y El Cóporo",
+      "texto_ocr": "Zonas / arqueoló / gicas / en Guana / juato / Cuatro casos / Plazuelas Cañada de la Virgen / Peralta y El Cóporo",
       "titulo": "juato",
-      "titulo_confianza": 90.0
+      "titulo_confianza": 99.0
     }
   ],
   "rotacion_album": 0,

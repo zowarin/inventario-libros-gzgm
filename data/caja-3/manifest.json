@@ -46,9 +46,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ANALES / DEL / MUSEO MICHOACANO / Mi / Neuro 3 / SEGUNDA EPOCA / SEPTIEMBRE 1944 / TEL / IE] / een",
+      "texto_ocr": "ANALES / DEL / MUSEO MICHOACANO / NUMERO 3 / SEGUNDA EPOCA / SEPTIEMBRE 1944",
       "titulo": "ANALES",
-      "titulo_confianza": 95.0
+      "titulo_confianza": 98.5
     },
     {
       "indice": 2,
@@ -57,9 +57,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "su espacio / y tiempo sagrados / Instituto Nacional de Antropologia e Historia / pe",
-      "titulo": "su espacio y tiempo sagrados",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Miguel León Portilla / BA / H / Mexico Tenochtitlan / su espacio / y tiempo sagrados / Instituto Nacional de Antropología e Historia",
+      "titulo": "Miguel León Portilla",
+      "titulo_confianza": 98.1
     },
     {
       "indice": 3,
@@ -68,9 +68,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Cerámica de Tonalá, Jalisco / Colección del Museo Regional de Guadalajara / Gonzalo López Cervantes / /4V-",
-      "titulo": "Cerámica de Tonalá, Jalisco",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Cerámica de Tonalá Jalisco / Colección del Museo Regional de Guadalajara / Gonzalo López Cervantes / COLECCION FUENTES / 219 INV",
+      "titulo": "Cerámica de Tonalá Jalisco",
+      "titulo_confianza": 98.4
     },
     {
       "indice": 4,
@@ -79,9 +79,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "LOS POBLADORES / PREHISPÁNICOS DE ACAPULCO / Proyecto Arqueológico Renacimiento / Martha Eugenia Cabrera Guerrero / COLECCION CIENTIFICA",
+      "texto_ocr": "LOS POBLADORES / PREHISPÁNICOS DE ACAPULCO / Proyecto Arqueológico Renacimiento / Martha Eugenia Cabrera Guerrero / COLECCION CIENTIFICA / 199 INU",
       "titulo": "LOS POBLADORES PREHISPÁNICOS DE ACAPULCO",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 97.9
     },
     {
       "indice": 5,
@@ -90,9 +90,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "EL CRONISTA / [vis GONZALEZ OBRECON / (VIEJOS CUADRO/) / EDICIONES BOTA S-MEXICO",
-      "titulo": "[vis GONZALEZ OBRECON",
-      "titulo_confianza": 78.0
+      "texto_ocr": "ALBERTO MARIA CARREÑO / EL CRONISTA / LVIS GONZALEZ OBREGON / VIEJOS CUADROS / 5071 / EDICIONES BOTAS MEXICO",
+      "titulo": "EL CRONISTA",
+      "titulo_confianza": 93.4
     },
     {
       "indice": 6,
@@ -101,9 +101,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Presidencia Municipal de Guanajuato / GUANAJUATO: / Diez ensayos de su historia / Luis Fernando Díaz Sánchez / Dirección Municipal de Cultura",
-      "titulo": "GUANAJUATO: Diez ensayos de su historia",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Presidencia Municipal de Guanajuato / GUANAJUATO / Diez ensayos de su historia / Luis Fernando Díaz Sánchez / Dirección Municipal de Cultura",
+      "titulo": "GUANAJUATO Diez ensayos de su historia",
+      "titulo_confianza": 99.0
     },
     {
       "indice": 7,
@@ -112,9 +112,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Homenaje a Eduardo Noguera Auza / Editores: Mari Carmen Serra Puche / Carlos Navarrete Cáceres / UNIVERSIDAD NACIONAL AUTONOMA DE MÉXICO",
-      "titulo": "Homenaje a Eduardo Noguera Auza",
-      "titulo_confianza": 94.0
+      "texto_ocr": "Ensayos de / Alfareria Prehispánica / e Historica de Mesoamérica / Homenaje a Eduardo Noguera Auza / Editores Mari Carmen Serra Puche / Carlos Navarrete Cáceres / UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO",
+      "titulo": "Ensayos de Alfareria Prehispánica",
+      "titulo_confianza": 92.8
     },
     {
       "indice": 8,
@@ -123,9 +123,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "La Sociedad Indígena / en el Centro y Occidente / de México / Pedro Carrasco et al. / EL COLEGIO DE MICHOACAN",
+      "texto_ocr": "La Sociedad Indígena / en el Centro y Occidente / de México / Pedro Carrasco et al / EL COLEGIO DE MICHOACAN",
       "titulo": "La Sociedad Indígena en el Centro y Occidente de México Pedro Carrasco et al",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 97.6
     },
     {
       "indice": 9,
@@ -134,9 +134,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "PARA COMPRENDER / EL EPICLÁSICO / EN EL CENTRO DE MÉXICO / PROBLEMAS Y PROPUESTAS / TEÓRICO-METODOLÓGICOS / JESÚS E, SÁNCHEZ",
+      "texto_ocr": "PARA COMPRENDER / EL EPICLÁSICO / EN EL CENTRO DE MÉXICO / PROBLEMAS Y PROPUESTAS / TEÓRICO METODOLÓGICOs / JESÚS E. SÁNCHEZ",
       "titulo": "EL EPICLÁSICO",
-      "titulo_confianza": 92.5
+      "titulo_confianza": 97.6
     },
     {
       "indice": 10,
@@ -145,9 +145,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "MARÍA RODRÍGUEZ SHADOW",
-      "titulo": "MARÍA RODRÍGUEZ SHADOW",
-      "titulo_confianza": 96.0
+      "texto_ocr": "EL ESTADO / AZTECA / MARÍA RODRÍGUEZ SHADOW",
+      "titulo": "AZTECA",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 11,
@@ -156,9 +156,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "aVivir en Ixtla / i Qué suerte / cuentos y teatro",
+      "titulo": "aVivir en Ixtla i Qué suerte",
+      "titulo_confianza": 94.4
     },
     {
       "indice": 12,
@@ -167,9 +167,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "II / Pedro Armillas Vida y obra / Teresa Rojas Rabiela ed",
+      "titulo": "Pedro Armillas Vida y obra",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 13,
@@ -178,9 +178,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "El ejido / colectivo / de Nueva Italia / Ly / ope E: fe ~4 / UE ts / oh a E / e Ce OT / in. / U / pa / mah / li A 7 Ko",
-      "titulo": "El ejido colectivo de Nueva Italia",
-      "titulo_confianza": 95.5
+      "texto_ocr": "SUSANA GLANTZ / El ejido / colectivo / de Nueva Italia / sernah",
+      "titulo": "sernah",
+      "titulo_confianza": 68.7
     },
     {
       "indice": 14,
@@ -189,9 +189,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "África / sin / límites / COLECCIONES / MEXICANAS / MUSEO NACIONAL DE LAS CULTURAS",
+      "titulo": "África sin límites",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 15,
@@ -200,9 +200,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "HISTORIAS 50 / LJ Arturo Soberón Lucas Alamán y la presidencia del ayuntamiento de la / campanas? Salvador Rueda Elolvido enlahistoriografía. El caso mercedario / novohispano O John Gooding Speranskii y Batenkov O Índice general de la / revista Historias 7]",
+      "texto_ocr": "HISTORIAS 50 / ALAMAN / Ex Ministro / revista novohispano campanas ciudad Eduardo Arturo Historias de Flores Soberón México Salvador Clair John Lucas en Limpieza Gooding Rueda 1849 Alamán de El Speranskii olvido Marcela sangre y la en presidencia en Dávalos y la Batenkov historiografía el Colegio Por del de ayuntamiento qué Índice Minería El caso no general mercedario doblan 1791-1806 de de las la la",
       "titulo": "HISTORIAS 50",
-      "titulo_confianza": 88.5
+      "titulo_confianza": 78.7
     },
     {
       "indice": 16,
@@ -211,9 +211,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Informe anual del Proyecto Arqueológico / Cozumel: temporada 1981 / Fernando Robles Castellanos (coordinador) / Thelma Noemí Sierra Sosa Eduardo Toro Quiñones Leticia Vargas de la Peña / Contro Regional de Yucatán / 3 / C / CUADERNO DE TRABAJO / e—]—Le—o]—] [ro / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA",
-      "titulo": "Informe anual del Proyecto Arqueológico Cozumel: temporada 1981",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Informe anual del Proyecto Arqueológico / Cozumel temporada 1981 / Fernando Robles Castellanos coordinador / Thelma Noemí Sierra Sosa Eduardo Toro Quiñones Leticia Vargas de la Peña / Centro Regional de Yucatán / 3 / CUADERNO DE TRABAJO / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA",
+      "titulo": "Informe anual del Proyecto Arqueológico Cozumel temporada 1981",
+      "titulo_confianza": 99.0
     },
     {
       "indice": 17,
@@ -222,9 +222,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "eve / Oty / (98) / ANALISIS ARQUEOLOGICO DEL / YACIMIENTO DE OBSIDIANA / DE SIERRA DE LAS NAVAJAS, / HIDALGO / Rafael Cruz Antillón / COLECCIÓN CIENTÍFICA",
-      "titulo": "eve",
-      "titulo_confianza": 58.0
+      "texto_ocr": "ANÁLISIS ARQUEOLÓGICO DEL / YACIMIENTO DE OBSIDIANA / DE SIERRA DE LAS NAVAJAS / HIDALGO / Rafael Cruz Antillón / COLECCIÓN CIENTÍFICA",
+      "titulo": "ANÁLISIS ARQUEOLÓGICO DEL YACIMIENTO DE OBSIDIANA DE SIERRA DE LAS NAVAJAS HIDALGO",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 18,
@@ -233,9 +233,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ógicos de los pueblos / otomíes y chichimecas de Querétaro / María Elena Villegas Molina / Coordinadora",
-      "titulo": "ógicos de los pueblos otomíes y chichimecas de Querétaro",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Estudios antropológicos de los pueblos / otomíes y chichimecas de Querétaro / María Elena Villegas Molina / Coordinadora / 7 / Centro INAH Querétaro",
+      "titulo": "Estudios antropológicos de los pueblos otomíes y chichimecas de Querétaro",
+      "titulo_confianza": 98.2
     },
     {
       "indice": 19,
@@ -244,9 +244,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Investigaciones recientes / en paleobotánica / J palinologia / Aurora Montúfar López / COLECCIÓN CIF NITÍFI a",
-      "titulo": "Investigaciones recientes en paleobotánica J palinologia",
-      "titulo_confianza": 90.5
+      "texto_ocr": "Investigaciones recientes / en paleobotánica / y palinología / Aurora Montúfar López / COLECCIÓN CIENTÍFIC",
+      "titulo": "Investigaciones recientes en paleobotánica y palinología",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 20,
@@ -255,9 +255,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "pn E a——s / LAS TUMBAS DE TIRO DEL VALLE / DE ATEMAJAC, JALISCO / Luis Javier Galván Villegas / COLECCION CIENTIFICA",
-      "titulo": "LAS TUMBAS DE TIRO DEL VALLE DE ATEMAJAC, JALISCO",
-      "titulo_confianza": 94.5
+      "texto_ocr": "LAS TUMBAS DE TIRO DEL VALLE / DE ATEMAJAC JALISCO / Luis Javier Galván Villegas / COLECCION CIENTIFICA",
+      "titulo": "LAS TUMBAS DE TIRO DEL VALLE DE ATEMAJAC JALISCO",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 21,
@@ -266,9 +266,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "CONTRIBUCIÓN AL ESTUDIO DE / LOS ASENTAMIENTOS DE SAN / GERVASIO, ISLA DE COZUMEL / Thelma Noemí Sierra Sosa / COLECCIÓN CIENTÍFICA",
-      "titulo": "CONTRIBUCIÓN AL ESTUDIO DE LOS ASENTAMIENTOS DE SAN GERVASIO, ISLA DE COZUMEL",
-      "titulo_confianza": 96.0
+      "texto_ocr": "SACBE 5 / SACBE 2 3 / H / SACBE / 4 / CBE / ŠA / I / CONTRIBUCIÓN AL ESTUDIO DE / LOS ASENTAMIENTOS DE SAN / GERVASIO ISLA DE COZUMEL / Thelma Noemí Sierra Sosa / COLECCIÓN CIENTÍFICA",
+      "titulo": "SACBE 5",
+      "titulo_confianza": 98.5
     },
     {
       "indice": 22,
@@ -277,9 +277,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Arqueología del área de las / Cuarenta Casas, Chihuahua / Arturo Guevara Sanchez / Colección Científica Sen / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA",
-      "titulo": "Arqueología del área de las Cuarenta Casas, Chihuahua",
-      "titulo_confianza": 94.5
+      "texto_ocr": "Arqueología del área de las / Cuarenta Casas Chihuahua / Arturo Guevara Sánchez / Colección Científica / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA ser",
+      "titulo": "Arqueología del área de las Cuarenta Casas Chihuahua",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 23,
@@ -288,9 +288,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "LAS PRIMERAS SOCIEDADES / JERARQUICAS / GRISELDA SARMIENTO FRADERA / COLECCION CIENTIFICA",
+      "texto_ocr": "J / LAS PRIMERAS SOCIEDADES / JERARQUICAS / GRISELDA SARMIENTO FRADERA / COLECCION CIENTIFICA",
       "titulo": "LAS PRIMERAS SOCIEDADES JERARQUICAS",
-      "titulo_confianza": 94.0
+      "titulo_confianza": 97.6
     },
     {
       "indice": 24,
@@ -299,9 +299,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "Cerámica de época / olmeca en / Teopantecuanitlán / Guerrero / T / A / gdar / Rosa María Reyna Robles / COLECCIÓN CIENTÍFICA",
+      "titulo": "Cerámica de época olmeca en Teopantecuanitlán",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 25,
@@ -310,9 +310,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ARQUEOLOGÍA Y PALEOECOLOGÍA / DEL NORCENTRO DE MÉXICO / e —]—.]—]];—Ñi——n—— Sai ———L.; / Roy B. Brown / COLECCION CIENTIF ICA / A",
+      "texto_ocr": "ARQUEOLOGÍA Y PALEOECOLOGÍA / DEL NORCENTRO DE MÉXICO / Roy B. Brown / COLECCION CIENTIFICA",
       "titulo": "ARQUEOLOGÍA Y PALEOECOLOGÍA DEL NORCENTRO DE MÉXICO",
-      "titulo_confianza": 93.8
+      "titulo_confianza": 97.5
     },
     {
       "indice": 26,
@@ -321,9 +321,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Y / a h / 4 CM / L / MM / \"4 / Y / «a Y y / Mu PA / NY / Ys / a / TAL y / A / 4 / DE LA IDEOLOGIA / A LA CULTURA / FRANCISCO DE LA PEÑA MARTINEZ",
+      "texto_ocr": "DE LA IDEOLOGIA / A LA CULTURA / FRANCISCO DE LA PEÑA MARTINEZ",
       "titulo": "DE LA IDEOLOGIA A LA CULTURA",
-      "titulo_confianza": 91.0
+      "titulo_confianza": 99.2
     },
     {
       "indice": 27,
@@ -334,7 +334,7 @@
       "rotacion_confianza": "alta",
       "texto_ocr": "LA VALIDEZ TEORICA DEL / CONCEPTO MESOAMERICA / XIX MESA REDONDA / DE LA SOCIEDAD MEXICANA DE ANTROPOLOGIA / COLECCION CIENTIFICA",
       "titulo": "LA VALIDEZ TEORICA DEL CONCEPTO MESOAMERICA",
-      "titulo_confianza": 93.5
+      "titulo_confianza": 98.9
     },
     {
       "indice": 28,
@@ -343,9 +343,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Morales, Guanajuato, / y la tradición / Chupicuaro / Beatriz Braniff C. / COLECCION CIENTIFICA",
-      "titulo": "Morales, Guanajuato, y la tradición Chupicuaro",
-      "titulo_confianza": 95.0
+      "texto_ocr": "Morales Guanajuato / y la tradición / Chupícuaro / Beatriz Braniff C. / COLECCIÓN CIENTÍFICA",
+      "titulo": "Morales Guanajuato y la tradición Chupícuaro",
+      "titulo_confianza": 97.4
     },
     {
       "indice": 29,
@@ -354,9 +354,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Un espacio para la muerte / Arqueología funeraria / en San Juan del Río, Querétaro / Fernando González Zozaya / COLECCIÓN CIENTÍFICA",
-      "titulo": "Un espacio para la muerte Arqueología funeraria en San Juan del Río, Querétaro Fernando González Zozaya",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Un espacio para la muerte / Arqueología funeraria / en San Juan del Río Querétaro / Fernando González Zozaya / COLECCIÓN CIENTÍFICA",
+      "titulo": "Un espacio para la muerte Arqueología funeraria en San Juan del Río Querétaro",
+      "titulo_confianza": 99.0
     },
     {
       "indice": 30,
@@ -365,9 +365,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "De chichimecas, pames / y jonaces / Los recolectores-cazadores / del semidesierto de Querétaro / Carlos Viramontes Anzures",
-      "titulo": "De chichimecas, pames y jonaces",
-      "titulo_confianza": 89.8
+      "texto_ocr": "De chichimecas pames / y jonaces / Los recolectores cazadores / del semidesierto de Querétaro / Carlos Viramontes Anzures",
+      "titulo": "De chichimecas pames y jonaces Los recolectores cazadores del semidesierto de Querétaro",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 31,
@@ -376,9 +376,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Ana María Crespo Oviedo / VILLA DE REYES / SAN LUIS POTOSI / Un núcleo agrícola en la / Le / frontera norte de Mesoamérica / u COLECCiON, / 5 GENTIFCA",
+      "texto_ocr": "Ana María Crespo Oviedo / VILLA DE REYES / SAN LUIS POTOSI / Un núcleo agrícola en la / frontera norte de Mesoamérica / 42 / COLECCION / 159 / CIENTIFICA / Arqueología",
       "titulo": "VILLA DE REYES SAN LUIS POTOSI Un núcleo agrícola en la frontera norte de Mesoamérica",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 98.6
     },
     {
       "indice": 32,
@@ -387,9 +387,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Melmorio del iv. Congreso de wh me / OPI INAH LO AS / CARMEN MORALES VALDE ERRAMA: / MARÍA DEL CARMEN LECHUGA GARCÍA / CE, LAURA ADRIANA CASTAÑEDA CERECERO) / E”. am MARÍA IRMA LÓPEZ RAZGADO / A vs\" COORDINADORAS L / fs nro Nader / \"TT a\" / So) ge manera 4 / O isa",
-      "titulo": "CARMEN MORALES VALDE ERRAMA",
-      "titulo_confianza": 96.0
+      "texto_ocr": "EL INSTITUTO NACIONAL DE / ANTROPOLOGÍA E HISTORIA / FRENTE AL SIGLO XXI / Memoria del IV Congreso de / Investigadores del INAH / C / Tomo II / CARMEN MORALES VALDERRAMA / MARÍA DEL CARMEN LECHUGA GARCÍA / LAURA ADRIANA CASTAÑEDA CERECERO / MARÍA IRMA LÓPEZ RAZGADO / COORDINADORAS / Instituto Nacional Delegación de / e de Historia Antropologia EKO Profesores Investigadores e / D IN A 1",
+      "titulo": "EL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA FRENTE AL SIGLO XXI Memoria del IV Congreso de",
+      "titulo_confianza": 98.5
     },
     {
       "indice": 33,
@@ -398,9 +398,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ISA E HIST / FRENTE AL SIGLO / pte Memoria del IV: \"Congreso de 4 / EP A gales espacial A E 7 E / NNAH / EA A / E / CARMEN MORALES VALDERRAMA / MARÍA.DEL CARMEN LECHUGA GARCÍA a / LAURA ADRIANA CASTAÑEDA CERECERO', SA, wey / MARÍA IRMA LÓPEZRAZGADO. Ne / o COORDINADORAS / a’ aie g / Instituto Nadionel 1 o E ie de / ey nepolagia ate / popa N Investigado ¡e Sm / l ey A OMA",
-      "titulo": "ISA E HIST",
-      "titulo_confianza": 88.0
+      "texto_ocr": "EL INSTITUTO NACIONAL DE / ANTROPOLOGÍA E HISTORIA / FRENTE AL SIGLO XXI / Memoria del IV Congreso de / Investigadores del INAH / C / Tomo I / CARMEN MORALES VALDERRAMA / MARÍA DEL CARMEN LECHUGA GARCÍA / LAURA ADRIANA CASTAÑEDA CERECERO / MARÍA IRMA LÓPEZ RAZGADO / COORDINADORAS / Instituto Nacional Delegación de / de Antropologia Profesores e / e Historia Investigadores / D IHA 1",
+      "titulo": "EL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA FRENTE AL SIGLO XXI Memoria del IV Congreso de",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 34,
@@ -409,9 +409,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Guanajuato / HISTORIA, SOCIEDAD Y ARTE / Coordinadores: / José Luis Lara Valdés / Mauricio Vázquez González",
-      "titulo": "Guanajuato",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Guanajuato / HISTORIA SOCIEDAD Y ARTE / Coordinadores / José Luis Lara Valdés / Mauricio Vázquez González / uana",
+      "titulo": "uana",
+      "titulo_confianza": 98.1
     }
   ],
   "rotacion_album": 0,

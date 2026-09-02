@@ -3,6 +3,8 @@
 Cada etapa lee y escribe aqui, de modo que una interrupcion no obliga a
 repetir las descargas ni el OCR.
 """
+from __future__ import annotations
+
 import json
 
 import config

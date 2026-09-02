@@ -4,6 +4,8 @@ Las paginas publicas traen todo el listado en el HTML inicial, asi que basta
 una peticion normal con User-Agent de navegador: no hace falta OAuth ni un
 navegador headless.
 """
+from __future__ import annotations
+
 import html as htmllib
 import re
 import unicodedata

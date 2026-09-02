@@ -44,9 +44,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ANALES / DEL / MUSEO MICHOACANO / Mi / Neuro 3 / SEGUNDA EPOCA / SEPTIEMBRE 1944 / TEL / IE] / een",
+      "texto_ocr": "ANALES / DEL / MUSEO MICHOACANO / NUMERO 3 / SEGUNDA EPOCA / SEPTIEMBRE 1944",
       "titulo": "ANALES",
-      "titulo_confianza": 95.0
+      "titulo_confianza": 98.5
     },
     {
       "indice": 2,
@@ -55,9 +55,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "Metodología del trabajo de / conservación de conjuntos / históricos / eta Nacional de Comarocton Restaura y Museet / 2 / CUADERNO DE TRABAJO / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA",
+      "titulo": "Metodología del trabajo de conservación de conjuntos históricos",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 3,
@@ -66,9 +66,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Cecilia Lezama Escalante / ESTUDIO COMPARATIVO DE DOS / ORGANIZACIONES INDUSTRIALES / EN EL AREA DE TULA, HGO. / (PROYECTO TULA) / VI. Ms / oe 2) COLECCION / [2377 Pa CIENTIFICA / Vv / Antropologia Social",
-      "titulo": "ESTUDIO COMPARATIVO DE DOS ORGANIZACIONES INDUSTRIALES EN EL AREA DE TULA, HGO",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Cecilia Lezama Escalante / ESTUDIO COMPARATIVO DE DOS / ORGANIZACIONES INDUSTRIALES / EN EL AREA DE TULA HGO / PROYECTO TULA / 52 / COLECCION / CIENTIFICA / Antropología Social",
+      "titulo": "ESTUDIO COMPARATIVO DE DOS ORGANIZACIONES INDUSTRIALES EN EL AREA DE TULA HGO",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 4,
@@ -77,9 +77,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ee ea SS / Bibliografia minima sobre / ceramica / Gonzalo López Cervantes / Colección Fuentes / INSTITUTE / NACIONAL DI ANTROPOLOGIA HISTORIA",
-      "titulo": "Bibliografia minima sobre ceramica",
-      "titulo_confianza": 94.0
+      "texto_ocr": "Bibliografía mínima sobre / cerámica / Gonzalo López Cervantes / Colección Fuentes / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA",
+      "titulo": "Bibliografía mínima sobre cerámica",
+      "titulo_confianza": 98.4
     },
     {
       "indice": 5,
@@ -88,9 +88,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "EVIDENCIAS ARQUEOLOGICAS / DE LA IMPORTACION DE CERAMICA / EN MEXICO, CON BASE EN LOS / MATERIALES DEL EX-CONVENTO / DE SAN JERONIMO / Patricia Fournier García / COLECCIÓN CIENTIFICA / NS me / uu",
-      "titulo": "EVIDENCIAS ARQUEOLOGICAS DE LA IMPORTACION DE CERAMICA EN MEXICO, CON BASE EN LOS MATERIALES DEL EX-CONVENTO",
-      "titulo_confianza": 94.0
+      "texto_ocr": "EVIDENCIAS ARQUEOLOGICAS / DE LA IMPORTACION DE CERAMICA / EN MEXICO CON BASE EN LOS / MATERIALES DEL EX CONVENTO / DE SAN JERONIMO / Patricia Fournier García / COLECCION CIENTIFICA",
+      "titulo": "EVIDENCIAS ARQUEOLOGICAS DE LA IMPORTACION DE CERAMICA EN MEXICO CON BASE EN LOS MATERIALES DEL EX CONVENTO",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 6,
@@ -99,9 +99,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "HUANDACAREO: LUGAR / DE JUICIOS, TRIBUNAL / Angelina Macías Goytia",
-      "titulo": "HUANDACAREO: LUGAR DE JUICIOS, TRIBUNAL",
-      "titulo_confianza": 95.0
+      "texto_ocr": "HUANDACAREO LUGAR / DE JUICIOS TRIBUNAL / Angelina Macías Goytia",
+      "titulo": "HUANDACAREO LUGAR DE JUICIOS TRIBUNAL",
+      "titulo_confianza": 98.7
     },
     {
       "indice": 7,
@@ -110,9 +110,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "CULTURA Y COMUNICACIÓN / EDMUND LEACH / IN MEMORIAM / JESÚS JÁUREGUI, MARÍA EUGENIA OLAVARRÍA / Y VÍCTOR M. FRANCO PELLOTIER / COORDINADORES / E Ve / Nur / Be. / tru / Pay 1 / \"e a y / Y” / UNIVERSIDAD AUTÓNOMA METROPOLITANA / cua mama ergo UNIDAD IZTAPALAPA, División de Ciencias Sociales y Humanidades",
-      "titulo": "EDMUND LEACH",
-      "titulo_confianza": 92.5
+      "texto_ocr": "CULTURA Y COMUNICACIÓN / EDMUND LEACH / IN MEMORIAM / JESÚS JÁUREGUI MARÍA EUGENIA OLAVARRÍA / Y VÍCTOR M. FRANCO PELLOTIER / COORDINADORES / UNIVERSIDAD AUTÓNOMA METROPOLITANA / ciesas Casa dorenta al tempo UNIDAD IZTAPALAPA División de Ciencias Sociales y Humanidades",
+      "titulo": "CULTURA Y COMUNICACIÓN EDMUND LEACH",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 8,
@@ -121,9 +121,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "ARQUEOLOGÍ, EN Li / Á / AN / ARQLGO, LUIS",
-      "titulo": "ARQUEOLOGÍ, EN Li",
-      "titulo_confianza": 89.0
+      "texto_ocr": "6TA SEMANA DE ARQUEOLOGÍA EN LEÓN / ARTE E ICONOGRAFÍA / O / CL.MICHETTI / 2018 / Coordinador / ARQLGO LUIS HUMBERTO CARLÍN VARGAS / U M MONTEA EDITORIAL / UNIVERSIDAD MERIDIANO A.C. COLECCIÓN ARQUEOLOGÍA",
+      "titulo": "ARTE E ICONOGRAFÍA",
+      "titulo_confianza": 80.6
     },
     {
       "indice": 9,
@@ -132,9 +132,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "BIRR TA FELORE SSA LINAS / MEXICO VISTO POR / ALGUNOS / DE SUS VIAJEROS / SIGLO XVIII / Z / EDICIONES BOTAS— MEXICO / a",
-      "titulo": "MEXICO VISTO POR ALGUNOS DE SUS VIAJEROS",
-      "titulo_confianza": 96.0
+      "texto_ocr": "BERTA FLORES SALINAS / MEXICO VISTO POR / ALGUNOS / DE SUS VIAJEROS / SIGLO XVIII / EDICIONES BOTAS MEXICO / 1 9 G 7",
+      "titulo": "DE SUS VIAJEROS",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 10,
@@ -143,9 +143,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "BERTA FLORES SALINAS / MEXICO VISTO POR / ALGUNOS / DE SUS VIAJEROS / (SIGLOS XVI Y XVII) / EDICIONES BOTAS MEXICO / 1 9 6 4",
-      "titulo": "MEXICO VISTO POR ALGUNOS DE SUS VIAJEROS (SIGLOS XVI Y XVII)",
-      "titulo_confianza": 96.0
+      "texto_ocr": "BERTA FLORES SALINAS / MEXICO VISTO POR / ALGUNOS / DE SUS VIAJEROS / SIGLOS XVI Y XVII / EDICIONES 1 EDICIONES BOTAS MEXICO / 6 4",
+      "titulo": "MEXICO VISTO POR ALGUNOS DE SUS VIAJEROS SIGLOS XVI Y XVII",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 11,
@@ -154,9 +154,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "George Pierre Castile / INDIGENISTA / INSTITUTO NACIONAL",
-      "titulo": "George Pierre Castile",
-      "titulo_confianza": 93.0
+      "texto_ocr": "E / George Pierre Castile / Cherán / La adaptación de una / comunidad tradicional / de Michoacán / INSTITUTO NACIONAL INDIGENISTA",
+      "titulo": "Cherán La adaptación de una comunidad tradicional de Michoacán",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 12,
@@ -165,9 +165,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "HERMENEUTICA / Y PRAXIS / DEL INDIGENISMO / LA NOVELA INDIGENISTA / DE CLORINDA MATTO / A JOSE MARIA ARGUEDAS / JULIO RODRIGUEZ-LUIS / TIERRA FIRMESA",
-      "titulo": "DEL INDIGENISMO",
-      "titulo_confianza": 61.5
+      "texto_ocr": "HERMENEUTICA / Y PRAXIS / DEL INDIGENISMO / LA NOVELA INDIGENISTA / DE CLORINDA MATTO / A JOSE MARIA ARGUEDAS / JULIO RODRIGUEZ LUIS / TIERRA FIRME fe",
+      "titulo": "HERMENEUTICA Y PRAXIS DEL INDIGENISMO",
+      "titulo_confianza": 96.2
     },
     {
       "indice": 13,
@@ -176,9 +176,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "La Isla / del Tesoro / R. L. STEVENSON",
+      "titulo": "La Isla del Tesoro",
+      "titulo_confianza": 91.5
     },
     {
       "indice": 14,
@@ -187,9 +187,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "11 1/8",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "B.TRAVEN / Cuentos / gle Mexico / 6 / EDITORIAL ORIAL / AMSAROUS",
+      "titulo": "B.TRAVEN",
+      "titulo_confianza": 90.5
     },
     {
       "indice": 15,
@@ -198,9 +198,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "o / JAN NEEDLE / ilustraciones de Luis Fernando Enríquez",
+      "texto_ocr": "JAN NEEDLE / ilustraciones de Luis Fernando Enríquez / el / LADRÓN D 60 ANIVERSARIO",
       "titulo": "JAN NEEDLE",
-      "titulo_confianza": 95.5
+      "titulo_confianza": 97.0
     },
     {
       "indice": 16,
@@ -209,9 +209,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "P\"——+m—_— / JAMES GOULD COZZENS / By Love Possessed / Thereby to see the minutes how they run— pea / i How many make the hour full complete, / How many hours bring about the day, ween / _——c ee a / How many days will finish up the year, ras / How many years a mortal man may Jive. a ot / i —Henry VI ies / ee / aoe / HARCOURT, BRACE AND COMPANY NEW YORK",
+      "texto_ocr": "JAMES GOULD COZZENS / By Love Possessed / Thereby to see the minutes how they run- / How many make the hour full complete / How many hours bring about the day / How many days will finish up the year / How many years a mortal man may live / -Henry VI / A / AMERKANO / COLEGIO PUERTO VALLA AC / DE LIBRARY / HARCOURT BRACE AND COMPANY NEW YORK",
       "titulo": "By Love Possessed",
-      "titulo_confianza": 93.0
+      "titulo_confianza": 97.2
     },
     {
       "indice": 17,
@@ -220,9 +220,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ELEMENTS OF / e a / GEOLOGY / A TEXT-BOOK FOR COLLEGES AND FOR / THE GENERAL READER / BY / JOSEPH LE CONTE / AUTHOR OF RELIGION AND SCIENCE; SIGHT: AN EXPOSITION OF TUE / PRINCIPLES OF MONOCULAR AND BINOCULAR VISION; EVOLU- / TION IN ITS RELATION TO RELIGIOUS THOUGHT, BTC, / REVISED AND PARTLY REWRITTEN BY / HERMAN LE ROY FAIRCHILD / PROFESSOR OF GROLOGY IN THE UNIVERSITY oF ROCHESTER / FIFTH EDITION, REVISED AND ENLARGED / WITIL NEW PLATES AND ILLUSTRATIONS / NEW YORK AND LONDON / D. APPLETON AND COMPANY / 1920",
-      "titulo": "ELEMENTS OF",
-      "titulo_confianza": 96.0
+      "texto_ocr": "ELEMENTS OF / GEOLOGY / A TEXT BOOK FOR COLLEGES AND FOR / THE GENERAL READER / BY / JOSEPH LE CONTE / AUTHOR OF RELIGION AND SCIENCE SIGHT AN EXPOSITION OF THE / PRINCIPLES OF MONOCULAR AND BINOCULAR VISION EVOLU / TION IN ITS RELATION TO RELIGIOUS THOUGHT ETC. / REVISED AND PARTLY REWRITTEN BY / HERMAN LE ROY FAIRCHILD / PROFESSOR OF GEOLOGY IN THE UNIVERSITY OF ROCHESTER / FIFTH EDITION REVISED AND ENLARGED / WITH NEW PLATES AND ILLUSTRATIONS / NEW YORK AND LONDON / D. APPLETON AND COMPANY / 1920",
+      "titulo": "ELEMENTS OF GEOLOGY",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 18,
@@ -231,9 +231,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "OLE 6 MYERS / iy / r / 1 Nu / A EDICIÓN / ie)",
-      "titulo": "OLE 6 MYERS A EDICIÓN",
-      "titulo_confianza": 96.0
+      "texto_ocr": "PROBABILIDA Y ESTADÍSTICA / WALPOLE O MYERS / CUARTA EDICIÓN / Hall",
+      "titulo": "PROBABILIDA Y ESTADÍSTICA",
+      "titulo_confianza": 96.1
     },
     {
       "indice": 19,
@@ -242,9 +242,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "EDICIÓN REVISADA / GALGULO / Trascendentes / tempranas / Ri / í / Y JAMES STEWART sexta edición / ——o CD —.—s [2 SS Re / ER",
-      "titulo": "GALGULO",
-      "titulo_confianza": 60.0
+      "texto_ocr": "EDICIÓN REVISADA / CÁLCULO / Trascendentes / tempranas / JAMES STEWART Sexta edición",
+      "titulo": "CÁLCULO",
+      "titulo_confianza": 95.4
     },
     {
       "indice": 20,
@@ -253,9 +253,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "INTRODUCCIÓN A LA / INVESTIGACIÓN / ‘pp OPERACIONES / OCTAVA EDICIÓN / y Hillier En / hy Mm. Il",
+      "texto_ocr": "INTRODUCCIÓN A LA / INVESTIGACIÓN / 2 DE OPERACIONES / 27 / MU OCTAVA EDICIÓN / 15 / Hillier Lieberman / 52483 / 0.3x 0.1x22.7 / 10 / Mc / Graw / Hill INCLUYN CD ROM",
       "titulo": "INVESTIGACIÓN",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 97.8
     },
     {
       "indice": 21,
@@ -264,9 +264,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "su espacio / y tiempo sagrados / Instituto Nacional de Antropologia e Historia / pe",
-      "titulo": "su espacio y tiempo sagrados",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Miguel León Portilla / BA / H / Mexico Tenochtitlan / su espacio / y tiempo sagrados / Instituto Nacional de Antropología e Historia",
+      "titulo": "Miguel León Portilla",
+      "titulo_confianza": 98.1
     },
     {
       "indice": 22,
@@ -275,9 +275,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Cerámica de Tonalá, Jalisco / Colección del Museo Regional de Guadalajara / Gonzalo López Cervantes / /4V-",
-      "titulo": "Cerámica de Tonalá, Jalisco",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Cerámica de Tonalá Jalisco / Colección del Museo Regional de Guadalajara / Gonzalo López Cervantes / COLECCION FUENTES / 219 INV",
+      "titulo": "Cerámica de Tonalá Jalisco",
+      "titulo_confianza": 98.4
     },
     {
       "indice": 23,
@@ -286,9 +286,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "LOS POBLADORES / PREHISPÁNICOS DE ACAPULCO / Proyecto Arqueológico Renacimiento / Martha Eugenia Cabrera Guerrero / COLECCION CIENTIFICA",
+      "texto_ocr": "LOS POBLADORES / PREHISPÁNICOS DE ACAPULCO / Proyecto Arqueológico Renacimiento / Martha Eugenia Cabrera Guerrero / COLECCION CIENTIFICA / 199 INU",
       "titulo": "LOS POBLADORES PREHISPÁNICOS DE ACAPULCO",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 97.9
     },
     {
       "indice": 24,
@@ -297,9 +297,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "EL CRONISTA / [vis GONZALEZ OBRECON / (VIEJOS CUADRO/) / EDICIONES BOTA S-MEXICO",
-      "titulo": "[vis GONZALEZ OBRECON",
-      "titulo_confianza": 78.0
+      "texto_ocr": "ALBERTO MARIA CARREÑO / EL CRONISTA / LVIS GONZALEZ OBREGON / VIEJOS CUADROS / 5071 / EDICIONES BOTAS MEXICO",
+      "titulo": "EL CRONISTA",
+      "titulo_confianza": 93.4
     },
     {
       "indice": 25,
@@ -308,9 +308,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Presidencia Municipal de Guanajuato / GUANAJUATO: / Diez ensayos de su historia / Luis Fernando Díaz Sánchez / Dirección Municipal de Cultura",
-      "titulo": "GUANAJUATO: Diez ensayos de su historia",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Presidencia Municipal de Guanajuato / GUANAJUATO / Diez ensayos de su historia / Luis Fernando Díaz Sánchez / Dirección Municipal de Cultura",
+      "titulo": "GUANAJUATO Diez ensayos de su historia",
+      "titulo_confianza": 99.0
     },
     {
       "indice": 26,
@@ -319,9 +319,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Síntesis Arqueológica / de Nayarit / Mujer Desnuda Arrodillada / Tradición Tumbas de Tiro. Clásico (200.600 d.C Nayarit / E Gabriela Zepeda García Moreno / Fundacion Nayarit / Colección Rescate No, 7 / ñ",
+      "texto_ocr": "Síntesis Arqueológica / de Nayarit / Mujer Desnuda Arrodillada / Tradición Tumbas de Tiro Clásico 200-600 d.C. Nayarit / Gabriela Zepeda García Moreno / A CONACULTA / Centro INAH Nayarit / Fundación Nayarit / Colección Rescate No. 7",
       "titulo": "Síntesis Arqueológica de Nayarit",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 98.7
     },
     {
       "indice": 27,
@@ -330,9 +330,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "a",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "SALGARI el capitán formentá 20",
+      "titulo": "SALGARI el capitán formentá 20",
+      "titulo_confianza": 92.1
     },
     {
       "indice": 28,
@@ -341,9 +341,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "Instituto Nacional de Antropología e Historia den",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "F / Relates del / Mundo Magles / Mazateco / Carlos Inchdustegui / SEP INOR / Instituto Nacional de Antropologia e Historia",
+      "titulo": "Relates del Mundo Magles Mazateco",
+      "titulo_confianza": 76.2
     },
     {
       "indice": 29,
@@ -352,9 +352,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Gonanlo Aguirre Beltrán y / Ricardo Pords A rciniega / Métodos y Resultados",
-      "titulo": "Gonanlo Aguirre Beltrán y Ricardo Pords A rciniega",
-      "titulo_confianza": 79.0
+      "texto_ocr": "Gonzalo Aguirre Beltrán / Ricardo Pozas Arciniega / La Politica / Indigenista en / México / Métodos y Resultados / 1 / INSTITUTO NACIONAL INDIGENISTA",
+      "titulo": "La Politica Indigenista en México",
+      "titulo_confianza": 98.1
     },
     {
       "indice": 30,
@@ -363,9 +363,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "a) a d V e / Os / se Y VW / iy Y LL / Y. N / 7 a / y / he ñ a / EDITORIAL PLUS ULTR / aw!",
-      "titulo": "aw!",
-      "titulo_confianza": 63.0
+      "texto_ocr": "RICARDO BARLETTA / ORIGENES DEE HOMBRE / DE LA SOCIEDAD / Y DE LA CULTURA / ESPANA ARTESSOS / YNOSOTROS / LOS ARGENTINOS / EDITORIAL PLUS ULTRA",
+      "titulo": "ORIGENES DEE HOMBRE DE LA SOCIEDAD Y DE LA CULTURA",
+      "titulo_confianza": 97.1
     },
     {
       "indice": 31,
@@ -374,9 +374,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "alta",
-      "texto_ocr": "NANACATLAN / SOCIEDAD CAMPESINAY LUCHA / DE CLASES EN MEXICO",
-      "titulo": "NANACATLAN",
-      "titulo_confianza": 91.0
+      "texto_ocr": "Pierre Durand / NANACATLÁN / SOCIEDAD CAMPESINAY LUCHA / DE CLASES EN MÉXICO",
+      "titulo": "Pierre Durand NANACATLÁN",
+      "titulo_confianza": 94.3
     },
     {
       "indice": 32,
@@ -385,9 +385,9 @@
       "descargado": true,
       "rotacion": 0,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "mestern / NATIONAL MUSEUM OF ANT Loy...",
-      "titulo": "mestern",
-      "titulo_confianza": 86.0
+      "texto_ocr": "WESTERN MEXICO / NATIONAL MUSEUM OF ANTHROPOLOGY",
+      "titulo": "WESTERN MEXICO",
+      "titulo_confianza": 79.4
     }
   ],
   "rotacion_album": 0,

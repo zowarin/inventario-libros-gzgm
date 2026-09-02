@@ -5,7 +5,10 @@
     python -m src.main --solo descargar       una sola etapa
     python -m src.main --album caja-6         un solo album
     python -m src.main --forzar               ignora el manifest y rehace
+    python -m src.main --motor vision         usa Google Vision en vez de Tesseract
 """
+from __future__ import annotations
+
 import argparse
 import shutil
 import sys
@@ -15,7 +18,7 @@ from pathlib import Path
 import requests
 
 import config
-from src import albums, csv_out, download, manifest, ocr, rotate, scrape
+from src import albums, csv_out, download, manifest, ocr, ocr_vision, rotate, rotate_vision, scrape
 
 ETAPAS = ["scrape", "descargar", "rotar", "ocr", "csv"]
 
@@ -109,6 +112,8 @@ def main() -> int:
     p.add_argument("--solo", choices=ETAPAS, help="ejecuta una sola etapa")
     p.add_argument("--album", help="filtra por carpeta, p.ej. caja-6")
     p.add_argument("--forzar", action="store_true", help="rehace aunque ya este en el manifest")
+    p.add_argument("--motor", choices=["tesseract", "vision"], default="tesseract",
+                    help="motor de OCR/rotacion para las etapas rotar y ocr (por defecto tesseract)")
     args = p.parse_args()
 
     if args.accion == "setup":
@@ -121,9 +126,12 @@ def main() -> int:
         print("[scrape]")
         etapa_scrape(args.forzar)
 
-    necesita_tesseract = {"rotar", "ocr"} & set(etapas)
+    necesita_tesseract = args.motor == "tesseract" and ({"rotar", "ocr"} & set(etapas))
     if necesita_tesseract:
         config.configurar_tesseract()
+
+    rotar_album = rotate_vision.rotar_album if args.motor == "vision" else rotate.rotar_album
+    ocr_album = ocr_vision.ocr_album if args.motor == "vision" else ocr.ocr_album
 
     for etapa in ("descargar", "rotar", "ocr"):
         if etapa not in etapas:
@@ -131,15 +139,15 @@ def main() -> int:
         seleccion = seleccionar(args.album)
         if not seleccion:
             return 1
-        print(f"[{etapa}]")
+        print(f"[{etapa}]" + (" (vision)" if args.motor == "vision" and etapa != "descargar" else ""))
         for datos in seleccion:
             print(f"  {datos['album']}")
             if etapa == "descargar":
                 datos = download.descargar_album(datos, args.forzar)
             elif etapa == "rotar":
-                datos = rotate.rotar_album(datos, args.forzar)
+                datos = rotar_album(datos, args.forzar)
             else:
-                datos = ocr.ocr_album(datos, args.forzar)
+                datos = ocr_album(datos, args.forzar)
             manifest.guardar(datos)
 
     if "csv" in etapas:

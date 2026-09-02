@@ -41,9 +41,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "a / mas. / E / <a a Á q / a 4 / A *z A 4 / a / Mu í a ú / a Y .i / kn ue / 5 r / e WAN E 849 / ve E OY i~ / e 4.7 7. E / a A / a Le 4. / me / 1 / L Ce / \"PLA / ELA: y / EL PROYECTO MICHOACÁN 1983-1987 / Medio ambiente etroducción a hos trabasos arqueciógacos / Coordinador Dominique Michelet / COLLECTION ETUDES MESOAMERICAINES ub CUADERNOS DE ESTUDIOS MI HOACANOS 4",
+      "texto_ocr": "Viam Dense / Jan Triart / REGION DE / ACAP CENCAL / WILPILLAS / PALACIO / Tamorano / ABACCARO / LOMA ALTA 2 / EL PROYECTO MICHOACÁN 1983-1987 / Medio ambiente e introducción a los trabajos arqueológicos / La Press / Coordinador Dominique Michelet / COLLECTION ETUDES MESOAMÉRICAINES 11-11 CUADERNOS DE ESTUDIOS MICHOACANOS 4",
       "titulo": "EL PROYECTO MICHOACÁN 1983-1987",
-      "titulo_confianza": 95.0
+      "titulo_confianza": 98.4
     },
     {
       "indice": 2,
@@ -52,9 +52,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ho / RELACIONES INTERREGIONALES / EN EL CENTRO NORTE / DE MESOAMÉRICA / MEMORIA",
+      "texto_ocr": "2.3 / RELACIONES INTERREGIONALES / EN EL CENTRO NORTE / DE MESOAMÉRICA / MEMORIA",
       "titulo": "RELACIONES INTERREGIONALES EN EL CENTRO NORTE DE MESOAMÉRICA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 95.9
     },
     {
       "indice": 3,
@@ -63,9 +63,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "GUERRA DE LOS / CHICHIMECAS / (México 1575 Zirosto 1580) / Paleografía / \"o 7 me re Y / berto Carril lo Cazares / EL COLEGIO DE MICHOACAN / UNIVERSIDAD DE GUANAJUATO",
-      "titulo": "GUERRA DE LOS CHICHIMECAS",
-      "titulo_confianza": 94.0
+      "texto_ocr": "GUERRA DE LOS / CHICHIMECAS / México 1575 Zirosto 1580 / Paleografía / Alberto Carrillo Cázares / Xochipilla / G / R / EL COLEGIO DE MICHOACÁN / UNIVERSIDAD DE GUANAJUATO",
+      "titulo": "Xochipilla",
+      "titulo_confianza": 78.6
     },
     {
       "indice": 4,
@@ -74,9 +74,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "La muerte en el Occidente / del México prehispánico / Ma. Teresa / “Cabrero G. / UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO",
-      "titulo": "La muerte en el Occidente del México prehispánico",
-      "titulo_confianza": 96.0
+      "texto_ocr": "La muerte en el Occidente / del México prehispánico / Ma Teresa / Cabrero G. / UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO",
+      "titulo": "del México prehispánico",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 5,
@@ -85,9 +85,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "las fronteras de / r / mesoamérica / E u / t / Li / 6 / 4 / rr / pa,honduras, 23-28 de junio 1:",
-      "titulo": "las fronteras de",
-      "titulo_confianza": 95.0
+      "texto_ocr": "las fronteras de / mesoamérica / 1 / XIV / mesa / redonda / tegucigalpa honduras 23-28 de junio 1975 / sociedad / tomo 1 mexicana de / antropología / méxico 1976",
+      "titulo": "las fronteras de mesoamérica",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 6,
@@ -98,7 +98,7 @@
       "rotacion_confianza": "alta",
       "texto_ocr": "RELACIONES INTERREGIONALES / EN EL CENTRO NORTE / DE MESOAMÉRICA / MEMORIA",
       "titulo": "RELACIONES INTERREGIONALES EN EL CENTRO NORTE DE MESOAMÉRICA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 94.7
     },
     {
       "indice": 7,
@@ -107,9 +107,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Las Piedras / Sagradas / Escultura Prehispánica / del Occidente de México / Eduardo Williams / Michoacán",
+      "texto_ocr": "Las Piedras / Sagradas / Escultura Prehispánica / del Occidente de México / Eduardo Williams / El Colegio de Michoacán",
       "titulo": "Las Piedras Sagradas",
-      "titulo_confianza": 95.5
+      "titulo_confianza": 98.5
     },
     {
       "indice": 8,
@@ -118,9 +118,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Eo DE poe IN eee / a, ae / ramal / i} tee” / Arquzouocia DE LAS Lomas / EN LA Cuenca LACUSTRE / DE ZACAPU, MICHOACÁN, / México / Cuarorte ÁrNAULD / Parricia Caror / Marte France / Fauver Brrtuenor",
-      "titulo": "DE ZACAPU, MICHOACÁN, México",
-      "titulo_confianza": 89.5
+      "texto_ocr": "C UADERNOS DE ESTUDIOS MICHO ICHOACANOS / 5 / ARQUEOLOGÍA DE LAS LOMAS / EN LA CUENCA LACUSTRE / DE ZACAPU MICHOACÁN / MÉXICO / CHARLOTTE ARNAULD / PATRICIA CAROT / MARIE FRANCE / FAUVET BERTHELOT",
+      "titulo": "ARQUEOLOGÍA DE LAS LOMAS EN LA CUENCA LACUSTRE DE ZACAPU MICHOACÁN MÉXICO",
+      "titulo_confianza": 93.1
     },
     {
       "indice": 9,
@@ -129,9 +129,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Christine Niederberger Betton / PALEOPAYSAGES ET / ARCHEOLOGIE PRE-URBAINE / DU BASSIN DE MEXICO / Collection Etudes Mésoaméricaines 111 Tomel CEMCA / LT Etudes Mexicaines / Centramericaines",
-      "titulo": "PALEOPAYSAGES ET ARCHEOLOGIE PRE-URBAINE DU BASSIN DE MEXICO",
-      "titulo_confianza": 91.0
+      "texto_ocr": "Christine Niederberger Betton / PALEOPAYSAGES ET / ARCHEOLOGIE PRE URBAINE / DU BASSIN DE MEXICO / 44 / 000000 000000 / Collection Etudes Mésoaméricaines 1-11 Tome 1 CEMCA / Centre d'Etudes Mexicaines / et Centramericaines",
+      "titulo": "PALEOPAYSAGES ET ARCHEOLOGIE PRE URBAINE DU BASSIN DE MEXICO",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 10,
@@ -140,9 +140,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Christine Niederberger Betton / i / ih / PALEOPAYSAGES ET / ARCHEOLOGIE PRE-URBAINE / ‘DU BASSIN DE MEXICO o / 1 / Collection Etudes Mesoamericaines I-11 Tome ll CEM",
-      "titulo": "PALEOPAYSAGES ET ARCHEOLOGIE PRE-URBAINE ‘DU BASSIN DE MEXICO o",
-      "titulo_confianza": 93.0
+      "texto_ocr": "Christine Niederberger Betton / PALEOPAYSAGES ET / ARCHEOLOGIE PRE URBAINE / DU BASSIN DE MEXICO / M83.9 80 / 33 / NIU / Collection Etudes Mesoaméricaines 1-11 Tome 11 CEMCA / Centre d'Etudes Mexicaines- / et Centramericaines",
+      "titulo": "PALEOPAYSAGES ET ARCHEOLOGIE PRE URBAINE DU BASSIN DE MEXICO",
+      "titulo_confianza": 97.1
     },
     {
       "indice": 11,
@@ -151,9 +151,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "MONTE SAGRADO- / EMPLO MAYOR / Alfredo López Austin Leonardo López Luján / ye / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA / UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO / Instituto de Investigaciones Antropológicas",
-      "titulo": "EMPLO MAYOR",
-      "titulo_confianza": 89.0
+      "texto_ocr": "MONTE SAGRADO- / TEM EMPLO MAYOR / Alfredo López Austin Leonardo López Luján / DD ON / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA / UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO / Instituto de Investigaciones Antropológicas",
+      "titulo": "TEM EMPLO MAYOR",
+      "titulo_confianza": 78.8
     },
     {
       "indice": 12,
@@ -162,9 +162,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Seminario. / 98 / 4140 / “Los Jesuitas en el Norte de / A / La A / Nueva España / 4 / o / ar / y Coordinación e introducción de / José dela Cruz Pacheco 2 Bolas",
-      "titulo": "Nueva España",
-      "titulo_confianza": 78.0
+      "texto_ocr": "Seminario / Los Jesuitas en el Norte de / Nueva España / Sus contribuciones a la Educación y / El Sistema Misional / MEMORIA / Coordinación e introducción de / José de la Cruz Pacheco Rojas",
+      "titulo": "Seminario Los Jesuitas en el Norte de Nueva España Sus contribuciones a la Educación y",
+      "titulo_confianza": 97.5
     },
     {
       "indice": 13,
@@ -173,9 +173,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "GILBERTO RAMIREZ ACEVEDO / APUNTES / PARA LA INTERPRETACION DE LOS DATOS / CRONOLOGICOS EXPRESADOS EN LOS / JEROGLIFICOS MAYAS DEL CODICE / DE DRESDEN / 7 / Datos ordenados para descifrar glifos como / introducción al estudio de la escritura / Maya prehispánica. / EDITORIAL TRADICION / 1979",
+      "texto_ocr": "GILBERTO RAMIREZ ACEVEDO / APUNTES / PARA LA INTERPRETACION DE LOS DATOS / CRONOLOGICOS EXPRESADOS EN LOS / JEROGLIFICOS MAYAS DEL CODICE / DE DRESDEN / boog / o / Datos ordenados para descifrar glifos como / introducción al estudio de la escritura / Maya prehispánica / EDITORIAL TRADICION / 1979",
       "titulo": "APUNTES",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 91.1
     },
     {
       "indice": 14,
@@ -184,9 +184,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "EL MEXICO / DESCONOCIDO / Carl Lumholtz",
+      "texto_ocr": "EL MEXICO / DESCONOCIDO / Carl Lumholtz / INSTITUTO NACIONAL INDIGENISTA",
       "titulo": "EL MEXICO DESCONOCIDO",
-      "titulo_confianza": 94.2
+      "titulo_confianza": 97.9
     },
     {
       "indice": 15,
@@ -195,9 +195,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "La",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "ARTE EROTICO / PRE INCA / EROTIC ART",
+      "titulo": "ARTE EROTICO",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 16,
@@ -206,9 +206,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Ruy Mauro Marini / El NT y / contrarrevolución / Estudios Sobre Chile",
-      "titulo": "Ruy Mauro Marini",
-      "titulo_confianza": 95.0
+      "texto_ocr": "Ruy Mauro Marini / El reformismo y la / contrarrevolución / Estudios sobre Chile / Serie popular Era",
+      "titulo": "El reformismo y la contrarrevolución Estudios sobre Chile",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 17,
@@ -217,9 +217,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "LS. / Ls / E / a / ‘3",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "SEGUNDA / SEMANA DE / ARQUEOLOGIA / EN LEON / -ARTE RUPESTRE / Y PREHISTORIA / UNIVERSIDAD UM MERIDIANO A.C. Est MONTEA 2013 LEON EDITORIAL GUANALATO",
+      "titulo": "SEGUNDA SEMANA DE ARQUEOLOGIA EN LEON",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 18,
@@ -228,9 +228,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Marshall D. Sahlins E / Las sociedades / tribales / ENEE / ed / Cone we oly TE \"ono / A Cero e “ers / ye E and fo re / ests caruedo Zool z / E YE Th 2 Licey",
+      "texto_ocr": "Marshall D. Sahlins / Las sociedades / tribales / Corne newly sprong / Their fitame at meals / efforters prayer / Lace place / he hoofs wherin the The Tombe of their rounds 266666 / Standeth / SECOTON / A Ceremony in their prayers / frange reshins and fangs dan / about posts carved on the p / Lyke mens faces / NCL",
       "titulo": "Las sociedades tribales",
-      "titulo_confianza": 91.5
+      "titulo_confianza": 98.1
     },
     {
       "indice": 19,
@@ -239,9 +239,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "“LOS / HOMBRES DEL / REVOLUCION",
+      "texto_ocr": "LOS / HOMBRES DE LA / REVOLUCION / TERCERA EDICION Daniel Moreno",
       "titulo": "REVOLUCION",
-      "titulo_confianza": 83.0
+      "titulo_confianza": 97.7
     },
     {
       "indice": 20,
@@ -250,9 +250,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "Crónicas / de la Sierra / Tarahumara / Luis González Rodríguez / Ser",
+      "titulo": "Crónicas de la Sierra Tarahumara Luis González Rodríguez",
+      "titulo_confianza": 90.9
     },
     {
       "indice": 21,
@@ -261,9 +261,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "Los coras",
-      "titulo": "Los coras",
-      "titulo_confianza": 93.0
+      "texto_ocr": "Los coras / Ramos / González / Gildardo / PRESENCIAS",
+      "titulo": "Ramos González Gildardo",
+      "titulo_confianza": 98.0
     },
     {
       "indice": 22,
@@ -272,9 +272,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Viejos Pueblos / y Lugares / Editorial / ARZOS",
-      "titulo": "Viejos Pueblos y Lugares",
-      "titulo_confianza": 95.8
+      "texto_ocr": "LOS / OS ETRUSCOS / Raymond Bloch / AL Viejos Pueblos / y Lugares / Editorial / ARGOS",
+      "titulo": "OS ETRUSCOS Raymond Bloch",
+      "titulo_confianza": 91.9
     },
     {
       "indice": 23,
@@ -283,9 +283,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "La Conquista de América / La cuestión del otro / Tzvetan Todorov",
+      "texto_ocr": "La Conquista de América / La cuestión del otro / Tzvetan Todorov / XXI",
       "titulo": "La Conquista de América La cuestión del otro Tzvetan Todorov",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 98.0
     },
     {
       "indice": 24,
@@ -294,9 +294,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "0-0-6 / UN CIENTÍFICO / DEL PORFIRIATO / GUANAJUATENSE / VICENTE FERNANDEZ RODRÍGUEZ / Aurora Jáuregui de Cervantes / nuestra cultura",
+      "titulo": "VICENTE FERNANDEZ RODRÍGUEZ",
+      "titulo_confianza": 74.5
     },
     {
       "indice": 25,
@@ -305,9 +305,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Y / HUASTECA / PIEDRA / CATALOGO / BEATRIZ DE LA FUENTE / NELLY GUTIERREZ SOLANA / INSTITUTO DE INVESTIGACIONES ESTETICAS / UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO",
-      "titulo": "HUASTECA",
-      "titulo_confianza": 96.0
+      "texto_ocr": "ESCULTURA HUASTECA / EN PIEDRA / CATALOGO / BEATRIZ DE LA FUENTE / NELLY GUTIERREZ SOLANA / INSTITUTO DE INVESTIGACIONES ESTETICAS / UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO",
+      "titulo": "ESCULTURA HUASTECA EN PIEDRA",
+      "titulo_confianza": 97.0
     },
     {
       "indice": 26,
@@ -316,9 +316,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "A / AZTECA / George C. Vaillant / FONDO DE CULTURA ECONÓMICA i",
-      "titulo": "AZTECA George C. Vaillant",
-      "titulo_confianza": 94.0
+      "texto_ocr": "LA CIVILIZACION / AZTECA / George C. Vaillant / FONDO DE CULTURA ECONÓMICA / mterpanti Contacpanti / tutralpata mame yacili Center panth wwwch app / Taroyall / Txmortas / Adormor mil lars can vanw / y figura de Lubac / Tloyap / P / Jacapirila / Tigre Plumagreystra cofar / Tepoztlan / Morlail Manta ima Huipilin / Teras P ropar labradaryder de ve / Huartepes yazar Pueblo Tobutan ere guran Tiginapan / Anushura / Huartepet Xochimikun Quauhtia Annicul Cutlines TIBAaro Huiledian",
+      "titulo": "George C. Vaillant",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 27,
@@ -327,7 +327,7 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "The / Mesoamerican / Ballgame / Vernon L. Scarborough and David R. Wilcox, Editors",
+      "texto_ocr": "The / Mesoamerican / Ballgame / 4 19 / DOOOO / Vernon L. Scarborough and David R. Wilcox Editors",
       "titulo": "Mesoamerican Ballgame",
       "titulo_confianza": 95.5
     },
@@ -338,9 +338,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "Sn “4 / Sal",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "MECAS / stu",
+      "titulo": "MECAS",
+      "titulo_confianza": 92.2
     },
     {
       "indice": 29,
@@ -349,9 +349,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "LOS ORÍGENES DE LA / Y CIVILIZACIÓN MAYA / BE Richard EW Adams 1% / la (Compilador) 7",
-      "titulo": "LOS ORÍGENES DE LA Y CIVILIZACIÓN MAYA la (Compilador) 7",
-      "titulo_confianza": 95.0
+      "texto_ocr": "LOS ORÍGENES DE LA / CIVILIZACIÓN MAYA / Richard E.W. Adams / Compilador / ༨༠5",
+      "titulo": "LOS ORÍGENES DE LA CIVILIZACIÓN MAYA Richard E.W. Adams Compilador",
+      "titulo_confianza": 96.9
     }
   ],
   "rotacion_album": 0,

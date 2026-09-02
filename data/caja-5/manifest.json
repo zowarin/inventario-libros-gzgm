@@ -56,9 +56,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "TRACE / Arqueología / JUIN 1994 N°25",
+      "texto_ocr": "TRACE / Arqueología / 5 / STUDIOS MEXIC / DE ES CANOS / JUIN 1994 N 25 CENTRO 5 CENTRO Y / SONVOY",
       "titulo": "TRACE",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 93.9
     },
     {
       "indice": 2,
@@ -69,7 +69,7 @@
       "rotacion_confianza": "alta",
       "texto_ocr": "Reunión internacional / sobre / PATRIMONIO CULTURAL / POLÍTICA CULTURAL / Y PATRIMONIO / DOCUMENTO DE DISCUSIÓN COLECTIVA",
       "titulo": "PATRIMONIO CULTURAL",
-      "titulo_confianza": 95.5
+      "titulo_confianza": 99.1
     },
     {
       "indice": 3,
@@ -78,9 +78,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "SERIE PATRIMONIO VIVO 13 / PATRIMONIO BIOCULTURAL / Y MEGAMINERIA: UN RETO MULTIPLE / ¿inversiones? ¿negocio? ¿desarrollo? / ¿vida campesina? ¿futuro? / Ellos nunca preguntaron. simplemente llegaron... / Productores de cacao, Cotul, Sánchez Ramirez, República Dominicana / Paul Hersch artinez / con la colaboració Lillán González Chévez, / Marlana Solorio Damian y Catalina Sedano Díaz / ACTORES SOCIALES DE LA FLORA MEDICINAL EN MÉXICO / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA",
-      "titulo": "PATRIMONIO BIOCULTURAL Y MEGAMINERIA: UN RETO MULTIPLE",
-      "titulo_confianza": 94.2
+      "texto_ocr": "SERIE PATRIMONIO VIVO 13 / la / oro vida / PATRIMONIO BIOCULTURAL / Y MEGAMINERIA UN RETO MULTIPLE / inversiones negocio desarrollo / vida campesina futuro / Ellos nunca preguntaron Simplemente llegaron / Productores de cacao Cotul Sanchez Ramirez República Dominicana / Paul Hersch Martínez / con la colaboración de Lilián González Chévez / Mariana Solorio Damian y Catalina Sedano Díaz / ACTORES SOCIALES DE LA FLORA MEDICINAL EN MÉXICO / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA",
+      "titulo": "oro vida",
+      "titulo_confianza": 77.9
     },
     {
       "indice": 4,
@@ -89,9 +89,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "CORINA RAMÍREZ / ESTADOS DEL SER",
+      "titulo": "CORINA RAMÍREZ",
+      "titulo_confianza": 96.7
     },
     {
       "indice": 5,
@@ -100,9 +100,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Cuadernos / de difusion / cientifica",
-      "titulo": "Cuadernos de difusion cientifica",
-      "titulo_confianza": 91.0
+      "texto_ocr": "C cuadernos / de científica difusión 46 / GUILLERMO DE LA PEÑA TOPETE / El cambio social en la / región de Guadalajara / notas bibliográficas",
+      "titulo": "C cuadernos de científica difusión 46",
+      "titulo_confianza": 93.0
     },
     {
       "indice": 6,
@@ -111,9 +111,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "ad Aa / f\\ a, / METODOLOGIA PARA / (Ti iV) / REA / LA DEFINICION DE / AE / a / EINEAIBASEE AREA / CONSERVACION DE / oa / EROEEDADESIERIVADAS / 1 / 3 3 mu y Se / 7 / I / i ia / q i. / as / TT / te / 28 pe / 2 / Jo / 9 / =D / Y / i? / io oe",
-      "titulo": "METODOLOGIA PARA LA DEFINICION DE CONSERVACION DE",
-      "titulo_confianza": 93.5
+      "texto_ocr": "PRONNURA / Asociacion Call / METODOLOGÍA PARA / LA DEFINICIÓN DE / LINEA BASE PARA LA / CONSERVACIÓN DE / PROPIEDADES PRIVADAS",
+      "titulo": "METODOLOGÍA PARA",
+      "titulo_confianza": 96.7
     },
     {
       "indice": 7,
@@ -122,9 +122,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "EL PATRIMONIO CULTURAL / NACIONAL, SU CONSERVACION / Y PROTECCION / aS / TA / Star / COLEGIO MEXICANO DE COLEGIO DE ETNOLOGOS Y / ANTROPOLOGOS A.C. ANTROPOLOGOS SOCIALES, A.C. / México,D.F. 1987",
-      "titulo": "EL PATRIMONIO CULTURAL NACIONAL, SU CONSERVACION Y PROTECCION",
-      "titulo_confianza": 96.0
+      "texto_ocr": "258 BA / EL PATRIMONIO CULTURAL / NACIONAL SU CONSERVACION / Y PROTECCION / COLEGIO MEXICANO DE COLEGIO DE ETNOLOGOS Y / ANTROPOLOGOS A.C. ANTROPOLOGOS SOCIALES A.C / México D.F. 1987",
+      "titulo": "EL PATRIMONIO CULTURAL NACIONAL SU CONSERVACION Y PROTECCION",
+      "titulo_confianza": 98.5
     },
     {
       "indice": 8,
@@ -133,9 +133,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "cuarta semana / de la ciencia / y las / actividades subacuáticas / del 3 al 6 de junio de 1985 / fm iA Vv A / —.J2 A. / HE) E V140D / We ce / —.E AB e / WW MY o] / —-OO ES / ul AD / memoria",
+      "texto_ocr": "cuarta semana / de la ciencia / y las / actividades subacuáticas / del 3 al 6 de junio de 1985 / memoria",
       "titulo": "cuarta semana de la ciencia y las actividades subacuáticas",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 99.0
     },
     {
       "indice": 9,
@@ -144,9 +144,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Proyectos ESPECIALES / DE ARQUEOLOGÍA / A / a. / Consejo Nacional para la Cultura y las Artes / Instituto Nacional de Antropología e Historia / Fondo Nacional Arqueológico",
-      "titulo": "Proyectos ESPECIALES DE ARQUEOLOGÍA",
-      "titulo_confianza": 93.8
+      "texto_ocr": "PROYECTOS ESPECIALES / DE ARQUEOLOGÍA / Lore vanatus / Libreta / de / Tránsito / Consejo Nacional para la Cultura y las Artes / Instituto Nacional de Antropología e Historia / Fondo Nacional Arqueológico",
+      "titulo": "PROYECTOS ESPECIALES DE ARQUEOLOGÍA",
+      "titulo_confianza": 96.5
     },
     {
       "indice": 10,
@@ -155,9 +155,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Volumen II / Carlos Viramontes Anzures / Coordinador",
-      "titulo": "Carlos Viramontes Anzures Coordinador",
-      "titulo_confianza": 94.5
+      "texto_ocr": "Tiempo / yRegión / Estudios Históricos y Sociales / Ana María Crespo Oviedo In Memoriam / Volumen II / Carlos Viramontes Anzures / Coordinador",
+      "titulo": "Tiempo yRegión",
+      "titulo_confianza": 90.7
     },
     {
       "indice": 11,
@@ -166,9 +166,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "2 / Arquitectura del Bajío / de Mesoamérica a la época Colonial / Coordinadores: / ING. MIGUEL ANGEL CRUZ MARTÍNEZ / ARQLGO, LUIS HUMBERTO CARLIN VARGAS / EDITORIAL / ONTEA / Est, 2013, León, Guanamaro,",
+      "texto_ocr": "20 SEMANA DE ARQUEOLOGIA EN CELAYA 4 SEMANA DE ARQUEOLOGÍA EN LEÓN / Arquitectura del Bajío / de Mesoamérica a la época Colonial / Coordinadores / ING MIGUEL ÁNGEL CRUZ MARTÍNEZ / ARQLGO LUIS HUMBERTO CARLÍN VARGAS / M.NI ONO WO UNIVER SELAYA IDAD NS SE RVI UNIVERSIDAD UM MERIDIANO A.C. MON Est 2013 LEON EDITORIAL GUANARIATO",
       "titulo": "Arquitectura del Bajío",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 99.0
     },
     {
       "indice": 12,
@@ -177,9 +177,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "dre W-= E E de 2 \"Na CTY / Le / cs) / Le] / a / a / E / z / o / s / 2 / z",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "SEGUNDA / SEMANA DE / A / ARQUEOLOGIA / EN LEON / -ARTE RUPESTRE / PREHISTORIA / B / UM MONTEA EDITORIAL / Est 2013 LEN GUANARIATO / UNIVERSIDAD MERIDIANO A.C.",
+      "titulo": "SEGUNDA",
+      "titulo_confianza": 97.3
     },
     {
       "indice": 13,
@@ -188,9 +188,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "ONE “<Q TA / 3 / z / E / 2 / z / a / a / E] / 5 / u / o / z",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "SEGUNDA / SEMANA DE / ARQUEOLOGIA / EN LEON / -ARTE RUPESTRE / PREHISTORIA / C / U M MONTEA EDITORIAL / UNIVERSIDAD MERIDIANO A.C. Est 2013 LEON GUANARIATO",
+      "titulo": "SEGUNDA",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 14,
@@ -199,9 +199,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "LU / MEMORIAS DE LA: / MN\" SEMANA DE LA ARQUEOLOGÍA / DE LEÓN, GUANAJUATO, MÉXICO / Y EL MUNDO. / PROYECTO CULTURAL LEON PREHISPANICO A.C. / EN COORDINADOR / LUIS HUMBERTO CARLÍN VARGAS / a ENTER",
-      "titulo": "MN\" SEMANA DE LA ARQUEOLOGÍA",
-      "titulo_confianza": 96.0
+      "texto_ocr": "MEMORIAS DE LA / la SEMANA DE LA ARQUEOLOGÍA / DE LEÓN GUANAJUATO MÉXICO / Y EL MUNDO / LEÓN GTO.ABRIL 2013 / gr / PROYECTO CULTURAL LEÓN PREHISPÁNICO A.C. / COORDINADOR / LUIS HUMBERTO CARLÍN VARGAS / EDITORIAL / MONTEA",
+      "titulo": "la SEMANA DE LA ARQUEOLOGÍA DE LEÓN GUANAJUATO MÉXICO",
+      "titulo_confianza": 97.8
     },
     {
       "indice": 15,
@@ -210,9 +210,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "MEMORIAS DE LA: / I SEMANA DE LA ARQUEOLOGÍA / DE LEÓN, GUANAJUATO, MÉXICO / Y EL MUNDO. / LEÓN, GTO. ABRIL 2013 / PROYECTO CULTURAL LEÓN PREHISPÁNICO A.C. / COORDINADOR / LUIS HUMBERTO CARLÍN VARGAS",
-      "titulo": "I SEMANA DE LA ARQUEOLOGÍA DE LEÓN, GUANAJUATO, MÉXICO Y EL MUNDO",
-      "titulo_confianza": 96.0
+      "texto_ocr": "MEMORIAS DE LA / 1ª SEMANA DE LA ARQUEOLOGÍA / DE LEÓN GUANAJUATO MÉXICO / Y EL MUNDO / LEÓN GTO.ABRIL 2013 / I drit / PROYECTO CULTURAL LEÓN PREHISPÁNICO A.C. / COORDINADOR / LUIS HUMBERTO CARLÍN VARGAS / EDITORIAL / MONTEA",
+      "titulo": "1ª SEMANA DE LA ARQUEOLOGÍA DE LEÓN GUANAJUATO MÉXICO",
+      "titulo_confianza": 97.5
     },
     {
       "indice": 16,
@@ -221,9 +221,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "5TA SEMANA DE ARQUEOLOGÍA EN LEÓN / BIONRQUEOLOGIA / Coordinadores: / ARQLGO, LUIS HUMBERTO CARLIN VARGAS / UNIVERSIDAD MERIDIANO A.C",
-      "titulo": "BIONRQUEOLOGIA",
-      "titulo_confianza": 76.0
+      "texto_ocr": "5TA SEMANA DE ARQUEOLOGÍA EN LEÓN / BIOARQUEOLOGÍA / Coordinadores / ARQLGO LUIS HUMBERTO CARLÍN VARGAS / UM MONTEA / UNIVERSIDAD MERIDIANO A.C.",
+      "titulo": "BIOARQUEOLOGÍA",
+      "titulo_confianza": 92.3
     },
     {
       "indice": 17,
@@ -232,9 +232,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "STA SEMANA DE ARQUEOLOGÍA EN LEÓN / “a E A isla 14 ía / ñ BIC ARQUEO dC oGIA / Coordinadores: o / ARQLGO. LUIS HUMBERTO CARLÍN VARGAS / UNIVERSIDAD MERIDIANO A.C,",
-      "titulo": "STA SEMANA DE ARQUEOLOGÍA EN LEÓN",
-      "titulo_confianza": 96.0
+      "texto_ocr": "5TA SEMANA DE ARQUEOLOGÍA EN LEÓN / BIOARQUEOLOGÍA / Coordinadores / ARQLGO LUIS HUMBERTO CARLÍN VARGAS / UM MONTEA / UNIVERSIDAD MERIDIANO A.C.",
+      "titulo": "BIOARQUEOLOGÍA",
+      "titulo_confianza": 94.6
     },
     {
       "indice": 18,
@@ -243,9 +243,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "v / o / «a / Qe / a U / 3 / e / »4 / LA / \"E / o / ED” s NA / LA INDUSTRIA LÍTICA / EN EL NORTE DE MÉXICO / COORDINADORAS / e / x / e / LA / Ber / INSTITUTO NACIONAL DE ANTROPOLOGÍ, / A E HISTORIA",
-      "titulo": "a U",
-      "titulo_confianza": 84.5
+      "texto_ocr": "LA INDUSTRIA LÍTICA / EN EL NORTE DE MÉXICO / Leticia González Arratia y Lorena Mirambell / COORDINADORAS / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA / 75 ANIVERSARIO",
+      "titulo": "LA INDUSTRIA LÍTICA EN EL NORTE DE MÉXICO",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 19,
@@ -254,9 +254,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "VII Jornadas ISSN 0185-3635 / de Historia / de Occidente / FRANCISCO / J. MUGICA / 29-30 noviembre / y lo. diciembre, 1984 / i Y dl 4 de e 70: / Centro de Estudios de la Revolución / Mexicana “Lázaro Cárdenas”, A.C., / Jiquilpan, Michoacán",
-      "titulo": "de Historia de Occidente",
-      "titulo_confianza": 96.0
+      "texto_ocr": "VII Jornadas ISSN 0185-3635 / de Historia / de Occidente / FRANCISCO / J. MUGICA / 29-30 noviembre / y lo diciembre 1984 / Centro de Estudios de la Revolución / Mexicana Lázaro Cárdenas A.C. / Jiquilpan Michoacán",
+      "titulo": "de Historia de Occidente FRANCISCO J. MUGICA",
+      "titulo_confianza": 96.8
     },
     {
       "indice": 20,
@@ -265,9 +265,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "JRUAPAN / MÍA MUNICIPAL",
-      "titulo": "JRUAPAN",
-      "titulo_confianza": 85.0
+      "texto_ocr": "URUAPAN / MONOGRAFÍA MUNICIPAL / 1500-1970 / FRANCISCO MIRANDA / Uruapan / H. AYUNTAMIENTO 1999 2001 / Desarrollo con Sentido Humano",
+      "titulo": "URUAPAN MONOGRAFÍA MUNICIPAL",
+      "titulo_confianza": 90.7
     },
     {
       "indice": 21,
@@ -276,9 +276,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Número 18 Abril-Junio 2000 / GACETA / Órgano Informativo del Centro de Documentación Museológica / CACONACULTA INAH Y Coordinación Nacional de Museos y Exposiciones ICOM@MEXCO",
-      "titulo": "GACETA",
-      "titulo_confianza": 91.0
+      "texto_ocr": "Número 18 Abril Junio 2000 / GACETA / DE / MUSEOS / Órgano Informativo del Centro de Documentación Museológica / ACONACULTA INAH Coordinación Nacional de Museos y Exposiciones ICOM MEXICO",
+      "titulo": "GACETA MUSEOS",
+      "titulo_confianza": 96.5
     },
     {
       "indice": 22,
@@ -287,9 +287,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Numero 18 Abril Junio 2000 / Órgano Informativo del Centro de Documentación Museológica / CACONACULTA INAH Coordinación Nacional de Museos y Exposiciones / ICOME) NBICO",
-      "titulo": "Órgano Informativo del Centro de Documentación Museológica",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Número 18 Abril Junio 2000 / GACETA / DE / MUSEOS / Órgano Informativo del Centro de Documentación Museológica / ACONACULTA INAH Coordinación Nacional de Museos y Exposiciones ICOM MEXICO",
+      "titulo": "GACETA MUSEOS",
+      "titulo_confianza": 96.5
     },
     {
       "indice": 23,
@@ -298,9 +298,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "La tradición oral / sobre Cuauhtémoc / Alicia Olivera de Bonfil / o",
+      "texto_ocr": "La tradición oral / sobre Cuauhtémoc / Alicia Olivera de Bonfil / UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO",
       "titulo": "La tradición oral sobre Cuauhtémoc",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 99.1
     },
     {
       "indice": 24,
@@ -309,9 +309,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Mari Carmen Serra Puche / LOS RECURSOS LACUSTRES / DE LA CUENCA DE MEXICO / DURANTE EL FORMATIVO / COORDINACION GENERAL DE / ESTUDIOS DE POSGRADO / INSTITUTO DE / INVESTIGACIONES / Colección / Posgrado / ANTROPOLOGICAS",
+      "texto_ocr": "3 / Mari Carmen Serra Puche / LOS RECURSOS LACUSTRES / DE LA CUENCA DE MEXICO / DURANTE EL FORMATIVO / COORDINACION GENERAL DE / ESTUDIOS DE POSGRADO / INSTITUTO DE / INVESTIGACIONES Colección / ANTROPOLOGICAS Posgrado",
       "titulo": "Mari Carmen Serra Puche",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 98.0
     },
     {
       "indice": 25,
@@ -320,9 +320,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Teresa Rojas Rabiela/William T. Sanders / Historia de la / agricultura / Epoca prehispánica / siglo XVI TOMO / Colección Biblioteca del INHA",
-      "titulo": "Historia de la agricultura Epoca prehispánica siglo XVI TOMO",
-      "titulo_confianza": 96.0
+      "texto_ocr": "Teresa Rojas Rabiela William T. Sanders / Historia de la / agricultura / Epoca prehispánica / siglo XVI TOMO I / Colección Biblioteca del INHA",
+      "titulo": "Historia de la agricultura Epoca prehispánica",
+      "titulo_confianza": 98.7
     },
     {
       "indice": 26,
@@ -333,7 +333,7 @@
       "rotacion_confianza": "alta",
       "texto_ocr": "CLAUDE NIGEL BYAM DAVIES / Los Señoríos Independientes / del Imperio Azteca / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA / MEXICO 1968",
       "titulo": "Los Señoríos Independientes del Imperio Azteca",
-      "titulo_confianza": 94.5
+      "titulo_confianza": 98.5
     },
     {
       "indice": 27,
@@ -342,9 +342,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "HISTORIA GENERAL / DE LAS COSAS DE / NUEVA ESPAÑA / Escrita por / FR. BERNARDINO DE SAHAGUN / FRANCISCANO / y fundada en la documentación en lengua mexicana / recogida por los mismos naturales / La dispuso para la prensa en esta nueva edición, con numeración, / anotaciones y apéndices / ANGEL MARIA GARIBAY E. / TOMO IV / En que se contienen los libros I, IL, III y IV / EDITORIAL PORRUA,S.A. / AV. REPUBLICA ARGENTINA 15 MEXICO, D.F. / ee —o—",
+      "texto_ocr": "11 / HISTORIA GENERAL / DE LAS COSAS DE / NUEVA ESPAÑA / Escrita por / FR BERNARDINO DE SAHAGUN / FRANCISCANO / y fundada recogida en la documentación por los mismos en naturales lengua mexicana / La dispuso para la prensa en esta nueva edición con numeración / anotaciones y apéndices / ANGEL MARIA GARIBAY K. / TOMO IV / En que se contienen los libros I II III y IV / EDITORIAL PORRUA S.A. / AV REPUBLICA ARGENTINA 15 MEXICO D.F.",
       "titulo": "NUEVA ESPAÑA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 96.8
     },
     {
       "indice": 28,
@@ -355,7 +355,7 @@
       "rotacion_confianza": "alta",
       "texto_ocr": "y el cielo / el cerro / Rossana Quiroz Ennis",
       "titulo": "y el cielo el cerro",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 98.9
     },
     {
       "indice": 29,
@@ -364,9 +364,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "",
-      "titulo": "",
-      "titulo_confianza": 0.0
+      "texto_ocr": "Los petroglifos / del norte de México / Victor Joel Santos Ramírez / Ramón Viñas Vallverdú / coordinadores",
+      "titulo": "Los petroglifos del norte de México",
+      "titulo_confianza": 98.1
     },
     {
       "indice": 30,
@@ -375,9 +375,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "El occidente de México: / arqueología, historia y medio ambiente / Perspectivas regionales / Actas del IV / Coloquio de / Occidentalistas / SNAUIOIO / UNIVERSIDAD DE GUADALAJARA / INSTITUTO FRANCÉS DE / INVESTIGACIÓN CIENTÍFICA PARA / EL DESARROLLO EN COOPERACIÓN",
-      "titulo": "El occidente de México: arqueología, historia y medio ambiente Perspectivas regionales",
-      "titulo_confianza": 96.0
+      "texto_ocr": "El occidente de México / arqueología historia y medio ambiente / Perspectivas regionales / Tepecuanes Actas del IV / Coringa Terra tibus afferrina grata et Coloquio de / Xurute / nfule fortn Granos Occidentalistas / Chiapoli / Throfci / Teccalium / Guaxacate / us prouma / CHAPALICUM MAXL / Tecaniorum / prosinca Tecaxqui / OCCIDENS Margar / Antony / Nalinitatis / Sinus / Perta / Leftri / Parrison longerudins bu / no tabule ut non furn / tar Prolomas more MOTY ab infe / Canaris verfus Ori / fed Toleram Hyppanien / fis meridian Occiden / verf Magnu / UNIVERSIDAD DE GUADALAJARA / INSTITUTO FRANCÉS DE / INVESTIGACIÓN CIENTÍFICA PARA / EL DESARROLLO EN COOPERACIÓN",
+      "titulo": "El occidente de México arqueología historia y medio ambiente Perspectivas regionales",
+      "titulo_confianza": 99.1
     },
     {
       "indice": 31,
@@ -387,8 +387,8 @@
       "rotacion": 180,
       "rotacion_confianza": "alta",
       "texto_ocr": "INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA / DIÁLOGOS CON EL PASADO / RECUENTO",
-      "titulo": "DIÁLOGOS CON EL PASADO RECUENTO",
-      "titulo_confianza": 95.5
+      "titulo": "DIÁLOGOS CON EL PASADO",
+      "titulo_confianza": 98.0
     },
     {
       "indice": 32,
@@ -397,9 +397,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "es e al 3 Un de: a SF / PISTA CUADALAJARA-TEPIC / RAMO IXTLAN-TEPIC: gest / Nias UA 1994 he ero ME / IE LI. VETA My / 1 7 MEA pr",
-      "titulo": "PISTA CUADALAJARA-TEPIC RAMO IXTLAN-TEPIC: gest",
-      "titulo_confianza": 80.0
+      "texto_ocr": "IXTLAN / ciudad del viento / 1.2.366 / Sep / Conare / AUTOPISTA GUADALAJARA TEPIC / TRAMO IXTLAN TEPIC / 1994",
+      "titulo": "IXTLAN",
+      "titulo_confianza": 93.0
     },
     {
       "indice": 33,
@@ -408,9 +408,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "MEMORIA / MESAS DE ANÁLISIS EN / MATERIA DE POLÍTICA Y / LEGISLACIÓN CULTURAL / COMISIÓN DE CULTURA",
+      "texto_ocr": "MEMORIA / MESAS DE ANÁLISIS EN / MATERIA DE POLÍTICA Y / LEGISLACIÓN CULTURAL / COMISIÓN DE CULTURA / 7 y 8 de febrero de 1996",
       "titulo": "MEMORIA",
-      "titulo_confianza": 96.0
+      "titulo_confianza": 97.9
     },
     {
       "indice": 34,
@@ -419,9 +419,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "EIA / Christine Niedernerger / r / ZOHAPLOO: / NCO MILENIOS DE OCUPACIÓN / HUMANA EN UN SITIO / LACUSTRE DE -1A- / CUENLA DE MÉXICO.",
-      "titulo": "HUMANA EN UN SITIO LACUSTRE DE -1A- CUENLA DE MÉXICO",
-      "titulo_confianza": 92.0
+      "texto_ocr": "Christine Niederberger / ZOHAPILCO / CINCO MILENIOS DE OCUPACION / HUMANA EN UN SITIO / LACUSTRE DE A. / CUENCA DE MEXICO / 30 / COLECCION / CIENTIFICA / Arqueología",
+      "titulo": "ZOHAPILCO",
+      "titulo_confianza": 94.0
     },
     {
       "indice": 35,
@@ -430,9 +430,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "Proyecto Temamatla 1l4/UNAM, Cerámica / Felipe Ramírez e Lorena Gámez / Fernán González / Mari Carmen Serra / Coordinadora del Proyecto / Cerámica de / Temamatla / UNIVERSIDAD NACIONAL AUTÓNOMA DE MExico / Instituto de Investigaciones Antropológicas",
+      "texto_ocr": "Proyecto Temamatla IIA UNAM Cerámica / Felipe Ramírez Lorena Gámez / Fernán González / Mari Carmen Serra / Coordinadora del Proyecto / Cerámica de / Temamatla / UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO / Instituto de Investigaciones Antropológicas",
       "titulo": "Cerámica de Temamatla",
-      "titulo_confianza": 92.2
+      "titulo_confianza": 97.9
     },
     {
       "indice": 36,
@@ -441,9 +441,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "ee ee Oe / La Ley del Servicio Profesional / de Carrera en la Administracion / Publica Federal: / Alcances y limites / de su aplicacion en las Instituciones / de Educación Superior / Bolfy Cottom",
-      "titulo": "La Ley del Servicio Profesional de Carrera en la Administracion Publica Federal: Alcances y limites",
-      "titulo_confianza": 95.2
+      "texto_ocr": "La Ley del Servicio Profesional / de Carrera en la Administración / Pública Federal / Alcances y límites / de su aplicación en las Instituciones / de Educación Superior / Bolfy Cottom",
+      "titulo": "La Ley del Servicio Profesional de Carrera en la Administración Pública Federal Alcances y límites",
+      "titulo_confianza": 98.1
     },
     {
       "indice": 37,
@@ -452,9 +452,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "Y Ala Cama NO Jolie Re ie / «Robert 83, Era. NT TOMO. TIO he r itr / on in 4 / Coordinadores Pa Ws sy / 1 a / “ze Ma: a. / ia Las Ad",
-      "titulo": "1 a",
-      "titulo_confianza": 79.0
+      "texto_ocr": "ARQUEOLOGIA / MESOAMERICANA / HOME WILLIAM I SANDERS / Alba Guadalupe Marache Jeffrey R. Parsons / Robert S. Simule Aluri Cuma Seria Puche / Coordinadores",
+      "titulo": "ARQUEOLOGIA",
+      "titulo_confianza": 94.7
     },
     {
       "indice": 38,
@@ -463,9 +463,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "MESOAMERIC ANAS / a / ‘Hilfe Bip / y de 3 A 5 / SE e, Te he es EE / a Mas L pe 4 rn a y / ue of =a i AA Y / 4 4 y ra: y / Lo a a ee “(eoyepee / Le a3 4 pe e / a 7, »”Wi- q aly td / Y ow rad TA 1",
-      "titulo": "MESOAMERIC ANAS",
-      "titulo_confianza": 80.0
+      "texto_ocr": "ARQUEOLOGÍA / MESOAMERICANA / HOMENAJE A WILLIAM T. SANDERS / Alba Guadalupe Masriche Jeffrey R. Parsons / Robert S. Sandey Mari Carmen Sema Puche / Coordinadores",
+      "titulo": "ARQUEOLOGÍA",
+      "titulo_confianza": 95.4
     },
     {
       "indice": 39,
@@ -474,9 +474,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "7“ / A / TRA( / JUIN 1992 ~N°2]",
-      "titulo": "TRA(",
-      "titulo_confianza": 92.0
+      "texto_ocr": "ARQUE LOGÍA / R / UDIO UDIOS MEXIC / ES DE CANOS / Y / CENTRO CENTRO / JUIN 1992 N 21 SONVORY",
+      "titulo": "ARQUE LOGÍA",
+      "titulo_confianza": 85.4
     },
     {
       "indice": 40,
@@ -485,9 +485,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "alta",
-      "texto_ocr": "TRACE / Caminos de / siempre / JUIN 1997 N*31",
+      "texto_ocr": "TRACE / Caminos de / siempre / 1 / DE ESTUDIOS / FRANCES ce M MEXICANOS / CENTRO LA Y CEN / JUIN 1997 Nº 31",
       "titulo": "TRACE",
-      "titulo_confianza": 93.0
+      "titulo_confianza": 96.7
     },
     {
       "indice": 41,
@@ -496,9 +496,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "is / DECEMBRE 2000 N° 38 Saks!",
-      "titulo": "DECEMBRE 2000 N° 38 Saks!",
-      "titulo_confianza": 58.0
+      "texto_ocr": "L / cuerpo cuerpo sus males / sus / CAMLO / Malala / Tigre / ritos / ESTUAKIG / FRANCES ce M MESCANOS / DECEMBRE 2000 Nº 38 GET LA Y CEM",
+      "titulo": "cuerpo cuerpo sus males",
+      "titulo_confianza": 99.1
     },
     {
       "indice": 42,
@@ -507,9 +507,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "y / TRACE / DICIEMBRE 1995 N'29",
-      "titulo": "TRACE",
-      "titulo_confianza": 90.0
+      "texto_ocr": "MAYAS / one o he Se 3429 / DE ESTUDIOS / FRANCES CENTRO LA W MEXICAMOS Y CEM / DECEMBRE 1995 Nº 28 ROAMERICANO",
+      "titulo": "MAYAS",
+      "titulo_confianza": 99.1
     },
     {
       "indice": 43,
@@ -518,9 +518,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "o? / VIGO / DECEMBRE 1999 N°16",
-      "titulo": "DECEMBRE 1999 N°16",
-      "titulo_confianza": 85.0
+      "texto_ocr": "TRACE / Especia / arqueologia / oran / STUDIOS ES UDIOS MEX CANOS / DE CENTRO Y CENTRO / DECEMBRE 1989 N 16 SONVOROWY",
+      "titulo": "TRACE",
+      "titulo_confianza": 91.9
     },
     {
       "indice": 44,
@@ -529,9 +529,9 @@
       "descargado": true,
       "rotacion": 180,
       "rotacion_confianza": "por-album",
-      "texto_ocr": "DECEMBRE 1989 N*16",
-      "titulo": "DECEMBRE 1989 N*16",
-      "titulo_confianza": 90.0
+      "texto_ocr": "TRACE / Especial / arqueología / UDK UDIOS MEX / ES CANOS / DE CENTRO Y CENTRO / DECEMBRE 1989- N 16 SONVOLW",
+      "titulo": "TRACE",
+      "titulo_confianza": 96.0
     }
   ],
   "rotacion_album": 180,

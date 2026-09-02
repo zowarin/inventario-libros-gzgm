@@ -1,4 +1,6 @@
 """Lectura de album.md -> lista de URLs de albumes compartidos."""
+from __future__ import annotations
+
 import re
 from pathlib import Path
 

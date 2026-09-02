@@ -1,5 +1,6 @@
 """Rutas, umbrales y localizacion del binario de Tesseract."""
 import os
+import re
 import shutil
 from pathlib import Path
 
@@ -39,6 +40,30 @@ CONFIANZA_MINIMA_LINEA = 55   # descarta lineas de OCR por debajo de esto
 TOLERANCIA_ALTURA = 0.25      # dos lineas son del mismo bloque si difieren <25%
 
 URL_TRAINEDDATA = "https://github.com/tesseract-ocr/tessdata_best/raw/main/{lang}.traineddata"
+
+# --- Google Vision ----------------------------------------------------------
+ENV_FILE = RAIZ / ".env"
+VISION_API_URL = "https://vision.googleapis.com/v1/images:annotate"
+
+
+def cargar_vision_api_key() -> str:
+    """Lee GOOGLE_VISION_API_KEY del entorno o, si falta, de .env.
+
+    No usa python-dotenv (no esta en requirements.txt) porque es una unica
+    variable y no vale la pena la dependencia extra.
+    """
+    clave = os.environ.get("GOOGLE_VISION_API_KEY", "")
+    if not clave and ENV_FILE.is_file():
+        m = re.search(
+            r'^GOOGLE_VISION_API_KEY\s*=\s*"?([^"\n]*)"?\s*$',
+            ENV_FILE.read_text(encoding="utf-8"),
+            re.MULTILINE,
+        )
+        if m:
+            clave = m.group(1)
+    if not clave:
+        raise RuntimeError("GOOGLE_VISION_API_KEY no configurada (revisa .env)")
+    return clave
 
 
 def localizar_tesseract() -> str:
