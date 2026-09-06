@@ -1,0 +1,255 @@
+<section class="mx-auto max-w-6xl p-4 sm:p-6">
+  <header class="mb-6 flex flex-wrap items-center justify-between gap-4">
+    <h1 class="text-2xl font-semibold text-gray-900">Inventario de libros</h1>
+    <div class="flex items-center gap-3">
+      <a
+        routerLink="/inventario/imprimir"
+        [queryParams]="{ caja: selectedCaja() || null }"
+        class="rounded-md border border-gray-300 px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline focus:outline-2 focus:outline-offset-2 focus:outline-indigo-600"
+      >
+        Imprimir listado (con portadas)
+      </a>
+      <a
+        routerLink="/inventario/imprimir-simple"
+        [queryParams]="{ caja: selectedCaja() || null }"
+        class="rounded-md border border-gray-300 px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline focus:outline-2 focus:outline-offset-2 focus:outline-indigo-600"
+      >
+        Imprimir listado (una hoja)
+      </a>
+      <a
+        routerLink="/inventario/nuevo"
+        class="rounded-md bg-indigo-600 px-4 py-2 text-sm font-medium text-white hover:bg-indigo-500 focus:outline focus:outline-2 focus:outline-offset-2 focus:outline-indigo-600"
+      >
+        + Nuevo libro
+      </a>
+    </div>
+  </header>
+
+  @if (service.error(); as errorMsg) {
+    <div class="mb-4 rounded-md border border-red-300 bg-red-50 p-4 text-sm text-red-700" role="alert">
+      {{ errorMsg }}
+    </div>
+  }
+
+  <div class="mb-4 flex flex-wrap items-center gap-3">
+    <div class="relative w-full sm:w-72">
+      <input
+        type="search"
+        placeholder="Buscar por título, texto OCR, archivo…"
+        class="w-full rounded-md border border-gray-300 py-1.5 pl-9 pr-3 text-sm focus:border-indigo-500 focus:outline focus:outline-2 focus:outline-indigo-500"
+        [value]="searchTerm()"
+        (input)="onSearchChange($event)"
+        aria-label="Buscar en el inventario"
+      />
+      <svg
+        class="pointer-events-none absolute left-2.5 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="2"
+        stroke="currentColor"
+        aria-hidden="true"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"
+        />
+      </svg>
+    </div>
+
+    <label for="filtro-caja" class="text-sm font-medium text-gray-700">Filtrar por caja</label>
+    <select
+      id="filtro-caja"
+      class="rounded-md border border-gray-300 px-3 py-1.5 text-sm focus:border-indigo-500 focus:outline focus:outline-2 focus:outline-indigo-500"
+      (change)="onCajaChange($event)"
+    >
+      <option value="" [selected]="selectedCaja() === ''">Todas las cajas</option>
+      @for (caja of service.cajas(); track caja) {
+        <option [value]="caja" [selected]="caja === selectedCaja()">{{ caja }}</option>
+      }
+    </select>
+
+    @if (!service.loading()) {
+      <span class="text-sm text-gray-500">
+        @if (service.totalCount() > 0) {
+          Mostrando {{ rangeStart() }}–{{ rangeEnd() }} de {{ service.totalCount() }}
+        } @else {
+          0 resultados
+        }
+      </span>
+    }
+
+    <div class="ml-auto flex items-center gap-1 rounded-md border border-gray-300 p-0.5" role="group" aria-label="Modo de vista">
+      <button
+        type="button"
+        class="rounded px-3 py-1 text-sm font-medium"
+        [class.bg-indigo-600]="viewMode() === 'table'"
+        [class.text-white]="viewMode() === 'table'"
+        [class.text-gray-600]="viewMode() !== 'table'"
+        [attr.aria-pressed]="viewMode() === 'table'"
+        (click)="setViewMode('table')"
+      >
+        Tabla
+      </button>
+      <button
+        type="button"
+        class="rounded px-3 py-1 text-sm font-medium"
+        [class.bg-indigo-600]="viewMode() === 'grid'"
+        [class.text-white]="viewMode() === 'grid'"
+        [class.text-gray-600]="viewMode() !== 'grid'"
+        [attr.aria-pressed]="viewMode() === 'grid'"
+        (click)="setViewMode('grid')"
+      >
+        Cards
+      </button>
+    </div>
+  </div>
+
+  @if (!service.loading() && service.items().length > 0) {
+    <ng-container *ngTemplateOutlet="pagination"></ng-container>
+  }
+
+  @if (service.loading()) {
+    <p class="text-sm text-gray-500">Cargando inventario…</p>
+  } @else if (service.items().length === 0) {
+    <p class="text-sm text-gray-500">No hay libros que coincidan con la búsqueda o el filtro.</p>
+  } @else if (viewMode() === 'table') {
+    <div class="overflow-x-auto rounded-lg border border-gray-200">
+      <table class="min-w-full divide-y divide-gray-200 text-sm">
+        <thead class="bg-gray-50">
+          <tr>
+            <th scope="col" class="px-4 py-3 text-left font-medium text-gray-600">Id</th>
+            <th scope="col" class="px-4 py-3 text-left font-medium text-gray-600">Portada</th>
+            <th scope="col" class="px-4 py-3 text-left font-medium text-gray-600">Texto OCR</th>
+            <th scope="col" class="px-4 py-3 text-left font-medium text-gray-600">Caja</th>
+            <th scope="col" class="px-4 py-3 text-right font-medium text-gray-600">Acciones</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-gray-100 bg-white">
+          @for (item of service.items(); track item.id) {
+            <tr>
+              <td class="px-4 py-3 align-top text-gray-500">{{ item.id }}</td>
+              <td class="px-4 py-3 align-top">
+                @if (portadaSrc(item); as src) {
+                  <button
+                    type="button"
+                    class="block cursor-zoom-in rounded focus:outline focus:outline-2 focus:outline-offset-2 focus:outline-indigo-600"
+                    (click)="openLightbox(item)"
+                    aria-label="Ampliar portada de {{ item.titulo || item.archivo }}"
+                  >
+                    <img
+                      [ngSrc]="src"
+                      width="192"
+                      height="320"
+                      loading="lazy"
+                      class="h-80 w-48 rounded object-cover shadow-sm"
+                      alt="Portada de {{ item.titulo || item.archivo }}"
+                    />
+                  </button>
+                } @else {
+                  <div
+                    class="flex h-80 w-48 items-center justify-center rounded bg-gray-100 text-xs text-gray-400"
+                  >
+                    Sin imagen
+                  </div>
+                }
+              </td>
+              <td class="max-w-sm px-4 py-3 align-top text-gray-700">
+                <span class="line-clamp-8" [title]="item.texto_ocr || ''">
+                  {{ item.texto_ocr || '(sin texto OCR)' }}
+                </span>
+              </td>
+              <td class="px-4 py-3 align-top text-gray-600">{{ item.album }}</td>
+              <td class="px-4 py-3 align-top text-right">
+                <a
+                  [routerLink]="['/inventario', item.id, 'editar']"
+                  class="font-medium text-indigo-600 hover:text-indigo-500"
+                >
+                  Editar
+                </a>
+              </td>
+            </tr>
+          }
+        </tbody>
+      </table>
+    </div>
+
+    <ng-container *ngTemplateOutlet="pagination"></ng-container>
+  } @else {
+    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+      @for (item of service.items(); track item.id) {
+        <div class="overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm">
+          @if (portadaSrc(item); as src) {
+            <button
+              type="button"
+              class="block w-full cursor-zoom-in focus:outline focus:outline-2 focus:outline-offset-2 focus:outline-indigo-600"
+              (click)="openLightbox(item)"
+              aria-label="Ampliar portada de {{ item.titulo || item.archivo }}"
+            >
+              <img
+                [ngSrc]="src"
+                width="192"
+                height="320"
+                loading="lazy"
+                class="h-80 w-full object-cover"
+                alt="Portada de {{ item.titulo || item.archivo }}"
+              />
+            </button>
+          } @else {
+            <div class="flex h-80 w-full items-center justify-center bg-gray-100 text-xs text-gray-400">
+              Sin imagen
+            </div>
+          }
+          <div class="p-3">
+            <p class="mb-1 text-xs text-gray-400">#{{ item.id }} · {{ item.album }}</p>
+            <p class="line-clamp-4 text-sm text-gray-700" [title]="item.texto_ocr || ''">
+              {{ item.texto_ocr || '(sin texto OCR)' }}
+            </p>
+          </div>
+        </div>
+      }
+    </div>
+
+    <ng-container *ngTemplateOutlet="pagination"></ng-container>
+  }
+
+  <ng-template #pagination>
+    <nav class="mt-4 flex flex-col items-center justify-between gap-3 sm:flex-row" aria-label="Paginación">
+      <label class="flex items-center gap-2 text-sm text-gray-600">
+        Registros por página
+        <select
+          class="rounded-md border border-gray-300 px-2 py-1.5 text-sm focus:border-indigo-500 focus:outline focus:outline-2 focus:outline-indigo-500"
+          (change)="onPageSizeChange($event)"
+        >
+          @for (size of pageSizeOptions; track size) {
+            <option [value]="size" [selected]="size === pageSize()">{{ size }}</option>
+          }
+        </select>
+      </label>
+
+      <div class="flex items-center gap-2 sm:gap-3">
+        <button
+          type="button"
+          class="rounded-md border border-gray-300 px-3 py-1.5 text-sm font-medium text-gray-700 hover:bg-gray-50 disabled:cursor-not-allowed disabled:opacity-50"
+          [disabled]="page() <= 1"
+          (click)="goToPage(page() - 1)"
+        >
+          ← Anterior
+        </button>
+
+        <span class="whitespace-nowrap text-sm text-gray-600">Página {{ page() }} de {{ totalPages() }}</span>
+
+        <button
+          type="button"
+          class="rounded-md border border-gray-300 px-3 py-1.5 text-sm font-medium text-gray-700 hover:bg-gray-50 disabled:cursor-not-allowed disabled:opacity-50"
+          [disabled]="page() >= totalPages()"
+          (click)="goToPage(page() + 1)"
+        >
+          Siguiente →
+        </button>
+      </div>
+    </nav>
+  </ng-template>
+
+  <fslightbox [toggler]="lightboxToggler()" [sources]="lightboxSources()" [slide]="lightboxSlide()"></fslightbox>
+</section>

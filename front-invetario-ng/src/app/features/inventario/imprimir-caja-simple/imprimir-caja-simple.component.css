@@ -1,0 +1,60 @@
+@page {
+  size: letter;
+  margin: 12mm;
+}
+
+.columnas-libros {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+}
+
+.columnas-libros table {
+  flex: 1 1 0;
+  min-width: 0;
+  table-layout: fixed;
+}
+
+.truncar {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.id-badge {
+  display: inline-block;
+  min-width: 1.6em;
+  padding: 0 5px;
+  border: 1px solid #111827;
+  border-radius: 3px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: #111827;
+  background: #e5e7eb;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  .print-area {
+    width: 100%;
+  }
+
+  table {
+    font-size: 10.5px;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  .row-libro {
+    break-inside: avoid;
+  }
+}
