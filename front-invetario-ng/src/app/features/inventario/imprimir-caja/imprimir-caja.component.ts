@@ -76,7 +76,7 @@ export class ImprimirCajaComponent implements OnInit {
   }
 
   protected portadaSrc(item: Inventario): string | null {
-    return item.portada ? `/${item.portada}` : null;
+    return item.portada || null;
   }
 
   protected tituloLibro(item: Inventario): string {

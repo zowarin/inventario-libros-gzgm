@@ -106,7 +106,7 @@ export class InventarioListComponent implements OnInit, OnDestroy {
   }
 
   protected portadaSrc(item: Inventario): string | null {
-    return item.portada ? `/${item.portada}` : null;
+    return item.portada || null;
   }
 
   protected setViewMode(mode: ViewMode): void {
