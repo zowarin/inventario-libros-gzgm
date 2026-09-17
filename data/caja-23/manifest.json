@@ -35,7 +35,10 @@
       "archivo": "001_AP1GczNiln.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ESCUELA NACIONAL DE ANTROPOLOGIA / E HISTORIA / I.N.A.H. S.E.P. / LAS TUMBAS DE TIRO UN SISTEMA DE / ENTERRAMIENTO PREHISPANICO / QUE TE PARA OPTAR S POR EL 1 TITULO SE DE / LICENCIADA EN ARQUEOLOGIA / PRESENTA / VERONICA JOSEFINA RODRIGUEZ ALMAZAN / DIRECTOR DE TESIS / MAESTRA MA DE LOS DOLORES SOTO Y ALVAREZ / MEXICO D. F. 1996",
+      "titulo": "ESCUELA NACIONAL DE ANTROPOLOGIA E HISTORIA",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 2,
@@ -43,7 +46,10 @@
       "archivo": "002_AP1GczPNIG.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Miguel Othón de Mendizábal / OBRAS COMPLETAS / TOMO QUINTO / MEXICO D. F.",
+      "titulo": "OBRAS COMPLETAS",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 3,
@@ -51,7 +57,10 @@
       "archivo": "003_AP1GczM-_s.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "por-album"
+      "rotacion_confianza": "por-album",
+      "texto_ocr": "DE TLACUILOS / Y ESCRIBANOS / Xavier Noguez / Stephanie Wood / Coordinadores / carpiling igomo / tocino om mio a lignitat in pac ngoctoratele 90 um a Rotacaxiaso / n.??loctocilately / Exal Yan / EL COLEGIO DE MICHOACÁN / EL COLEGIO MEXIQUENSE",
+      "titulo": "DE TLACUILOS Y ESCRIBANOS",
+      "titulo_confianza": 97.8
     },
     {
       "indice": 4,
@@ -59,7 +68,10 @@
       "archivo": "004_AP1GczPBq7.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LA ARQUITECTURA DEL SENTIDO II / La producción y reproducción / en las prácticas semiótico discursivas / JULIETA HAIDAR / GRACIELA SANCHEZ GUEVARA / EDITORAS / INVESTIGACIÓN PROA",
+      "titulo": "LA ARQUITECTURA DEL SENTIDO II",
+      "titulo_confianza": 98.7
     },
     {
       "indice": 5,
@@ -67,7 +79,10 @@
       "archivo": "005_AP1GczPM67.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ESCUELA NACIONAL DE ANTROPOLOGIA E HISTORIA / I. N. A. H. S. E. P. / ACIONAL DE ANTROPOLOGIA / INSTITUTO HISTORIA / SEP / TRABAJOS DE SALVAMENTO ARQUEOLOGICO EN LAS / CUENCAS DE CUITZEO PATZCUARO Y ZIRAHUEN UN / INTENTO DE INTERPRETACION CULTURAL / TE SI S / QUE PARA OPTAR EL TITULO DE / LICENCIADO EN ARQUEOLOGIA / PRESENTA / MA ANTONIETA MOGUEL COS / MEXICO D. F. 1987",
+      "titulo": "ACIONAL DE ANTROPOLOGIA",
+      "titulo_confianza": 93.3
     },
     {
       "indice": 6,
@@ -75,7 +90,10 @@
       "archivo": "006_AP1GczOmQl.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Biología ecología / y conservación / del género Zea / Bruce F. Benz / compilador / UNIVERSIDAD DE / GUADALAJARA",
+      "titulo": "Biología ecología y conservación del género Zea",
+      "titulo_confianza": 96.9
     },
     {
       "indice": 7,
@@ -83,7 +101,10 @@
       "archivo": "007_AP1GczOeyz.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LA sti e / PIRAMIDE DE / UICUILCO / Daniel Schavelzon / ALBUM FOTOGRAFICO 1922-1980",
+      "titulo": "UICUILCO Daniel Schavelzon",
+      "titulo_confianza": 94.3
     },
     {
       "indice": 8,
@@ -91,7 +112,10 @@
       "archivo": "008_AP1GczMZVT.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "SOCIEDADES HISTORIAS LENGUAJES / Antropología de una / ELT tradición científica en México / Leviatan / arqueológico / Luis Vázquez León / TAGE / PORKES / CIESAS GRUPO EDITORIAL / A",
+      "titulo": "Leviatan",
+      "titulo_confianza": 92.7
     },
     {
       "indice": 9,
@@ -99,7 +123,10 @@
       "archivo": "009_AP1GczNaD8.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "INVESTIGACIONES / RECIENTES / EN EL AREA MAYA / XVII / MESA / REDONDA / TOMO I / SOCIEDAD MEXICANA DE ANTROPOLOGIA / Sn.Cristobal de las Casas Chiapas / 1984 21-27 Junio 1981",
+      "titulo": "INVESTIGACIONES RECIENTES EN EL AREA MAYA",
+      "titulo_confianza": 98.0
     },
     {
       "indice": 10,
@@ -107,7 +134,10 @@
       "archivo": "010_AP1GczPPrk.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "INVESTIGACIONES / RECIENTES / EN EL AREA MAYA / XVII / MESA / REDONDA / TOMO IV / SOCIEDAD MEXICANA DE ANTROPOLOGIA / Sn.Cristobal de las Casas Chiapas / 1984 21-27 Junio 1981",
+      "titulo": "INVESTIGACIONES RECIENTES EN EL AREA MAYA",
+      "titulo_confianza": 97.6
     },
     {
       "indice": 11,
@@ -115,7 +145,10 @@
       "archivo": "011_AP1GczOah3.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ARQUEOLOGIA DE SAN AGUSTIN / Pautas de asentamiento en el cañón / del río Granates Saladoblanco / HECTOR LLANOS VARGAS / 400 30 / 1000 438 / Fundación de Investigaciones Arqueológicas Nacionales / Banco de la República Bogotá 1988",
+      "titulo": "ARQUEOLOGIA DE SAN AGUSTIN Pautas de asentamiento en el cañón del río Granates Saladoblanco",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 12,
@@ -123,7 +156,10 @@
       "archivo": "012_AP1GczODQM.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "MESOAMERICA / The Evolution of a Civilization / WILLIAM T. SANDERS BARBARA J. PRICE / C / DCXX 33 / 800 / AS 9",
+      "titulo": "MESOAMERICA",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 13,
@@ -131,7 +167,10 @@
       "archivo": "013_AP1GczNJFi.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "I wonten to alco comin re wywn / to lefuelguelcom LUD / ynfank Rey to thena preso / tan martin garuaro yo / Ik / HUAMAN / 149211992 / 000 000 000 010101010 00000000 1000 1000 000 POMA / EL INDIO / CRONISTA / DIBUJANTE / ABRAHAM / PADILLA / BENDEZU / TIERRA FIRME fe",
+      "titulo": "EL INDIO CRONISTA DIBUJANTE",
+      "titulo_confianza": 97.3
     },
     {
       "indice": 14,
@@ -139,7 +178,10 @@
       "archivo": "014_AP1GczMCTP.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Las patas limpias / Mitos otomíes del sur de Querétaro / Marcelo Abramo / REGIONES DE MÉXICO / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA",
+      "titulo": "Las patas limpias",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 15,
@@ -147,7 +189,10 @@
       "archivo": "015_AP1GczPmgg.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Un Censo / una Historia / NHW / La Villa de Colima / a fines del Siglo XVIII / Rosa Margarita Nettel Ross",
+      "titulo": "Un Censo una Historia",
+      "titulo_confianza": 93.2
     },
     {
       "indice": 16,
@@ -155,7 +200,10 @@
       "archivo": "016_AP1GczNbQn.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "EARLY UTAH / FURNITURE / BY CONNIE MORNINGSTAR",
+      "titulo": "EARLY UTAH FURNITURE",
+      "titulo_confianza": 98.4
     },
     {
       "indice": 17,
@@ -163,7 +211,10 @@
       "archivo": "017_AP1GczOoyE.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "boletín / 14 / Aniversario / EL COLEGIO DE MICHOACAN / Zamora Michoacán / 1989",
+      "titulo": "boletín",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 18,
@@ -171,7 +222,10 @@
       "archivo": "018_AP1GczNrdE.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "EL INSTITUTO NACIONAL DE / ANTROPOLOGÍA E HISTORIA / FRENTE AL SIGLO XXI / Memoria del IV Congreso de / Investigadores del INAH / C / BC / Tomo I / CARMEN MORALES VALDERRAMA / MARÍA DEL CARMEN LECHUGA GARCÍA / LAURA ADRIANA CASTAÑEDA CERECERO / MARÍA IRMA LÓPEZ RAZGADO / COORDINADORAS / Delegación de / Instituto Nacional / Profesores e / de Antropologia / Investigadores / Historia / D IN A 1 S",
+      "titulo": "EL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA FRENTE AL SIGLO XXI Memoria del IV Congreso de",
+      "titulo_confianza": 98.4
     },
     {
       "indice": 19,
@@ -179,7 +233,10 @@
       "archivo": "019_AP1GczPWs4.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "EL INSTITUTO NACIONAL DE / ANTROPOLOGÍA E HISTORIA / FRENTE AL SIGLO XXI / Memoria del IV Congreso de / Investigadores del INAH / BC P / Tomo II / CARMEN MORALES VALDERRAMA / MARÍA DEL CARMEN LECHUGA GARCÍA / LAURA ADRIANA CASTAÑEDA CERECERO / MARÍA IRMA LÓPEZ RAZGADO / COORDINADORAS / Delegación de / Instituto Nacional Profesores / de Antropología EHO Investigadores e / e Historia / D II IA 1",
+      "titulo": "EL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA FRENTE AL SIGLO XXI Memoria del IV Congreso de",
+      "titulo_confianza": 98.1
     },
     {
       "indice": 20,
@@ -187,7 +244,10 @@
       "archivo": "020_AP1GczP1N8.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "DICCIONARIO / ENCICLOPEDICO / HACHETTE / CASTELL / rejón / 10 tablear",
+      "titulo": "DICCIONARIO ENCICLOPEDICO HACHETTE CASTELL",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 21,
@@ -195,7 +255,10 @@
       "archivo": "021_AP1GczMnoG.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "DICCIONARIO / ENCICLOPEDICO / HACHETTE / CASTELL / 7 MLM",
+      "titulo": "HACHETTE CASTELL 7 MLM",
+      "titulo_confianza": 96.6
     },
     {
       "indice": 22,
@@ -203,7 +266,10 @@
       "archivo": "022_AP1GczN1sK.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "DICCIONARIO / ENCICLOPEDICO / HACHETTE / 0 CASTELL / Vitte / 12 Z",
+      "titulo": "HACHETTE",
+      "titulo_confianza": 99.1
     },
     {
       "indice": 23,
@@ -211,7 +277,10 @@
       "archivo": "023_AP1GczNJC3.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "DICCIONARIO / ENCICLOPEDICO / HACHETTE / CASTELL / tablera / 11 Vitry",
+      "titulo": "HACHETTE CASTELL",
+      "titulo_confianza": 97.5
     },
     {
       "indice": 24,
@@ -219,7 +288,10 @@
       "archivo": "024_AP1GczOEtC.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ARQUEOLOGIA / Revista de la Coordinación Nacional de Arqueología del Instituto Nacional de Antropología e Historia Segunda época / Los artefactos multiperforados de ilmenita en San Lorenzo / La Yerbabuena Veracruz un monumento olmeca / en la región de Pico de Orizaba / Llano del Jícaro Un taller de monumentos olmeca / Xochitécatl Tlaxcala en el periodo Formativo 800 a.C. 100 d.C. / Los cuatro tiempos de la tradición Chupícuaro / Análisis de objetos de concha de Rancho Ina Quintana Roo / Investigaciones arqueológicas en El Japón / sitio chinampero en Xochimilco / El Japón Xochimilco análisis arqueozoológico / de un sitio en la época de la Conquista / Algunos artefactos cerámicos de Tlatilco Estado de México / Entrevista a Colin Renfrew / José Luis Lorenzo Bautista 1921-1996 / 16 / JULIO DICIEMBRE 1996",
+      "titulo": "ARQUEOLOGIA",
+      "titulo_confianza": 97.1
     }
   ],
   "rotacion_album": 270,

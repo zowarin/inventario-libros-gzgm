@@ -36,7 +36,10 @@
       "archivo": "001_AP1GczPyVq.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Luiz Boglár Tamás Kovács / Arte indígena / desde México / hasta Perú",
+      "titulo": "Arte indígena desde México hasta Perú",
+      "titulo_confianza": 96.8
     },
     {
       "indice": 2,
@@ -44,7 +47,10 @@
       "archivo": "002_AP1GczOlsX.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Ofarasca marzo 1994 número 30 / CITEM / N 85 / CHIAPAS Cambio / de máscara / El efecto EZ / en el país / pesos / nuevos / 10",
+      "titulo": "CHIAPAS Cambio de máscara",
+      "titulo_confianza": 97.3
     },
     {
       "indice": 3,
@@ -52,7 +58,10 @@
       "archivo": "003_AP1GczN79N.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Revista mensual es marzo 1992 número 6 / El Salvador / La guerra / ha / El Pacífico / de los terminado / encuentros / pesos Enrique Florescano / Tiempo y espacio / mil / 8 Eduardo Subirats / La conquista",
+      "titulo": "El Salvador",
+      "titulo_confianza": 82.3
     },
     {
       "indice": 4,
@@ -60,7 +69,10 @@
       "archivo": "004_AP1GczPHgt.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Ofarásca Revista mensual diciembre 1992 enero 19931 me 14-15 / 143293 / 2.00 / Carlos Chimal / la raza va / Jos Vicente Anaya / guerra apache / Isaías Vázquez Pimentel / Luis Humberto Crosthwaite / Lo que estará en mi corazón / Fotografía / Mariana Rosenberg / Milorad Pavić / pesos Ajedrez con piezas / nuevos mexicanas / 10 / mil pesos Eduardo Subirats / 10 La pérdida de América",
+      "titulo": "Ofarásca Revista mensual diciembre 1992 enero 19931 me 14-15",
+      "titulo_confianza": 78.1
     },
     {
       "indice": 5,
@@ -68,7 +80,10 @@
       "archivo": "005_AP1GczN9uJ.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "INDIAN COWBOYS PECOS RUINS DUKE OF DUCKS / NEW MEXICO MAGAZINE 47858 / Native AUGUST 1989 2.25 / American / special / 08 / 0 71896 47858",
+      "titulo": "NEW MEXICO MAGAZINE 47858",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 6,
@@ -76,7 +91,10 @@
       "archivo": "006_AP1GczMn_Q.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "AYNI / CARLOS MILLA VILLENA",
+      "titulo": "AYNI",
+      "titulo_confianza": 96.1
     },
     {
       "indice": 7,
@@ -84,7 +102,10 @@
       "archivo": "007_AP1GczMA9O.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "HUEHUEHTLAHTOLLI / TESTIMONIOS DE LA ANTIGUA PALABRA / MIGUEL LEÓN PORTILLA LIBRADO SILVA GALEANA / SECRETARÍA DE EDUCACIÓN PÚBLICA / FONDO DE CULTURA ECONÓMICA",
+      "titulo": "HUEHUEHTLAHTOLLI",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 8,
@@ -92,7 +113,10 @@
       "archivo": "008_AP1GczOI5X.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Pasajes de / la Historia / 44 / OO / O / O / Tomo 1",
+      "titulo": "Pasajes de la Historia",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 9,
@@ -100,7 +124,10 @@
       "archivo": "009_AP1GczNJdE.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Participación del arquitecto restaurador / en la conservación y restauración de la arquitectura prehispánica / Caso Cañada de la Virgen / San Miguel de Allende Guanajuato / Trabajo de titulación en la modalidad de Ejercicio / profesional que para obtener el grado de Maestro en / Restauración de Sitios y Monumentos presenta / Universidad División Campus de Guanajuato Arquitectura Arte y Diseño / Guanajuato / Claudia Patricia Arteaga Nieto",
+      "titulo": "Caso Cañada de la Virgen",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 10,
@@ -108,7 +135,10 @@
       "archivo": "010_AP1GczMxrI.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "SIPAN / DESCUBRIMIENTO E INVESTIGACIÓN / O / 660 / Walter Alva / El más importante descubrimiento arqueológico de los últimos años / QW Editores S.A.C.",
+      "titulo": "SIPAN",
+      "titulo_confianza": 91.1
     },
     {
       "indice": 11,
@@ -116,7 +146,10 @@
       "archivo": "011_AP1GczPIWz.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "CULTURAS DE LA AMERICA / INDIGENA MESOAMERICA / Y AMERICA CENTRAL / Wolfgang Haberland / FONDO DE CULTURA ECONÓMICA",
+      "titulo": "CULTURAS DE LA AMERICA INDIGENA MESOAMERICA Y AMERICA CENTRAL Wolfgang Haberland",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 12,
@@ -124,7 +157,10 @@
       "archivo": "012_AP1GczPv0E.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ARCHIVO DE LA NACION GENERAL / INTRODUCCION A LA PALEOGRAFIA / Feb Cones.e renes renes Le Proponez aztifulso en / Preven eusz tubs negme poner / loseste Wen Znezgr sportb / Bonz mies klasseziz 12 conseben / tery nohtamentos renz et to entamine catas / Cronow loo ongos delas tasd / Festos exbomz ons cotyss gr / gamz yuz H / no covered to / Amy oners verage mezgtes convangion 220 grobrogenes call accop emm 6 / Conveyz e / INFORMACION DE ARCHIVOS 12",
+      "titulo": "INTRODUCCION A LA PALEOGRAFIA",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 13,
@@ -132,7 +168,10 @@
       "archivo": "013_AP1GczNBrW.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "SOCIEDAD MEXICANA DE ANTROPOLOGIA / EL OCCIDENTE / DE MEXICO / Cuarta Reunión de Mesa Redonda sobre Problemas / Antropológicos de México y Centro América / MEXICO / 1948",
+      "titulo": "EL OCCIDENTE DE MEXICO",
+      "titulo_confianza": 97.4
     },
     {
       "indice": 14,
@@ -140,7 +179,10 @@
       "archivo": "014_AP1GczOTrA.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "FSilvanus Morley / LA CIVILIZACION / MAYA",
+      "titulo": "FSilvanus Morley LA CIVILIZACION MAYA",
+      "titulo_confianza": 95.8
     },
     {
       "indice": 15,
@@ -148,7 +190,10 @@
       "archivo": "015_AP1GczPdpJ.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "UNIVERSIDAD VERACRUZANA / FACULTAD DE ANTROPOLOGIA / UNIVERSIDAD / S / DE / VERALA ARTER CHATH / LA PRESENCIA TARASCA EN EL ESTADO DE / GUANAJUATO FLUCTUACION DE FRONTERA / T E S S / QUE PARA OBTENER EL TITULO DE / LICENCIADO EN ANTROPOLOGIA / CON ESPECIALIDAD EN ARQUEOLOGIA / P R E SE N T A / JOSE ANTONIO CONTRERAS RAMIREZ / XALAPA VER 1985",
+      "titulo": "VERALA ARTER CHATH",
+      "titulo_confianza": 87.3
     },
     {
       "indice": 16,
@@ -156,7 +201,10 @@
       "archivo": "016_AP1GczPSdJ.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "PALENQUE / 1926-1945 / Roberto García Moll / Compilador / ANTOLOGIAS / SERIE ARQUEOLOGIA",
+      "titulo": "PALENQUE",
+      "titulo_confianza": 98.1
     },
     {
       "indice": 17,
@@ -164,7 +212,10 @@
       "archivo": "017_AP1GczPSSN.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Fundamentos teóricos / de la restauración / Carlos Chanfón Olmos / 10 / 96 / FACULTAD DE ARQUITECTURA / UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO",
+      "titulo": "Carlos Chanfón Olmos",
+      "titulo_confianza": 97.6
     },
     {
       "indice": 18,
@@ -172,7 +223,10 @@
       "archivo": "018_AP1GczPzPI.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "11 If part comple / una 304600 / visita al CONIO / templo mayor / eduardo matos moctezuma / 60000 / A / 888 / C / Instituto Nacional de Antropologia e Historia",
+      "titulo": "templo mayor",
+      "titulo_confianza": 99.2
     },
     {
       "indice": 19,
@@ -180,7 +234,10 @@
       "archivo": "019_AP1GczMWGm.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Sep El Eduard historiador Meyer / y la Historia antigua",
+      "titulo": "Sep El Eduard historiador Meyer y la Historia antigua",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 20,
@@ -188,7 +245,10 @@
       "archivo": "020_AP1GczNq3L.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "EFREN NUÑEZ MATA / J / MEXICO / enla / HISTORIA / EDICIONES BOTAS MEXICO",
+      "titulo": "HISTORIA",
+      "titulo_confianza": 93.0
     },
     {
       "indice": 21,
@@ -196,7 +256,10 @@
       "archivo": "021_AP1GczMTXg.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ESCUELA NACIONAL DE ANTROPOLOGIA E HISTORIA / I. N. A. H. S. E. P. / NACIONAL DE ANTROPOLOGIA / INSTITUTO HISTORIA / 03 SEP / EL ARTE RUPESTRE EN MEXICO / TESIS PROFESIONAL / QUE PARA OPTAR POR EL TITULO DE / LICENCIADO EN ARQUEOLOGIA / PR RESEN T A / DANIEL JUAN VALENCIA CRUZ / DIRECTOR DE TESIS ARQLGO JOAQUIN GARCIA BARCENA / MEXICO D. F. / 1992",
+      "titulo": "NACIONAL DE ANTROPOLOGIA",
+      "titulo_confianza": 80.3
     },
     {
       "indice": 22,
@@ -204,7 +267,10 @@
       "archivo": "022_AP1GczNZRW.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ESCUELA NACIONAL DE ANTROPOLOGIA E HISTORIA / S. E. P. / I. N. A. H. / Los concheros del puerto de Salagua / Playa del Tesoro / TOMO 1 / QUE PARA OBTENER EL TITULO DE / LICENCIADO EN ARQUEOLOGIA / PRESENTA / JOSE CARLOS BELTRAN MEDINA / DIRECTOR DE TESIS MTRO OTTO SCHONDUBE / MEXICO D. F. AÑO 1991",
+      "titulo": "Los concheros del puerto de Salagua Playa del Tesoro",
+      "titulo_confianza": 99.1
     },
     {
       "indice": 23,
@@ -212,7 +278,10 @@
       "archivo": "023_AP1GczMnTO.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "HISTORIA DE LA ERNESTO VILLAR TORRE / DOCUMENTAL GONZALEZ NAVARRO MOISES / DE MEXICO STANLEY TOMO ROSS 11 / Naciendas com 12 sirvientes an / distincion oc castas que quedan aboh- / das I pasa que todo tonga su puntual / y Devido complimiento mando a C Los In / tendenter 9 wit specesa / xias / m / Secreta / instruc / en / esta / Sinco / ve Octave it Ochocumos trece / Jose Ma / Moxclos / 55 HMINIVERSIDAD INSTITUTO UNIVERSIDAD DE NACIONAL NACIONAL INVESTIGACIONES AUTONOMA HISTORICAS DE MEXICO",
+      "titulo": "distincion oc castas que quedan aboh- das I pasa que todo tonga su puntual",
+      "titulo_confianza": 79.8
     },
     {
       "indice": 24,
@@ -220,7 +289,10 @@
       "archivo": "024_AP1GczOEno.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Antropología Social / Ya hnini ya jä'itho Maxei / Los pueblos indios / de Querétaro / Diego Prieto Hernández / Beatriz Utrilla Sarmiento / Coordinadores",
+      "titulo": "Antropología Social Ya hnini ya jä'itho Maxei Los pueblos indios de Querétaro",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 25,
@@ -228,7 +300,10 @@
       "archivo": "025_AP1GczN8LN.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ANALISIS DE LAS / ESTRUCTURAS / TERRITORIALES / UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO / Escuela Nacional de Economía / DEPARTAMENTO DE DIFUSION 1978",
+      "titulo": "ANALISIS DE LAS ESTRUCTURAS TERRITORIALES",
+      "titulo_confianza": 98.5
     }
   ],
   "rotacion_album": 0,

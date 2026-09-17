@@ -36,7 +36,10 @@
       "archivo": "001_AP1GczPdVm.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "REVISTA MEXICANA / DE ESTUDIOS ANTROPOLOGICOS / TOMO XXXVIII 1992 ARQUEOLÓGICO OSTEOLOGÍA / SALVAMENTO ARQUEOLOGÍA",
+      "titulo": "SALVAMENTO ARQUEOLOGÍA",
+      "titulo_confianza": 97.4
     },
     {
       "indice": 2,
@@ -44,7 +47,10 @@
       "archivo": "002_AP1GczMUTd.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Nueva 19 / Antropología / REVISTA DE CIENCIAS SOCIALES / LOS MERCADOS EN EL CONTEXTO / URBANO Y RURAL / Sistemas de mercado interno como mecanismos de articulación social / SIDNEY MINTZ El estudio económico de los sistemas de merca- / deo modelos de la geografía económica CAROL A. SMITH Un / carnero por un saco de papas aspectos del trueque en la zona de Chaupi- / waranga Pasco ENRIQUE MAYER Productos agrícolas y el / tianguis en Ciudad Guzmán Jal VERONICA VEERKAMP EI / proceso de diferenciación social y económica entre los comerciantes de / un mercado municipal urbano SILVIA LAISON Y JOSEFINA / ARANDA Consumo y cooperación doméstica en los sectores popu- / lares de Guadalajara Jal PATRICIA ARIAS Bibliografía sobre / mercados con especial referencia a la comercialización de productos / agrícolas VERONICA VEERKAMP / DOCUMENTOS / Acerca de la medicina tradicional",
+      "titulo": "Nueva 19 Antropología",
+      "titulo_confianza": 97.3
     },
     {
       "indice": 3,
@@ -52,7 +58,10 @@
       "archivo": "003_AP1GczOrdm.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ISSN 0185-0636 / Nueva / Antropología 29 / REVISTA DE CIENCIAS SOCIALES / ANTROPOLOGIA Y CLASE OBRERA / FRANCISCO ZAPATA Hacia una sociología del trabajo / latinoamericano RAUL NIETO CALLEJA El oficio de / zapatero antecedentes y tendencias EDUARDO L. / MENENDEZ Modelo médico salud obrera y estrategias / de acción del sector salud VICTORIA NOVELO et al / Propuestas para el estudio de la cultura obrera / ENRIQUE DE LA GARZA et al La investigación sobre / la base obrera en México un balance preliminar / ELLA FANNY QUINTAL Sindicato empresa y familia / los espacios de la reproducción de la fuerza de / trabajo petrolera DOCUMENTOS RESEÑAS / BIBLIOGRAFICAS",
+      "titulo": "Antropología 29",
+      "titulo_confianza": 97.2
     },
     {
       "indice": 4,
@@ -60,7 +69,10 @@
       "archivo": "004_AP1GczMIwN.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ISSN 0185-0636 / Nueva 28 / Antropología / REVISTA DE CIENCIAS SOCIALES / ANTROPOLOGIA MEDICA / EDUARDO L. MENENDEZ Aproximación crítica al des- / arrollo de la antropología médica en América Latina / ALBERTO YSUNZA OGAZON Polarización alimentaria / y nutricional de México INGRID ROSENBLUETH / Envejecimiento salud y enfermedad patrones diferen- / ciales LUIS YARZABAL La tortura como enfermedad / endémica en América Latina sus características en / Uruguay RAUL MIRANDA O. y MAURICIO ORTEGA / G. Economía y oncocercosis en la región cafetalera del / Soconusco Chiapas SAUL FRANCO La apoteósis del / DDT y el problema de la erradicación del paludismo en / América Latina JEANNETTE ULATE J. y BENNO DE / KEIJZER Sistemas de salud y participación popular / los casos de Nicaragua y México / DECIMO ANIVERSARIO",
+      "titulo": "Nueva 28 Antropología",
+      "titulo_confianza": 96.1
     },
     {
       "indice": 5,
@@ -68,7 +80,10 @@
       "archivo": "005_AP1GczPhAP.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "REVISTA MEXICANA / DE ESTUDIOS ANTROPOLOGICOS / TOMO XXXVI 1990",
+      "titulo": "REVISTA MEXICANA DE ESTUDIOS ANTROPOLOGICOS",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 6,
@@ -76,7 +91,10 @@
       "archivo": "006_AP1GczMxUA.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "REVISTA MEXICANA / DE ESTUDIOS ANTROPOLOGICOS / TOMO XXXIX 1993 FÍSICA CONSERVACIÓN LINGÜÍSTICA ESTUDIOS / ANTROPOLOGÍA SOBRE MUSEOGRAFÍA LA MUJER Y",
+      "titulo": "REVISTA MEXICANA DE ESTUDIOS ANTROPOLOGICOS",
+      "titulo_confianza": 97.5
     },
     {
       "indice": 7,
@@ -84,7 +102,10 @@
       "archivo": "007_AP1GczMS7v.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "CARMEN AGUILERA / EL ARTE OFICIAL TENOCHCA / SU SIGNIFICACION SOCIAL / COS / INTAN / COD / naki en Asligno / Quanto mes / UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO",
+      "titulo": "EL ARTE OFICIAL TENOCHCA SU SIGNIFICACION SOCIAL",
+      "titulo_confianza": 98.4
     },
     {
       "indice": 8,
@@ -92,7 +113,10 @@
       "archivo": "008_AP1GczPNrg.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ANTROPOLOGÍA / HISTORIA / UD / 229 / ar 000 / PATRIMONIO Y SOCIEDAD",
+      "titulo": "ANTROPOLOGÍA HISTORIA",
+      "titulo_confianza": 96.0
     },
     {
       "indice": 9,
@@ -100,7 +124,10 @@
       "archivo": "009_AP1GczNl5Z.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "cultura y creación / intelectual / en américa latina / pablo gonzález casanova / coord / kinhide mushakoji anouar abdel malek / jorge graciarena carlos monsiváis / julio le riverend locksley edmondson / jean casimir luis cardoza y aragón / marcos kaplan celso furtado / mario benedetti guillermo bonfil batalla / theotonio dos santos manuel maldonado- / denis gabriel garcia márquez / germán carrera damas j leite lopes / hugo zemelman leopoldo zea / emilio de ipola francisco miró quesada / rené zavaleta mercado / rodolfo stavenhagen roberto fernández / retamar ariel dorfman / jean léopold dominique / division coediciones veintiuno editores siglo INSTITUTO DE INVESTIGACIONES SOCIALES DE LA UNAM / UNIVERSIDAD DE LAS NACIONES UNIDAS",
+      "titulo": "cultura y creación intelectual en américa latina pablo gonzález casanova",
+      "titulo_confianza": 98.2
     },
     {
       "indice": 10,
@@ -108,7 +135,10 @@
       "archivo": "010_AP1GczNot9.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "MARÍA CONCEPCIÓN AMERLINCK / LAS CATEDRALES DE SANTIAGO / DE LOS CABALLEROS DE GUATEMALA / A / UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO",
+      "titulo": "LAS CATEDRALES DE SANTIAGO DE LOS CABALLEROS DE GUATEMALA",
+      "titulo_confianza": 97.0
     },
     {
       "indice": 11,
@@ -116,7 +146,10 @@
       "archivo": "011_AP1GczOOuo.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LA sti / PIRAMIDE DE / UICUILCO / Daniel Schavelzon / ALBUM FOTOGRAFICO 1922-1980",
+      "titulo": "UICUILCO Daniel Schavelzon",
+      "titulo_confianza": 92.6
     },
     {
       "indice": 12,
@@ -124,7 +157,10 @@
       "archivo": "012_AP1GczNYxy.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "sto e M C REIMPRESIÓN / 1995 / José María Muriá / Breve historia / de Jalisco / Fideicomiso Historia de las Américas / Serie Breves Historias de los Estados de la República Mexicana",
+      "titulo": "José María Muriá Breve historia de Jalisco",
+      "titulo_confianza": 97.6
     },
     {
       "indice": 13,
@@ -132,7 +168,10 @@
       "archivo": "013_AP1GczOVYm.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ABRAM KARDINER / EL INDIVIDUO / Y SU SOCIEDAD / sto",
+      "titulo": "ABRAM KARDINER EL INDIVIDUO Y SU SOCIEDAD sto",
+      "titulo_confianza": 97.3
     },
     {
       "indice": 14,
@@ -140,7 +179,10 @@
       "archivo": "014_AP1GczO-ER.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "DESCRIPCION / DE / LA NUEVA ESPAÑA / EN EL SIGLO XVII / POR EL / PADRE FRAY ANTONIO VAZQUEZ DE ESPINOSA / Y / OTROS DOCUMENTOS DEL SIGLO XVII / FOLIA / INTER TRYCT / EDITORIAL PATRIA S. A. / AVENIDA URUGUAY 25 / MEXICO D. F. / 1944",
+      "titulo": "LA NUEVA ESPAÑA",
+      "titulo_confianza": 96.1
     },
     {
       "indice": 15,
@@ -148,7 +190,10 @@
       "archivo": "015_AP1GczPfse.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "TIERKA Y ERTAD / DICCIONARIO / HISTÓRICO Y BIOGRÁFICO / DE LA / REVOLUCIÓN MEXICANA / TOMO / 0 / IV / JALISCO MORELO MORELOS / MICHOACAN NAYARIT / INSTITUTO NACIONAL DE ESTUDIOS HISTÓRICOS / DE LA REVOLUCIÓN MEXICAN / o / 000",
+      "titulo": "TIERKA Y ERTAD",
+      "titulo_confianza": 77.8
     },
     {
       "indice": 16,
@@ -156,7 +201,10 @@
       "archivo": "016_AP1GczOUWK.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "UNIVERSIDAD NACIONAL AUTONOMA B MEXICO / SPIRITV POR MI RAZA AL UNIVERSIDAD ESCUELA NACIONAL NACIONAL DE AUTONOMA TRABAJO SOCIAL DE MEXICO / EL RESCATE DE LA CULTURA / EN LOS MUSEOS COMUNITARIOS / HACIA UN TRABAJO SOCIAL ALTERNATIVO / TESIS PROFESIONAL / RODRIGUEZ RAMOS FRANCISCO / MEXICO D. F. ABRIL 1990",
+      "titulo": "SPIRITV POR MI RAZA AL UNIVERSIDAD ESCUELA NACIONAL NACIONAL DE AUTONOMA TRABAJO SOCIAL DE MEXICO",
+      "titulo_confianza": 97.3
     },
     {
       "indice": 17,
@@ -164,7 +212,10 @@
       "archivo": "017_AP1GczPJ_a.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "EL HOMBRE / DESNUDO / P. DELVAUX / MITOLOGICAS IV / siglo / veintiuno CLAUDE / editores LEVI STRAUSS / sa",
+      "titulo": "EL HOMBRE DESNUDO",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 18,
@@ -172,7 +223,10 @@
       "archivo": "018_AP1GczNAt3.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "TLALOCAN / Revista de Fuentes para el Conocimiento / de las Culturas Indígenas de México / Volumen VII 1977 / na / INSTITUTO DE INVESTIGACIONES HISTORICAS / INSTITUTO DE INVESTIGACIONES ANTROPOLOGICAS / UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO",
+      "titulo": "TLALOCAN",
+      "titulo_confianza": 97.3
     },
     {
       "indice": 19,
@@ -180,7 +234,10 @@
       "archivo": "019_AP1GczMTjj.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Cien años de Congresos / Internacionales / de Americanistas / Juan Comas / INSTITUTO DE INVESTIGACIONES HISTORICAS / AM INSTITUTO DE INVESTIGACIONES ANTROPOLOGICAS",
+      "titulo": "Cien años de Congresos Internacionales de Americanistas Juan Comas",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 20,
@@ -188,7 +245,10 @@
       "archivo": "020_AP1GczNcqW.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Bienes estratégicos / del antiguo occidente de México / Eduardo Williams / Editor / El Colegio de Michoacán",
+      "titulo": "Bienes estratégicos",
+      "titulo_confianza": 98.5
     },
     {
       "indice": 21,
@@ -196,7 +256,10 @@
       "archivo": "021_AP1GczOJa7.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "sp Benjamin Keen / La imagen azteca",
+      "titulo": "sp Benjamin Keen La imagen azteca",
+      "titulo_confianza": 97.8
     },
     {
       "indice": 22,
@@ -204,7 +267,10 @@
       "archivo": "022_AP1GczN12E.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "México / en la cultura / médica / Ignacio Chávez / Biblioteca de la Salud / INSTITUTO NACIONAL COFONDO DE CULTURA / DE SALUD PUBLICAE",
+      "titulo": "México",
+      "titulo_confianza": 89.9
     },
     {
       "indice": 23,
@@ -212,7 +278,10 @@
       "archivo": "023_AP1GczME7m.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Cinco Miradas / MEMORIA / Primer Encuentro de / Estudios Queretanos / Balance y perspectivas / HISTORIA ARQUITECTURA URBANISMO HISTORIA DEL ARTE / ANTROPOLOGIA PSICOLOGÍA CIENCIAS POLÍTICAS Y SOCIALES",
+      "titulo": "Cinco Miradas",
+      "titulo_confianza": 97.5
     },
     {
       "indice": 24,
@@ -220,7 +289,10 @@
       "archivo": "024_AP1GczM42_.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "escuela de artesanía / ARTESANÍA / EN PIEL / CUERO ARTESANO / QUORUM",
+      "titulo": "ARTESANÍA EN PIEL",
+      "titulo_confianza": 95.2
     },
     {
       "indice": 25,
@@ -228,7 +300,10 @@
       "archivo": "025_AP1GczPoTX.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Arqueología e historia del Centro de México / Homenaje a Eduardo Matos Moctezuma / Leonardo López Luján David Carrasco y Lourdes Cué Coordinadores / Instituto Nacional / de Antropología e Historia",
+      "titulo": "Arqueología e historia del Centro de México Homenaje a Eduardo Matos Moctezuma",
+      "titulo_confianza": 98.6
     }
   ],
   "rotacion_album": 0,
