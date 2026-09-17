@@ -1,4 +1,7 @@
-"""Prueba suelta: confirma que GOOGLE_VISION_API_KEY funciona.
+"""Archivado: prueba suelta para confirmar que GOOGLE_VISION_API_KEY funciona.
+No es parte del pipeline; se conserva como referencia. Para volver a
+correrlo, copiar a la raiz del proyecto (asume RAIZ = carpeta del proyecto,
+con .env y rotadas/ junto a el).
 
 Uso:
     python3 probar_vision.py [ruta_imagen]
