@@ -1,4 +1,7 @@
-"""Compara el motor Tesseract (ya en el manifest) contra Google Vision.
+"""Archivado: comparacion puntual Tesseract vs Google Vision, ya resuelta a
+favor de Vision (ver --motor vision en src/main.py). No es parte del pipeline;
+se conserva como referencia. Para volver a correrlo, copiar a la raiz del
+proyecto (usa `import config` con ruta relativa).
 
 Uso:
     python3 comparar_vision.py [carpeta]      # por defecto: inventario-caja-1

@@ -1,3 +1,10 @@
+// Archivado: prototipo original en Google Apps Script (Sheets + Drive) para
+// registrar pinturas/libros a mano con OCR de Vision. Superado por completo
+// por el pipeline en src/ (descarga desde Google Photos + Supabase). Se
+// conserva solo como referencia historica; no se ejecuta desde este repo.
+//
+// ADVERTENCIA: contiene una API key de Google Vision embebida en texto plano.
+// Si esa key sigue activa, revocarla o rotarla en Google Cloud Console.
 const VISION_API_KEY = 'AIzaSyCiBdtY0d-plSPz9xwaIsXcnSpTh8X3dOs';
 const FOLDER_ID = "16aKGCr8pAeHKeP2Gs8xj6NvA_RmhPajp";
 
