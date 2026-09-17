@@ -37,7 +37,10 @@
       "archivo": "001_AP1GczMvBC.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "XXII MESA DE / ANTROPOLOGIA",
+      "titulo": "XXII MESA DE ANTROPOLOGIA",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 2,
@@ -45,7 +48,10 @@
       "archivo": "002_AP1GczPHpS.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Historias de los territorios / Ragdo Sabiel / mariapm / de cuatro comunidades del / Valle de Etla / 720 / Oaxaca a través de las / pis / Memorias siglos XVI de al Linderos XVIII R GRAD / COVE dregolong men / Susana Gómez Serafín / m.lv Cal / pulobin tillacas pilobia porcjel / Jarum Cork to Cazaqu / Gemolina / primers / Loreca coque Gillains / Xonosique in palao 8 3e.jasc 8e jas / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA / 75 ANIVERSARIO",
+      "titulo": "Valle de Etla",
+      "titulo_confianza": 95.5
     },
     {
       "indice": 3,
@@ -53,7 +59,10 @@
       "archivo": "003_AP1GczOYFM.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Coordinadores / Ricardo Contreras Soto / Diana del Consuelo Caldera González / GRUPOS INDÍGENAS Y PROCESOS SOCIALES / EN LA REGIÓN DEL BAJÍO EN GUANAJUATO / Historia oral migración interna y división étnica técnica de trabajo / UNIVERSIDAD / DE GUANAJUATO",
+      "titulo": "Coordinadores Ricardo Contreras Soto Diana del Consuelo Caldera González",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 4,
@@ -61,7 +70,10 @@
       "archivo": "004_AP1GczOXBX.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "APASEO EL ALTO / UNA HISTORIA CON FUTURO / A / Francisco Sauza Vega",
+      "titulo": "APASEO EL ALTO",
+      "titulo_confianza": 99.1
     },
     {
       "indice": 5,
@@ -69,7 +81,10 @@
       "archivo": "005_AP1GczOpYY.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "JOSE LUIS MELGAREJO / ANTIGUA / HISTORIA DE / MEXICO / TOMO I / DOCUMENTOS / SEP",
+      "titulo": "DOCUMENTOS",
+      "titulo_confianza": 99.0
     },
     {
       "indice": 6,
@@ -77,7 +92,10 @@
       "archivo": "006_AP1GczOym8.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "GEOGRAFIA POLITICA / DE CAMPECHE / EN EL SIGLO XVI / Antonio Benavides C. / Lorena Mirambell / Coordinadora / ANTOLOGIAS / SERIE HISTORIA",
+      "titulo": "GEOGRAFIA POLITICA DE CAMPECHE EN EL SIGLO XVI",
+      "titulo_confianza": 98.0
     },
     {
       "indice": 7,
@@ -85,7 +103,10 @@
       "archivo": "007_AP1GczOsbJ.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LA PROPIEDAD / TERRITORIAL / EN MEXICO 1810 / XXI guadalupe rivero / siglo / veintiuno editores marín de iturbe",
+      "titulo": "LA PROPIEDAD TERRITORIAL EN MEXICO 1810",
+      "titulo_confianza": 95.8
     },
     {
       "indice": 8,
@@ -93,7 +114,10 @@
       "archivo": "008_AP1GczM-In.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ARQUEOLOGIA / DE SAN LUIS POTOSI / Patricio Dávila Cabrera / Diana Zaragoza Ocaña / Compiladores / Lorena Mirambell / Coordinadora / ANTOLOGIAS / SERIE ARQUEOLOGIA",
+      "titulo": "ARQUEOLOGIA DE SAN LUIS POTOSI",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 9,
@@ -101,7 +125,10 @@
       "archivo": "009_AP1GczO1io.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "HIDROLOGÍA HUMANA EN LA REGIÓN / NORTE DE LOS LAGOS DE LA CUENCA / DE MÉXICO / Época prehispánica colonial y actual / MARÍA DE LA ASUNCIÓN GARCÍA SAMPER / HÉCTOR MIGUEL ROBINSON FUENTES / 05/30/2013/11 49 / CENTRO DE ESTUDIOS MESOAMERICANOS A. C.",
+      "titulo": "HIDROLOGÍA HUMANA EN LA REGIÓN NORTE DE LOS LAGOS DE LA CUENCA DE MÉXICO Época prehispánica colonial y actual",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 10,
@@ -109,7 +136,10 @@
       "archivo": "010_AP1GczNID2.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "El hombre y su tiempo 11 ERA / Enrique Semo / Historia / del capitalismo / en México / Los orígenes 1521/1763",
+      "titulo": "Historia del capitalismo en México",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 11,
@@ -117,7 +147,10 @@
       "archivo": "011_AP1GczPk9k.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "THE CONDITIONS OF / AGRICULTURAL GROWTH",
+      "titulo": "THE CONDITIONS OF AGRICULTURAL GROWTH",
+      "titulo_confianza": 99.2
     },
     {
       "indice": 12,
@@ -125,7 +158,10 @@
       "archivo": "012_AP1GczOauK.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LA AUDIENCIA DE / NUEVA GALICIA / EN EL SIGLO XVI / John H. Parry / NOVA HISPANIA / ET / NOVA GALICIA / EL COLEGIO DE MICHOACÁN / FIDEICOMISO TEIXIDOR",
+      "titulo": "LA AUDIENCIA DE NUEVA GALICIA EN EL SIGLO XVI",
+      "titulo_confianza": 98.7
     },
     {
       "indice": 13,
@@ -133,7 +169,10 @@
       "archivo": "013_AP1GczOmfh.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Óscar Moisés Torres Montúfar / Los señores del oro / D Producción circulación y consumo DE / de oro entre los mexicas / lo / E / DE / DE / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA / DE",
+      "titulo": "Los señores del oro",
+      "titulo_confianza": 97.8
     },
     {
       "indice": 14,
@@ -141,7 +180,10 @@
       "archivo": "014_AP1GczO0qC.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ESPACIOS SAGRADOS / ESPACIOS PROFANOS / CUEVAS MAYAS DEL CENTRO ORIENTE DE YUCATÁN / LUIS ALBERTO MARTOS LÓPEZ / INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA",
+      "titulo": "ESPACIOS SAGRADOS",
+      "titulo_confianza": 96.0
     },
     {
       "indice": 15,
@@ -149,7 +191,10 @@
       "archivo": "015_AP1GczPKCu.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Los NOVENTA / Los / ausentes / El proceso social de la / migración internacional / en el occidente de México / Douglas S. Massey Rafael Alarcón / Jorge Durand y / Humberto González / para Consejo la Nacional AlianzA / EDITORIAL / Cultura y las Artes",
+      "titulo": "Los",
+      "titulo_confianza": 62.6
     },
     {
       "indice": 16,
@@ -157,7 +202,10 @@
       "archivo": "016_AP1GczOEB3.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "BASILIO VERDUZCO CHÁVEZ / NORA L. BRINGAS RÁBAGO M BASILIA VALENZUELA VARELA / La ciudad compartida / Desarrollo urbano comercio y turismo / en la región Tijuana San Diego / UNIVERSIDAD DE GUADALAJARA / EL COLEGIO DE LA FRONTERA NORT",
+      "titulo": "La ciudad compartida",
+      "titulo_confianza": 98.2
     },
     {
       "indice": 17,
@@ -165,7 +213,10 @@
       "archivo": "017_AP1GczPUn9.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Coordinadores / Ricardo Contreras Soto / Diana del Consuelo Caldera González / GRUPOS INDÍGENAS Y PROCESOS SOCIALES / EN LA REGIÓN DEL BAJÍO EN GUANAJUATO / Vida cotidiana estructura familiar valores religión vida / festiva discriminación y propuestas de mejora / UNIVERSIDAD / DE GUANAJUATO / ALWAYS LEARNING / PEARSON",
+      "titulo": "Coordinadores Ricardo Contreras Soto Diana del Consuelo Caldera González",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 18,
@@ -173,7 +224,10 @@
       "archivo": "018_AP1GczOcYz.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Rediseñando el / futuro / retos que exigen / nuevas respuestas / Nadia Exello Peón / compiladora / Memorias de la IV Convención Internacional / de Trabajo Social / PLAZA Y VALDES / PYV / Universidad Nacional Escuela Nacional EDITORES / Autónoma de México / de Trabajo Social",
+      "titulo": "futuro",
+      "titulo_confianza": 72.0
     },
     {
       "indice": 19,
@@ -181,7 +235,10 @@
       "archivo": "019_AP1GczPWjj.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Carl G. Hengel / Filosofía de la Ciencia Natural / efsidad",
+      "titulo": "Carl G. Hengel Filosofía de la Ciencia Natural",
+      "titulo_confianza": 87.0
     },
     {
       "indice": 20,
@@ -189,7 +246,10 @@
       "archivo": "020_AP1GczOy_F.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "PERO VAS A ESTAR MUY TRISTE / Y ASÍ TE VAS A QUEDAR / ANNA MARÍA FERNÁNDEZ PONCELA / COLECCIÓN DIVULGACIÓN",
+      "titulo": "PERO VAS A ESTAR MUY TRISTE Y ASÍ TE VAS A QUEDAR",
+      "titulo_confianza": 97.9
     },
     {
       "indice": 21,
@@ -197,7 +257,10 @@
       "archivo": "021_AP1GczMpb6.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "COLECCIÓN / DIVULGACIÓN / Vida y muerte / en el / Templo Mayor / Eduardo Matos Moctezuma",
+      "titulo": "Vida y muerte en el Templo Mayor",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 22,
@@ -205,7 +268,10 @@
       "archivo": "022_AP1GczNr3W.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "COLECCION / DIVULGACION / ARQUEOLOGIA / La arqueología / oficial mexicana / Causas y efectos / Manuel Gándara",
+      "titulo": "ARQUEOLOGIA",
+      "titulo_confianza": 78.8
     },
     {
       "indice": 23,
@@ -213,7 +279,10 @@
       "archivo": "023_AP1GczNKkj.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "COLECCION / DIVULGACION / Metamorfosis de lo sagrado / y de lo profano / Narrativa náhuat de la Sierra Norte de Puebla / Enzo Segre",
+      "titulo": "Metamorfosis de lo sagrado y de lo profano",
+      "titulo_confianza": 98.9
     },
     {
       "indice": 24,
@@ -221,7 +290,10 @@
       "archivo": "024_AP1GczMdbA.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ECONOMIA KLITICA / E IDEOLOGIA / EN EL MICO / PREHISPANICO / PEDRO CARRASCO / JOHANNA BRODA ED / CENTRO DE INVESTIGACIONES SUPERIORES DEL INAH / EDITORIAL NUEVA IMAGEN",
+      "titulo": "PREHISPANICO",
+      "titulo_confianza": 83.2
     },
     {
       "indice": 25,
@@ -229,7 +301,10 @@
       "archivo": "025_AP1GczNEj3.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "EL OTRO SIGNIFICADO / DE UN MONUMENTO HISTÓRICO / PEDRO PAZ ARELLANO / COLECCIÓN DIVULGACIÓN",
+      "titulo": "EL OTRO SIGNIFICADO DE UN MONUMENTO HISTÓRICO",
+      "titulo_confianza": 96.0
     },
     {
       "indice": 26,
@@ -237,7 +312,10 @@
       "archivo": "026_AP1GczO0Fk.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LESLEY / BYRD SIMPSON / 68 / SOCIEDAD / CIENCIA / HISTORIA / los conquistadores / y el indio / americano",
+      "titulo": "LESLEY BYRD SIMPSON",
+      "titulo_confianza": 99.2
     }
   ],
   "rotacion_album": 0,

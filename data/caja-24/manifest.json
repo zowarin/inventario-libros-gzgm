@@ -36,7 +36,10 @@
       "archivo": "001_AP1GczPfmc.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "MESOAMERICA / TIGACIONES / INVE DE LECIONALES / CENTRO YOUNG CIRMA WORKS DE Publicación de Mesoamérica del Centro y Plumsock de Investigaciones Mesoamerican Regionales Studies 33 / NÚMERO ESPECIAL / Aspectos étnicos y religiosos",
+      "titulo": "MESOAMERICA",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 2,
@@ -44,7 +47,10 @@
       "archivo": "002_AP1GczMfhw.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Cinco Miradas / MEMORIA / Primer Encuentro de / Estudios Queretanos / Balance y perspectivas / HISTORIA ARQUITECTURA URBANISMO HISTORIA DEL ARTE / ANTROPOLOGIA PSICOLOGIA CIENCIAS POLÍTICAS Y SOCIALES",
+      "titulo": "Cinco Miradas",
+      "titulo_confianza": 93.8
     },
     {
       "indice": 3,
@@ -52,7 +58,10 @@
       "archivo": "003_AP1GczN3VP.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "h / SOCIALES / 970-18-6919-2 VIVERDAD AVINMA SSVERSIDAD NACIONAL DE NACIONAL MEXICO MEK INSTITUTO DE TUTO CIENCIAS UAP HUMANIDADES / ACONACULTA INAH / ISBN ESCUELA NACIONAL DE ANTROPOLOGÍA E HISTORIA",
+      "titulo": "SOCIALES",
+      "titulo_confianza": 86.0
     },
     {
       "indice": 4,
@@ -60,7 +69,10 @@
       "archivo": "004_AP1GczOPvl.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "EDITORES MEXICANOS UNIDOS / ALFREDO / ZITARROSA / y sus canciones",
+      "titulo": "ZITARROSA",
+      "titulo_confianza": 98.2
     },
     {
       "indice": 5,
@@ -68,7 +80,10 @@
       "archivo": "005_AP1GczNN7f.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Breve bosquejo / histórico descriptivo / de la ciudad de / ACAPONETA / y de los pueblos y lugares circunvecinos / del norte del Estado de Nayarit / CA NESTOR CHAVEZ GRADILLA",
+      "titulo": "Breve bosquejo histórico descriptivo de la ciudad de ACAPONETA",
+      "titulo_confianza": 98.5
     },
     {
       "indice": 6,
@@ -76,7 +91,10 @@
       "archivo": "006_AP1GczPkVC.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "DEPARTAMENTO DE PREHISTORIA / Richard S. MacNeish / El origen de la civilización / mesoamericana visto desde / Tehuacán / INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA / MEXICO 1964",
+      "titulo": "DEPARTAMENTO DE PREHISTORIA",
+      "titulo_confianza": 98.6
     },
     {
       "indice": 7,
@@ -84,7 +102,10 @@
       "archivo": "007_AP1GczPk6j.jpg",
       "descargado": true,
       "rotacion": 270,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "AMÉRICA / TIERRA DE MONTAÑAS / Y VOLCANES -I / Huellas de / La arqueologia / Coordinadores / Margarita Loera Chávez y Peniche / Stanislaw Iwaniszewski / Ricardo Cabrera / INVESTIGACIÓN PROA",
+      "titulo": "AMÉRICA",
+      "titulo_confianza": 91.6
     },
     {
       "indice": 8,
@@ -92,7 +113,10 @@
       "archivo": "008_AP1GczO6Yb.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Fe Susana Glantz / compiladora / LA HETERODOXIA / RECUPERADA / EN TORNO A ANGEL PALERM",
+      "titulo": "LA HETERODOXIA RECUPERADA",
+      "titulo_confianza": 98.1
     },
     {
       "indice": 9,
@@ -100,7 +124,10 @@
       "archivo": "009_AP1GczMOV6.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LAS CUENCAS / DEL OCCIDENTE DE MÉXICO / ÉPOCA PREHISPÁNICA / Eduardo Williams y Phil C. Weigand / editores / ORSTOM / EL COLEGIO DE MICHOACÁN / CEMCA",
+      "titulo": "LAS CUENCAS DEL OCCIDENTE DE MÉXICO",
+      "titulo_confianza": 98.7
     },
     {
       "indice": 10,
@@ -108,7 +135,10 @@
       "archivo": "010_AP1GczOYp3.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ACROSS THE / CHICHIMEC SEA / PAPERS IN HONOR OF / J. CHARLES KELLEY / Edited by Carroll L. Riley and / Basil C. Hedrick",
+      "titulo": "ACROSS THE CHICHIMEC SEA",
+      "titulo_confianza": 97.8
     },
     {
       "indice": 11,
@@ -116,7 +146,10 @@
       "archivo": "011_AP1GczO0Wo.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Studies in Archeology / The Early / Mesoamerican Village / Edited by Kent V. Flannery",
+      "titulo": "The Early Mesoamerican Village",
+      "titulo_confianza": 98.8
     },
     {
       "indice": 12,
@@ -124,7 +157,10 @@
       "archivo": "012_AP1GczMO_N.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "PREHISTORIC / MESOAMERICA / REVISED EDITION / By Richard E. W. Adams",
+      "titulo": "PREHISTORIC MESOAMERICA",
+      "titulo_confianza": 98.4
     },
     {
       "indice": 13,
@@ -132,7 +168,10 @@
       "archivo": "013_AP1GczOfPu.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "MESOAMERICA / de Publicación Mesoamérica del Centro y Plumsock de Investigaciones Mesoamerican Regionales Studies 35 / NÚMERO ESPECIAL / Estudios Kaqchikeles / In memoriam William R. Swezey",
+      "titulo": "MESOAMERICA",
+      "titulo_confianza": 98.5
     },
     {
       "indice": 14,
@@ -140,7 +179,10 @@
       "archivo": "014_AP1GczP44G.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ISSN 0252 841X / boletín de / antropología / americana / BOLETIN DE / ANTA OGIA AMERICANA / 6 diciembre 1982 instituto panamericano de geografía e historia",
+      "titulo": "antropología americana",
+      "titulo_confianza": 95.6
     },
     {
       "indice": 15,
@@ -148,7 +190,10 @@
       "archivo": "015_AP1GczNMXY.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Tópicos / de antropología / económica / ADVE 16741 / Samuel L. Villela F. / COLECCIÓN CIENTÍFICA",
+      "titulo": "Tópicos de antropología económica",
+      "titulo_confianza": 97.1
     },
     {
       "indice": 16,
@@ -156,7 +201,10 @@
       "archivo": "016_AP1GczP2om.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "ISSN 0252 841X / boletín de / antropología / americana / BOLETIN DE / 13.924 / Vli ANTROPOLOGIA AMERICANA / 8 diciembre 1983 Instituto panamericano de geografia e historia",
+      "titulo": "antropología americana",
+      "titulo_confianza": 97.6
     },
     {
       "indice": 17,
@@ -164,7 +212,10 @@
       "archivo": "017_AP1GczMSH8.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LVIS MAC GREGOR / ACTOPAN / Instituto Nacional de Antropología e Historia",
+      "titulo": "ACTOPAN",
+      "titulo_confianza": 98.4
     },
     {
       "indice": 18,
@@ -172,7 +223,10 @@
       "archivo": "018_AP1GczMNGz.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "709 12.11 0.245 / 4881 24.11 / X2 / S EXY Felipe Montemayor García 0.709 / FORMULAS DE ESTADISTICA / PARA INVESTIGADORES / E 3 Y / T 5.67 45.33 N ESTADISTICA DESCRIPTIVA INFERENCIAL / 60L / +7 15 8709 substituyendo 1-0.4 NO PARAMETRICA N Y MUESTREO oa / 4.50 que 2 / T461 5 / el el / S / en EZ COLECCION / I CIENTIFICA / Manuales / 2",
+      "titulo": "FORMULAS DE ESTADISTICA PARA INVESTIGADORES E 3 Y",
+      "titulo_confianza": 98.3
     },
     {
       "indice": 19,
@@ -180,7 +234,10 @@
       "archivo": "019_AP1GczO-Rq.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LIBERTAD / 1610 / TRAN / TAS PA / FIESTA Y TRADICIÓN / EN SAN MIGUEL DE ALLENDE / MEMORIA DE DON FÉLIX LUNA / Beatriz Cervantes Jáuregui y Ana Maria Crespo / nuestra cultura",
+      "titulo": "FIESTA Y TRADICIÓN",
+      "titulo_confianza": 97.3
     },
     {
       "indice": 20,
@@ -188,7 +245,10 @@
       "archivo": "020_AP1GczOk3Z.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "341 A / LIBERTAD 32 / 1810 / TAS PP / FIESTA Y TRADICIÓN / EN SAN MIGUEL DE ALLENDE / MEMORIA DE DON FÉLIX LUNA / Beatriz Cervantes Jáuregui y Ana Maria Crespo / nuestra cultura",
+      "titulo": "FIESTA Y TRADICIÓN",
+      "titulo_confianza": 97.0
     },
     {
       "indice": 21,
@@ -196,7 +256,10 @@
       "archivo": "021_AP1GczNaju.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "LIBERTAD 32 / 1810 / TAS / FIESTA Y TRADICIÓN / EN SAN MIGUEL DE ALLENDE / MEMORIA DE DON FÉLIX LUNA / Beatriz Cervantes Jáuregui y Ana Maria Crespo / nuestra cultura",
+      "titulo": "FIESTA Y TRADICIÓN",
+      "titulo_confianza": 97.7
     },
     {
       "indice": 22,
@@ -204,7 +267,10 @@
       "archivo": "022_AP1GczM6iH.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "DESTINO / COMUN / los recolectores / y su flora / medicinal / PAUL HERSCH / MARTÍNEZ / COLECCIÓN / BIBLIOTECA DEL INAH",
+      "titulo": "DESTINO COMUN",
+      "titulo_confianza": 95.9
     },
     {
       "indice": 23,
@@ -212,7 +278,10 @@
       "archivo": "023_AP1GczOTzY.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "DESCRIPCIONES / ECONOMICAS / REGIONALES / DE NUEVA ESPAÑA / Provincias del Norte 1790-1814 / Nover APACHES / del / R COCOMARICORAS / YUMAS / PAP Sobay APACH / Tayn Mareko E / PIM S / nal GOLFO SOBAS / 9 / Cenales Naciones no de Sales DE Ru de Seetha SERIS ROVINCIA / California 7 Sand Buga CALIFORNIA GLAIMAS Super Bukes Provincia de ofimori Cofrans / O / La dire 4 MAR / ROXO / DE / de los Enfermer / COR / AL KEYNS / RAINIA / sep / inah",
+      "titulo": "DESCRIPCIONES ECONOMICAS REGIONALES DE NUEVA ESPAÑA",
+      "titulo_confianza": 98.4
     },
     {
       "indice": 24,
@@ -220,7 +289,10 @@
       "archivo": "024_AP1GczMkO9.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "María Guadalupe Rodríguez Gómez / Jalpa / y San Juan de los Otates / dos haciendas / en el Bajío colonial / wwwww / 40 / EL COLEGIO DEL BAJIO",
+      "titulo": "Jalpa y San Juan de los Otates",
+      "titulo_confianza": 95.1
     },
     {
       "indice": 25,
@@ -228,7 +300,10 @@
       "archivo": "025_AP1GczMYhL.jpg",
       "descargado": true,
       "rotacion": 0,
-      "rotacion_confianza": "alta"
+      "rotacion_confianza": "alta",
+      "texto_ocr": "Soledad González Montes / coordinadora / MUJERES Y / RELACIONES DE GÉNERO / EN LA ANTROPOLOGÍA / LATINOAMERICANA / EL COLEGIO DE MÉXICO",
+      "titulo": "MUJERES Y RELACIONES DE GÉNERO EN LA ANTROPOLOGÍA LATINOAMERICANA",
+      "titulo_confianza": 97.9
     }
   ],
   "rotacion_album": 0,
